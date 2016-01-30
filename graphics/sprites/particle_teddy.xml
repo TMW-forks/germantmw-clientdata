@@ -1,0 +1,116 @@
+<?xml version="1.0"?>
+<sprite name="player" action="stand">
+
+	<imageset name="base" src=      "graphics/sprites/particle_teddy.png" width=    "64" height=   "64"/>
+
+	<action name   =    "stand" imageset 	 = "base">
+		<animation direction="down">
+ 		  <frame index="0"  offsetX="0" offsetY ="0" delay="75" />
+ 		  <frame index="72" offsetX="0" offsetY ="0" delay="75" />
+ 		  <frame index="73" offsetX="0" offsetY ="0" delay="75" />		
+		</animation>
+		<animation direction="left">
+ 		  <frame index="18" offsetX="0" offsetY ="0" delay="75" />
+ 		  <frame index="74" offsetX="0" offsetY ="0" delay="75" />
+ 		  <frame index="75" offsetX="0" offsetY ="0" delay="75" />		
+		</animation>
+		<animation direction="up">	
+ 		  <frame index="36" offsetX="0" offsetY ="0" delay="75" />
+ 		  <frame index="76" offsetX="0" offsetY ="0" delay="75" />
+ 		  <frame index="77" offsetX="0" offsetY ="0" delay="75" />		
+		</animation>
+		<animation direction="right">
+ 		  <frame index="54" offsetX="0" offsetY ="0" delay="75" />
+ 		  <frame index="78" offsetX="0" offsetY ="0" delay="75" />
+ 		  <frame index="79" offsetX="0" offsetY ="0" delay="75" />		
+		</animation>
+	</action>
+
+	<action name="walk" imageset="base">
+		<animation direction="down">
+			<sequence start="1" end="6" delay="75" />
+		</animation>
+		<animation direction="left">
+			<sequence start="19" end="24" delay="75" />
+		</animation>
+		<animation direction="up">
+			<sequence start="37" end="42" delay="75" />
+		</animation>
+		<animation direction="right">
+			<sequence start="55" end="60" delay="75" />
+		</animation>
+	</action>
+
+	<action name="sit" imageset="base">
+		<animation direction="down">
+ 		  <frame index="7" offsetX="0" offsetY ="0" delay="75" />
+ 		  <frame index="81" offsetX="0" offsetY ="0" delay="75" />
+ 		  <frame index="82" offsetX="0" offsetY ="0" delay="75" />
+		</animation>
+		<animation direction="left">
+ 		  <frame index="25" offsetX="0" offsetY ="0" delay="75" />
+ 		  <frame index="83" offsetX="0" offsetY ="0" delay="75" />
+ 		  <frame index="84" offsetX="0" offsetY ="0" delay="75" />
+		</animation>
+		<animation direction="up">
+ 		  <frame index="43" offsetX="0" offsetY ="0" delay="75" />
+ 		  <frame index="85" offsetX="0" offsetY ="0" delay="75" />
+ 		  <frame index="86" offsetX="0" offsetY ="0" delay="75" />
+		</animation>
+		<animation direction="right">
+ 		  <frame index="61" offsetX="0" offsetY ="0" delay="75" />
+ 		  <frame index="87" offsetX="0" offsetY ="0" delay="75" />
+ 		  <frame index="88" offsetX="0" offsetY ="0" delay="75" />
+		</animation>
+	</action>
+
+	<action name="dead" imageset="base">
+		<animation direction="down">
+ 		  <frame index="8" offsetX="0" offsetY ="0" delay="75" />
+ 		  <frame index="26" offsetX="0" offsetY ="0" delay="75" />
+ 		  <frame index="44" offsetX="0" offsetY ="0" delay="75" />
+ 		  <frame index="62" offsetX="0" offsetY ="0" delay="75" />
+ 		  <frame index="80" offsetX="0" offsetY ="0" delay="75" />
+		</animation>
+		<animation direction="left">
+ 		  <frame index="8" offsetX="0" offsetY ="0" delay="75" />
+ 		  <frame index="26" offsetX="0" offsetY ="0" delay="75" />
+ 		  <frame index="44" offsetX="0" offsetY ="0" delay="75" />
+ 		  <frame index="62" offsetX="0" offsetY ="0" delay="75" />
+ 		  <frame index="80" offsetX="0" offsetY ="0" delay="75" />
+		</animation>
+		<animation direction="up">
+ 		  <frame index="8" offsetX="0" offsetY ="0" delay="75" />
+ 		  <frame index="26" offsetX="0" offsetY ="0" delay="75" />
+ 		  <frame index="44" offsetX="0" offsetY ="0" delay="75" />
+ 		  <frame index="62" offsetX="0" offsetY ="0" delay="75" />
+ 		  <frame index="80" offsetX="0" offsetY ="0" delay="75" />
+		</animation>
+		<animation direction="right">
+ 		  <frame index="8" offsetX="0" offsetY ="0" delay="75" />
+ 		  <frame index="26" offsetX="0" offsetY ="0" delay="75" />
+ 		  <frame index="44" offsetX="0" offsetY ="0" delay="75" />
+ 		  <frame index="62" offsetX="0" offsetY ="0" delay="75" />
+ 		  <frame index="80" offsetX="0" offsetY ="0" delay="75" />
+		</animation>
+	</action>
+
+	<action name="attack" imageset="base">
+		<animation direction="down">
+			<sequence start="9" end="12" delay="75" />
+			<end />
+		</animation>
+		<animation direction="left">
+			<sequence start="27" end="30" delay="75" />
+			<end />
+		</animation>
+		<animation direction="up">
+			<sequence start="45" end="48" delay="75" />
+			<end />
+		</animation>
+		<animation direction="right">
+			<sequence start="63" end="66" delay="75" />
+			<end />
+		</animation>
+	</action>
+</sprite>

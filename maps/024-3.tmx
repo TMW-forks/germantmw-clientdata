@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map SYSTEM "http://mapeditor.org/dtd/1.0/map.dtd">
+<map version="1.0" orientation="orthogonal" width="40" height="50" tilewidth="32" tileheight="32">
+ <tileset name="inn" firstgid="1" tilewidth="32" tileheight="32">
+  <image source="../graphics/tiles/inn.png"/>
+ </tileset>
+ <tileset name="woodland indoor" firstgid="257" tilewidth="32" tileheight="32">
+  <image source="../graphics/tiles/woodland_indoor.png"/>
+ </tileset>
+ <tileset name="collision" firstgid="513" tilewidth="32" tileheight="32">
+  <image source="../graphics/tiles/collision.png"/>
+ </tileset>
+ <tileset name="woodland indoor x2" firstgid="515" tilewidth="32" tileheight="32">
+  <image source="../graphics/tiles/woodland_indoor_x2.png"/>
+ </tileset>
+ <layer name="Ground" width="40" height="50">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAAO3QsQ2AMAxEUQcQfdggbMD+g4USF0ikdAAdFL94OpdfrmZWAQAAHkpucuO5kXsW9mW3NBu5s7CvuLXZyF2EfdtN9NH3pr2zW93X+1f66KOPPvroo08jDZevWwAAAPB/B0VcMi1AHwAA
+  </data>
+ </layer>
+ <layer name="Fringe" width="40" height="50">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAAO2WTQrCMBCFM9GFunCj+Au29oyK96h30BPYCxR7hB7BczjBhE6K4C4O+j54zCSbeTzCtMYAAAAAAPwXCzJmSZ/vyabzNOBZQzFvwv2YNfI13IWz61P6m/GsuZi34X7NWvka7sLZ9ad09kAiyMbSRsae9qzcSxva8qt439Vi5xW2y7BQ4K9lb4feTtaUX+PzK73H3HYZZgr8hfzKN987DTS993dhXUX9No/e+9PImeKqiRvFqpR5vFOsVrxHDftlyx6mwofzd1Tkz7CHnX1Vh8wP/38AAAAAAOAXeALIzJyhQB8AAA==
+  </data>
+ </layer>
+ <layer name="Over" width="40" height="50">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAAO3WuwnAMAyEYaEF/FguI2STZANn1LRREbAKg3Flk/wfHGqPqyQCAACAlm12gY59dgH8TlCRZIlvMCZr3TCz37CodcOw4H6H5XR3NcVyuQugjf/vm24XAAAAoOcBP7HHXEAfAAA=
+  </data>
+ </layer>
+ <layer name="Collision" width="40" height="50">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAAO3WsQrAIBBEQb3//+g0KUIgIabZE0aY/rFaWDVGAQDAB/OU7rj7e/Tt0Xd9f2/d6Xe4umu6796YblndMN1mP/t1bevQt/t9p1t27kt3PJnV9x8LAEA/ByCD8D9AHwAA
+  </data>
+ </layer>
+</map>

@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+
+<!--
+An explosion of white particles.
+-->
+
+<effect>
+	<particle
+		position-x = "0"
+		position-y = "0"
+		position-z = "16"
+		lifetime = "1"
+		>
+		<emitter>
+			<property name="position-x" min="-8" max="8"/>
+			<property name="position-y" min="-24" max="-8"/>
+			<property name="vertical-angle" min="45" max="90"/>
+			<property name="horizontal-angle" min="0" max="360"/>
+			<property name="power" min="0" max="1"/>
+			<property name="gravity" value="0.1"/>
+			<property name="image" value="graphics/particles/orb-small.png|W:#890B0B"/>
+			<property name="lifetime" min="800" max="1200"/>
+                        <property name="fade-out" value="200" />
+                        <property name="bounce" value="0.0001" />
+			<property name="output" min="0" max="32"/>
+		</emitter>
+		<emitter>
+			<property name="position-x" min="-8" max="8"/>
+			<property name="position-y" min="-8" max="8"/>
+			<property name="vertical-angle" min="45" max="90"/>
+			<property name="horizontal-angle" min="0" max="360"/>
+			<property name="power" min="0" max="6"/>
+			<property name="gravity" value="0.1"/>
+			<property name="image" value="graphics/particles/orb-small.png|W:#EF1414"/>
+			<property name="lifetime" min="0" max="80"/>
+			<property name="output" min="6" max="12"/>
+		</emitter>
+		<emitter>
+			<property name="position-x" min="-8" max="8"/>
+			<property name="position-y" min="-8" max="8"/>
+			<property name="vertical-angle" min="45" max="90"/>
+			<property name="horizontal-angle" min="0" max="360"/>
+			<property name="power" min="0" max="6"/>
+			<property name="gravity" value="0.1"/>
+			<property name="image" value="graphics/particles/star-small.png|W:#890B0B,EF1414"/>
+			<property name="lifetime" min="0" max="80"/>
+			<property name="output" min="6" max="12"/>
+		</emitter>
+		<emitter>
+			<property name="position-x" min="-8" max="8"/>
+			<property name="position-y" min="-8" max="8"/>
+			<property name="vertical-angle" min="45" max="90"/>
+			<property name="horizontal-angle" min="0" max="360"/>
+			<property name="power" min="0" max="6"/>
+			<property name="gravity" value="0.1"/>
+			<property name="image" value="graphics/particles/orb-medium.png|W:#EF1414"/>
+			<property name="lifetime" min="0" max="80"/>
+			<property name="output" min="6" max="12"/>
+		</emitter>
+		<emitter>
+			<property name="position-x" min="-8" max="8"/>
+			<property name="position-y" min="-8" max="8"/>
+			<property name="vertical-angle" min="45" max="90"/>
+			<property name="horizontal-angle" min="0" max="360"/>
+			<property name="power" min="0" max="6"/>
+			<property name="gravity" value="0.1"/>
+			<property name="image" value="graphics/particles/star-medium.png|W:#890B0B,EF1414"/>
+			<property name="lifetime" min="0" max="80"/>
+			<property name="output" min="3" max="6"/>
+		</emitter>
+	</particle>
+</effect>

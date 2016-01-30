@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<skills>
+    <set name="Basis">
+        <skill id="1" icon="graphics/images/emote.png" name="Emotion"/>
+        <skill id="2" icon="graphics/images/trade.png" name="Handel"/>
+        <skill id="3" icon="graphics/images/party.png" name="Party"/>
+        <skill id="5" icon="graphics/images/guild.png" name="Gilde"/>
+        <skill id="7" icon="graphics/images/pvp.png" name="PvP"/>
+    </set>
+    <set name="Magie">
+        <skill id="340" icon="graphics/images/base.png" name="Magie"/>
+        <skill id="341" icon="graphics/images/light.png" name="Life Magie"/>
+        <skill id="342" icon="graphics/images/greasyfight.png" name="War Magie"/>
+        <skill id="343" icon="graphics/images/firemagie.png" name="Transmutation Magie"/>
+        <skill id="344" icon="graphics/images/nature.png" name="Nature Magie"/>
+        <skill id="345" icon="graphics/images/psychomagie.png" name="Astral Magie"/>
+    </set>
+
+    <set name="Waffen">
+        <skill id="410" icon="graphics/images/unarmed.png" name="Fäuste"/>
+        <skill id="411" icon="graphics/images/knife.png" name="Messer"/>
+        <skill id="412" icon="graphics/images/sword.png" name="Schwerter"/>
+        <skill id="413" icon="graphics/images/axe.png" name="Äxte"/>
+        <skill id="414" icon="graphics/images/bow.png" name="Bögen"/>
+        <skill id="415" icon="graphics/images/polearm.png" name="Lanzen"/>
+    </set>
+
+    <set name="Bergbau">
+        <skill id="430" icon="graphics/items/generic-coal.png" name="Kohle"/>
+        <skill id="431" icon="graphics/items/generic-ironore.png" name="Eisen"/>
+        <skill id="432" icon="graphics/items/generic-bronzeore.png" name="Bronze"/>
+        <skill id="433" icon="graphics/items/generic-silverore.png" name="Silber"/>
+        <skill id="434" icon="graphics/items/generic-goldore.png" name="Gold"/>
+    </set>
+	<set name="Alchemie">
+		<skill id="420" icon="graphics/items/generic-seed.png|W:#e0b0ff" name="Pflanzenanbau"/>  
+		<skill id="440" icon="graphics/items/use-potion-a.png" name="Heil Pot."/>
+		<skill id="441" icon="graphics/items/use-potion-e.png|R:#f04030;G:#ee8e5e" name="Mana Pot."/>
+		<skill id="442" icon="graphics/items/use-potion-b.png|G:#c05000,f0a000,f0f09f" name="Eisen Pot."/>
+		<skill id="443" icon="graphics/items/use-potion-c.png|G:#da69e5,ffdaff" name="Konze.Pot."/>
+		<skill id="444" icon="graphics/items/use-potion-d.png|G:#530a7c,b362e1,ca87ef" name="Farbe"/>
+	</set>
+</skills>

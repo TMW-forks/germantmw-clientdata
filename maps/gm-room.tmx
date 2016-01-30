@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map SYSTEM "http://mapeditor.org/dtd/1.0/map.dtd">
+<map version="1.0" orientation="orthogonal" width="40" height="40" tilewidth="32" tileheight="32">
+ <tileset name="Inn" firstgid="1" tilewidth="32" tileheight="32">
+  <image source="../graphics/tiles/inn.png"/>
+ </tileset>
+ <tileset name="Collision" firstgid="257" tilewidth="32" tileheight="32">
+  <image source="../graphics/tiles/collision.png"/>
+ </tileset>
+ <tileset name="woodland indoor" firstgid="259" tilewidth="32" tileheight="32">
+  <image source="../graphics/tiles/woodland_indoor.png"/>
+ </tileset>
+ <layer name="Ground" width="40" height="40">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAAO3OwQ1AQBBG4RE6oAPbwSodFaAC1GMvksnGiNMgeYfv8M9cXixEIgAAAAAXpVJl27p79tVKk23r7tnXKiHb1t2zL1zoRWRIRrn+v9l3tg03jW/2TalnVhb66HPsW1PPpuwf63uCvv/0WboPNADAnx1AFXUEABkAAA==
+  </data>
+ </layer>
+ <layer name="Fringe" width="40" height="40">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAAO3S2wmAMAyF4WYAR3BPFxBcwMsCXvYQ9zK+lgYRabTwf3AoKSmch4YAAAAAwEsbzZWkT2s/tz6aa0mf1n5us3HfPNz31n1doFC7/rdBM2omzSH3bzzR752r36JZNdsP+wEAgPKd1k4wqwAZAAA=
+  </data>
+ </layer>
+ <layer name="Over" width="40" height="40">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAAO3OsRGAIBBE0b2a7FFswRKMjIHCSL1AM8aUY/hvZqNNvgQAAAAAWNVuUvIdNrqkL3tXDdr2ub3vDNp4vV0laB8Aqfk2608/XxtaDQBzeAAUWwWbABkAAA==
+  </data>
+ </layer>
+ <layer name="Collision" width="40" height="40" visible="0">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAAO3OwQkAIAwEwZj+i7YECQgxOAfzus/mikgAAIAhKnu5raNxYl/l16fvdt9p+vT90gcw1QYbF5RaABkAAA==
+  </data>
+ </layer>
+</map>

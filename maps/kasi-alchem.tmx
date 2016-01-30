@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="60" height="40" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="woodland_indoor_x2" tilewidth="32" tileheight="32">
+  <image source="../graphics/tiles/woodland_indoor_x2.png" width="512" height="64"/>
+ </tileset>
+ <tileset firstgid="33" name="woodland_indoor_x3" tilewidth="32" tileheight="32">
+  <image source="../graphics/tiles/woodland_indoor_x3.png" width="512" height="96"/>
+ </tileset>
+ <tileset firstgid="81" name="woodland_indoor" tilewidth="32" tileheight="32">
+  <image source="../graphics/tiles/woodland_indoor.png" width="512" height="512"/>
+ </tileset>
+ <tileset firstgid="337" name="collision" tilewidth="32" tileheight="32">
+  <image source="../graphics/tiles/collision.png" width="64" height="32"/>
+ </tileset>
+ <layer name="Ground" width="60" height="40">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA+3PwQmDQBBG4W1RrCBYQTQWsKAdRCswqUCtzznsYVg8OBoYIu/wwQz/6cUQQgQAAAAA4IQiKdW99+f07t1g8UgqdVt/7waL5w94N1jU4i0GZRRN2o7wbrD2TuKjfLOel2hv1DuLRVmznk70N+q9yruBXgAAAAAA8C82JU1L14AlAAA=
+  </data>
+ </layer>
+ <layer name="Fringe" width="60" height="40" visible="0">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA+3SOQoCQRQA0Rn0Bhpq5Bpo5BooCK6Bxnpw9QTqCdTYAg0aEQxchoF6UDC/O+kPE0WSJEmSJH1fjepUojJVqRKcp1EhjqJifP/e0o72j7se9alFbepSJzhf0+a/z/1Yg12bNKIz84Wuj7s5LWhME5rRNDhPowF7DuOkX/E/S3Zdvdk3Q9lgPtCRTr97VqJylA/m5/9ekiRJkiRJeuUGmG9irIAlAAA=
+  </data>
+ </layer>
+ <layer name="Over" width="60" height="40" visible="0">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA+3OsQ2AMAxFwczJADAHzAgUWYUGlxSINCiW4E56lV38UgAAAOAdQzRGU/YQ6GSNtmjPHtLJEdXsEXBjfqh1v/59wZI9AAAAAH7oBMnMNpaAJQAA
+  </data>
+ </layer>
+ <layer name="Collision" width="60" height="40" visible="0">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA+3SQQrAIAwAQftF//8YT72IIJEWA5nAXATBVfvTWgcAAACYvLNaP92b2Rdzu+Hv3ug/yCTSV6U38t7ZVevd3cXtMwAAAEA1A0aT5sOAJQAA
+  </data>
+ </layer>
+</map>

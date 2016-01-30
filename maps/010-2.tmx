@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="107" height="110" tilewidth="32" tileheight="32">
+ <properties>
+  <property name="music" value="Clouds Calling.ogg"/>
+  <property name="name" value="Dimond's Cove"/>
+ </properties>
+ <tileset firstgid="1" name="Woodland Indoor" tilewidth="32" tileheight="32">
+  <image source="../graphics/tiles/woodland_indoor.png" width="512" height="512"/>
+ </tileset>
+ <tileset firstgid="257" name="Woodland Indoor x2" tilewidth="32" tileheight="64">
+  <image source="../graphics/tiles/woodland_indoor_x2.png" width="512" height="64"/>
+ </tileset>
+ <tileset firstgid="273" name="Woodland Indoor x3" tilewidth="32" tileheight="96">
+  <image source="../graphics/tiles/woodland_indoor_x3.png" width="512" height="96"/>
+ </tileset>
+ <tileset firstgid="289" name="Collision" tilewidth="32" tileheight="32">
+  <image source="../graphics/tiles/collision.png" width="64" height="32"/>
+ </tileset>
+ <tileset firstgid="291" name="Woodland Village" tilewidth="32" tileheight="32">
+  <image source="../graphics/tiles/Woodland_village.png" width="512" height="512"/>
+ </tileset>
+ <layer name="Ground" width="107" height="110">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA+3cUY7TMBDG8XZXCF6tPUELHCArOAAI9gTACWDv/8I7qUQlK7I9M23ssZP/w0+Waq8y3W/T2N040+FwmAAAAAAAAAAAAAAAAACoHDNKfdoxNWp9zLRS/7VtVWsNIaPUpx1To9anTCv1X9tWtdZwyij1ace0qlVbb8taazhnfC30XZV+/qw8vrXW95lW6pda7xzuyUrKwSur0rG+zb4nvCjfS+9uyeHD7GOHWf2Y/Uz4teOsPs0+/x/Teh5YOlYpq9a1ts5KIxSsXat0LCmrlrW2zOoYtSW9zAOPiqy2Og8MUVvSy/UqKLIaXe69n6K2pJesTkJW0ueDdw4auXluat67HCvNhVvW+iJkFQTeOWjk3l/q/S7HSnPhlrWm6ov7tvC9xV6y2sL6aqSsfs/+ZLwW+l/JqnlWezdSVtJcLl4PTpnXR54HWrJafsZIny1r1xoE8Xpwyrye453D2lkts5Dm0GvXqlnrpf6fpVkneudQOytpXrZ2rda/E2nMaNfWUbPSHFsaQ1ZkVUtpzSLNI8iqLWmNWCKtTWvWqjm2NGa0rCyeO6gBAAAAAAAAAAAAAADA29uH27Wu9XLfufS8pbidDOO9c9haVuEgP28pbifDeO8cNN493K51rdI96al71C1je3fP/YFfHGq1PGdpMoz3zqF2Vr3VGu810Ow/qLmnhazK4nuiNfdJ17yfe+9ZSfsSySqv9TwxFJCVPqu/x/pZSfO4VFZbslZWbxqcV5JlVtL+79H2dt+TVevrmbSXfplVSDhnXvfOYWtZpX7HsWVW0v7vPa2FW2clffcQ743TPCumZq3eWXnXqn0mm9UW18KX8Z7Xa+3eZqsa+2V7yCokjHy9Hok1K8/rtfWc3vOc/TLe8hzPtWsNCaVz2jq+d9asLM8uWbtW6zm95zm7d1bWc9rzM2DvWVmP7VkrWZEVWfnnUCMry7O21q7VemzPWgEAAAAAAAAAAAAAAICt+gfSqXA36LcAAA==
+  </data>
+ </layer>
+ <layer name="over Ground" width="107" height="110">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA+3YoQ0AIBAEwe+/DqAyoA7eYLAIEjKTrD99EQAAAAAAAAAAAAAA3ChZzdrrIUTPxtF8uggAAACA3+1Pyg8FAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHBnAVxnc6DotwAA
+  </data>
+ </layer>
+ <layer name="Fringe" width="107" height="110">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA+3dSW8TMRQH8JkWmjbdUFekrhJ34BvwGfqpeuQA5RMAEu2BezkgqFSJVRwQEnsOUImdAyCxtTwrtvJq2bPbsen/Jz3NjGeJkzeTODMTJ0kAAAAAAAAAAAAAAAAAAAAAAKCsQW1YZ90q2/AlprraTGvDOutW2YYvMdXVZo1iOu0OZ9Ju2TwNT6bdclG2TLEiYzXtZ22PpkV6zZcoTsnpU5lLm+nrVtkGwFFykWKD4pJl/jmKCYpJFidkuSv8sfqxfqiuUWxqZYP0nnlMfl6NUixTrLBYleVNq/tYPuvqgsjFuhzflNNlLCTm57/QUP2afCyfdXXhG8V3LX5oy4j9boxiPDHvg6bn70LH8lidEtvwVVef2mxc7HeLFEvJ4X1QLXOa4gyLsw7rZXustnWNo2EqNe+zprLQDVEMU7SS3ntEi5VDWNSxp94jeFlMLhQY/x90LOMx2SgwnkV9D+MBblwpMJ4FufLndoHxLMhVPELJlWrjCXMU83I8lnMTPlxOuu+XPFx5bCgztfF4uenchGk7MSjaDlTnoNYT/2bktbRdGp+V19RmZZkwpV1TG6XpkbRX3qLhMEVKMSC3I+a3I7sWV7QdqM5J6eehfNoNbDu+1W0H+pT3Gh+Xx8lEzvESa67qtgN9eCtjL2e5NTkcz8nVG7ZNaJbtOoDNZE6u+DUG6A91XI2JXEXWbgAAAAAAAAAAAAAAAAAAAAAAt8Rv/UaS3u/+WnJalUM4hpJeXlSOWmy63x7llPP71O9TPMiYfqhNQ7M6cvhVG6pyfj/tC4qXGdOvKF43Wz132L344r461YfWjIw5eW//XNq79z90PFcfKT5lTH+m+OKjUmCk7n0W/lD8ZfP06X2KA0/1qutGxePkScDHl7r3uajzrirSMHU/schZmbzt9SFXrvpTul5zfV+25Wu+VTJXQwNu6pPFVX9KN2uu74stP3m560euOkn9/phitpa/iFE/clVFSw7174VqOqb+faq2LbLMevgs47+3z5P33TkW25bXlZdvBdjm039vn6XDxvnvvztJXERObPkStnLmgz/8mFF9Suvzkau48T5ZAOCw5ZJtb/VfCOp8b1v2yyL6lBD9SYzK/0dw/b8IvA1epE1YdvkQiVwZ80VlByInAX2PukNxl+KenLb1wVR1+dCpXJnyNRlQnoSnFM8onie99jZvg4vvdeq4r7J86Hiu9HztF3gOPvtYfUfxnuKDo+VDV/S40s9F3UoO/3/FDpunXydvyk+KXxS/LfP1/abs8qEz5UqNq+NKXS/WqT4Dr2rl+nVyH8S+I/abnbwFteVjylfWe6A4rlSebOd4TX1r6dfJfSnbJ1uIfbhl4TnSj62JArky0a+T+1K2T7aQ+nADAAAAAAAAAAAAAAAAAAAAAIjFP3vaoDvotwAA
+  </data>
+ </layer>
+ <layer name="0.5 Over" width="107" height="110">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA+3OsQ0AMAgEMYZPmJsvsgNFbOn6qwIAAAAAAAAAAADgJyfd1NsjAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADPAPJKwz3otwAA
+  </data>
+ </layer>
+ <layer name="Over" width="107" height="110">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA+3dSw6CMBAAUHZ6HS+gHs7fFbyBbjyLR1ITjAYttGqt4HvJhNJAmAULhuJYVQAAAAAAAAAAAAD8m0PpBIiyPse23obMG/vTTLnMAteaRZx7Pe7V8+FTJh3xbcfEeapqdI5x6SR48OyedR8D946BcZ8sI8ZtFvWx90Eem4gxMDxd9d47Afy3d58D+R7PgQDAJ6TWiyXry5y5qocBAAAAAAAAAG5Gjf1xYB4I8113f+xLJ0CStp5E5NfWT6k5D8TRj2nYfMsOAL/Lb89gePRjgrxS31V4t0FfXPumrkonQqfLf1dc1mB3pROppfZk08OtnNS1e2v9gH5MamEAAAAAAAAAgF9wAgzfC//otwAA
+  </data>
+ </layer>
+ <layer name="Collision" width="107" height="110">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA+3aQY6DMAwF0Jmr9P6HnFUlBgFJCIkNvEhPpS0otn+WfH5/fj4AAAAAAAAAAABAt54VXfvovqNrlFV979H1yep/70eziK5PVuWsSnOamUltVlG1zswqY/9vzeqot5pelve2Piur52ZV2qs2q7sqra17ap4bMZ/WOkfWkjGrnpWp1ug5R/c/ez5X1bR3nV1ND7UzcK5kJatr+79TrVH1Z+k/uo9vLy2/383bsspS64ysWp6N7GPrv+hZX9VjzXXrijxj2c6SrMr7RtUXcT57lqzem9WZvaNqldW5fSNqldW5fSNqBQAAAAAAAAAgJ++K0Gv5zlHpc/3MW99jiurxzNyflFXPylrrU7PqySt7nU/N6sw8MpytoyxlFd/f27Paqz1jf7JqX9F1l/rYuye6zoisjjKMmMmbslr3s579mcwynLm9/7Z6v4N1VuseMmQ1ckXPv3UGssrtin5m9TpyRecQldWo3keu6ByunkFtVrNrH3l/Rke5LH/LdlbfmNVeXkffZ2dVqqX3/ru5S1Y1e0fWOjOndb97WR7NUVbjs/peLz/vkNVWDy33301p1i1LVnOyOjuv9SxmZrWXQ0StsmrbO7JWAAAAAAAAAADa/AExrFks6LcAAA==
+  </data>
+ </layer>
+ <objectgroup name="Object Group 4" width="0" height="0">
+  <object name="ToCellar" type="warp" x="864" y="768" width="32" height="32">
+   <properties>
+    <property name="dest_map" value="010-2"/>
+    <property name="dest_x" value="1136"/>
+    <property name="dest_y" value="2192"/>
+   </properties>
+  </object>
+  <object name="ToOutdoor" type="warp" x="1024" y="1440" width="32" height="32">
+   <properties>
+    <property name="dest_map" value="010-1"/>
+    <property name="dest_x" value="1168"/>
+    <property name="dest_y" value="3056"/>
+   </properties>
+  </object>
+  <object name="To2ndFloor" type="warp" x="1248" y="864" width="96" height="32">
+   <properties>
+    <property name="dest_map" value="010-2"/>
+    <property name="dest_x" value="2640"/>
+    <property name="dest_y" value="848"/>
+   </properties>
+  </object>
+  <object name="To1stFloor" type="warp" x="1152" y="2176" width="32" height="32">
+   <properties>
+    <property name="dest_map" value="010-2"/>
+    <property name="dest_x" value="912"/>
+    <property name="dest_y" value="784"/>
+   </properties>
+  </object>
+  <object name="To3rdFloor" type="warp" x="2112" y="864" width="96" height="32">
+   <properties>
+    <property name="dest_map" value="010-2"/>
+    <property name="dest_x" value="2160"/>
+    <property name="dest_y" value="2288"/>
+   </properties>
+  </object>
+  <object name="To1stFloor" type="warp" x="2624" y="928" width="96" height="32">
+   <properties>
+    <property name="dest_map" value="010-2"/>
+    <property name="dest_x" value="1296"/>
+    <property name="dest_y" value="880"/>
+   </properties>
+  </object>
+  <object name="To2ndFloor" type="warp" x="2112" y="2336" width="96" height="32">
+   <properties>
+    <property name="dest_map" value="010-2"/>
+    <property name="dest_x" value="2160"/>
+    <property name="dest_y" value="912"/>
+   </properties>
+  </object>
+ </objectgroup>
+</map>
