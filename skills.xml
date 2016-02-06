@@ -1,29 +1,44 @@
 <?xml version="1.0" encoding="utf-8"?>
+
+<!-- GermanTMW - ReWork -->
+
 <skills>
-  <skill id="1" name="Emote" fixed="1"/>
-  <skill id="2" name="Trade" fixed="1"/>
-  <skill id="3" name="Party" fixed="1"/>
-  <skill id="5" name="Gilde" fixed="1"/>
-  <skill id="7" name="PvP" fixed="1"/>
-  <skill id="340" name="Magic" fixed="1"/>
-  <skill id="341" name="Life Magic" fixed="1"/>
-  <skill id="342" name="War Magic" fixed="1"/>
-  <skill id="343" name="Transmutation Magic" fixed="1"/>
-  <skill id="344" name="Nature Magic" fixed="1"/>
-  <skill id="345" name="Astral Magic" fixed="1"/>
-<skill id="410" name="Fäuste" fixed="1"/>
-<skill id="411" name="Messer" fixed="1"/>
-<skill id="412" name="Schwerter" fixed="1"/>
-<skill id="413" name="Äxte" fixed="1"/>
-<skill id="420" name="Pflanzenanbau" fixed="1"/>
-<skill id="430" name="Kohle" fixed="1"/>
-<skill id="431" name="Eisen" fixed="1"/>
-<skill id="432" name="Bronze" fixed="1"/>
-<skill id="433" name="Silber" fixed="1"/>
-<skill id="434" name="Gold" fixed="1"/>
-<skill id="440" name="Heil Pot." fixed="1"/>
-<skill id="441" name="Mana Pot." fixed="1"/>
-<skill id="442" name="Eisen Pot." fixed="1"/>
-<skill id="443" name="Konze.Pot." fixed="1"/>
-<skill id="444" name="Farbe" fixed="1"/>
+	<!-- Basis -->
+	<set name="Basis" >
+		<skill id="1" name="Emote" fixed="1"/>
+		<skill id="2" name="Trade" fixed="1"/>
+		<skill id="3" name="Party" fixed="1"/>
+		<skill id="5" name="Gilde" fixed="1"/>
+		<skill id="7" name="PvP" fixed="1"/>
+	</set>
+
+	<!-- Magie -->
+	<set name="Magie">
+		<skill id="340" name="Magic" fixed="1"/>
+		<skill id="341" name="Life Magic" fixed="1"/>
+		<skill id="342" name="War Magic" fixed="1"/>
+		<skill id="343" name="Transmutation Magic" fixed="1"/>
+		<skill id="344" name="Nature Magic" fixed="1"/>
+		<skill id="345" name="Astral Magic" fixed="1"/>
+	</set>
+	
+	<!-- Fähigkeiten -->
+	<set name="Fähigkeiten">
+		<!-- diese sind weit entfernt von schön & ideal (müssen von grund erneuert werden!)-->
+		<skill id="410" name="Fäuste" fixed="1"/>
+		<skill id="411" name="Messer" fixed="1"/>
+		<skill id="412" name="Schwerter" fixed="1"/>
+		<skill id="413" name="Äxte" fixed="1"/>
+		<skill id="420" name="Pflanzenanbau" fixed="1"/>
+		<skill id="430" name="Kohle" fixed="1"/>
+		<skill id="431" name="Eisen" fixed="1"/>
+		<skill id="432" name="Bronze" fixed="1"/>
+		<skill id="433" name="Silber" fixed="1"/>
+		<skill id="434" name="Gold" fixed="1"/>
+		<skill id="440" name="Heil Pot." fixed="1"/>
+		<skill id="441" name="Mana Pot." fixed="1"/>
+		<skill id="442" name="Eisen Pot." fixed="1"/>
+		<skill id="443" name="Konze.Pot." fixed="1"/>
+		<skill id="444" name="Farbe" fixed="1"/>
+	</set>
 </skills>

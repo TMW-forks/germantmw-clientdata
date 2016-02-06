@@ -1189,6 +1189,7 @@ exp<TAG>:                 Tells how much experience point a monster is giving up
             range="64"
             />
     </monster>
+<!-- (not pretty) removed
     <monster 	id="46" 
 				name="Ente" 
 				targetCursor="small">
@@ -1209,7 +1210,6 @@ exp<TAG>:                 Tells how much experience point a monster is giving up
         <vulnerability element="fire" factor="1.5"/>
         <vulnerability element="earth" factor="0.7"/>
         <exp>0</exp>
-        <!-- average stroll- and track range-->
         <behavior
             aggressive="false"
             cowardly="false"
@@ -1227,6 +1227,7 @@ exp<TAG>:                 Tells how much experience point a monster is giving up
             animation="attack"
             />
     </monster>
+-->
 	<monster 	id="47" 
 				name="Pinguin">
         <sprite>monster-whirlybird.xml</sprite>
@@ -1252,11 +1253,15 @@ exp<TAG>:                 Tells how much experience point a monster is giving up
 				name="Grüne Fee">
 		<sprite>monstro-fada.xml</sprite> 
 	</monster>
+
+<!--(nonGPL) removed
 	<monster 	id="52" 
 				name="Drache">
 		<sprite>monstro-dragao_sombra.xml</sprite> 
 		<sprite>monstro-dragao.xml</sprite> 
 	</monster>
+-->
+
 	<monster 	id="53" 
 				name="Hund">
 		<sprite>monstro-cachorro.xml</sprite> 
@@ -1307,11 +1312,11 @@ exp<TAG>:                 Tells how much experience point a monster is giving up
         <sound event="hurt">monsters/fluffy/fluffy-hurt1.ogg</sound>
         <sprite>monsters/monster-hase.xml</sprite>
   </monster>
-
+<!--(nonGPL) removed
   <monster id="63" name="Feuriger Drache" targetCursor="big">
 		<sprite>monsters/monster-fafidragon.xml</sprite>
   </monster>
-  <!--NEU-->
+-->
   <monster id="64" name="Moggun">
 		<sprite>monsters/monster-moggun.xml</sprite>
   </monster>
@@ -1338,7 +1343,11 @@ exp<TAG>:                 Tells how much experience point a monster is giving up
     <monster id="70" name="Schildkröte">
 		<sprite>monsters/turtle.xml</sprite>
   </monster>
+
+<!--(nonGPL) removed
   <monster id="71" name="Fafnir" targetCursor="big">
 		<sprite>monsters/monster-fafidragon-boss.xml</sprite>
   </monster>
+-->
+
 </monsters>
