@@ -32,16 +32,16 @@
     <!-- Treating the base sprite as equipment too will be useful when we
          implement other playable races -->
     <item id="-100" type="racesprite" name="Human">
-			<sprite gender="male">player_male_base.xml</sprite>
-			<sprite gender="female">player_female_base.xml</sprite>
+			<sprite gender="male">races/player_male_base.xml</sprite>
+			<sprite gender="female">races/player_female_base.xml</sprite>
     </item>
     <item id="-101" type="racesprite" name="Human">
-			<sprite gender="male">player_male_base_naked.xml</sprite>
-			<sprite gender="female">player_female_base_naked.xml</sprite>
+			<sprite gender="male">races/player_male_base_naked.xml</sprite>
+			<sprite gender="female">races/player_female_base_naked.xml</sprite>
     </item>
 
     <item id="16">
-<!--			<sprite>weapon-dagger.xml</sprite>-->
+<!--			<sprite>equipment/weapons/weapon-dagger.xml</sprite>-->
     </item>
 
     <!-- TEMPORARY LOW WEAPON ID:S (< 256) -->
@@ -49,32 +49,32 @@
 
     <item id="30"
         weapon_type="1">
-			<sprite>weapon-dagger.xml</sprite>
+			<sprite>equipment/weapons/weapon-dagger.xml</sprite>
         <sound event="strike">weapons/swords/short-sword-miss1.ogg</sound>
         <sound event="hit">weapons/swords/short-sword-hit1.ogg</sound>
     </item>
     <item id="31"
         weapon_type="10">
-			<sprite>weapon-bow.xml</sprite>
+			<sprite>equipment/weapons/weapon-bow.xml</sprite>
         <sound event="swing">weapons/bows/bow_shoot_1.ogg</sound>
     </item>
     <item id="32"
         weapon_type="11">
-			<sprite>weapon-scythe.xml</sprite>
+			<sprite>equipment/weapons/weapon-scythe.xml</sprite>
     </item>
     <item id="33"
         weapon_type="1">
-			<sprite>weapon-dagger.xml</sprite>
+			<sprite>equipment/weapons/weapon-dagger.xml</sprite>
         <sound event="strike">weapons/swords/short-sword-miss1.ogg</sound>
         <sound event="hit">weapons/swords/short-sword-hit1.ogg</sound>
     </item>
     <item id="34"
         weapon_type="1"> <!-- magic fist -->
-			<sprite>weapon-fist.xml</sprite>
+			<sprite>equipment/weapons/weapon-fist.xml</sprite>
     </item>
     <item id="35"
         weapon_type="11">
-			<sprite>weapon-staff.xml</sprite>
+			<sprite>equipment/weapons/weapon-staff.xml</sprite>
     </item>
 
     <item id="501"
@@ -255,7 +255,7 @@
         attack-delta="10"
         attack-range="32"
         max-per-slot="1">
-			<sprite>weapon-dagger.xml</sprite>
+			<sprite>equipment/weapons/weapon-dagger.xml</sprite>
         <sound event="strike">weapons/swords/short-sword-miss1.ogg</sound>
         <sound event="hit">weapons/swords/short-sword-hit1.ogg</sound>
     </item>
@@ -841,7 +841,7 @@
         weight="100"
         attack-range="32"
         max-per-slot="1">
-		<sprite>weapon-rockknife.xml</sprite>
+		<sprite>equipment/weapons/weapon-rockknife.xml</sprite>
 	</item>
     <item id="580"
         image="equipment/weapons/weapon-staff-staffoflife.png"
@@ -1277,7 +1277,7 @@
         attack-delta="75"
         attack-range="32"
         max-per-slot="1">
-			<sprite>weapon-scythe.xml</sprite>
+			<sprite>equipment/weapons/weapon-scythe.xml</sprite>
     </item>
     <item id="624"
         image="equipment/chest/armor-chest-vnecksweater.png|W:#A4B2B2,FFFFFF"
@@ -2476,7 +2476,7 @@
         attack-delta="75"
         attack-range="32"
         max-per-slot="1">
-			<sprite>weapon-staff.xml</sprite>
+			<sprite>equipment/weapons/weapon-staff.xml</sprite>
     </item>
     <item id="759"
         image="equipment/head/armor-head-paladinhelm.png"
@@ -2749,7 +2749,7 @@
         attack-range="160"
         weapon-type="bow"
         max-per-slot="1">
-			<sprite>weapon-bow.xml</sprite>
+			<sprite>equipment/weapons/weapon-bow.xml</sprite>
         <sound event="strike">weapons/bows/bow_shoot_1.ogg</sound>
     </item>
     <item id="1201"
@@ -2900,7 +2900,7 @@
         attack-delta="1"
         attack-range="32"
         max-per-slot="1">
-			<sprite>weapon-dagger.xml</sprite>
+			<sprite>equipment/weapons/weapon-dagger.xml</sprite>
         <sound event="strike">weapons/swords/short-sword-miss1.ogg</sound>
         <sound event="hit">weapons/swords/sabre-hit1.ogg</sound>
     </item>
@@ -4938,7 +4938,7 @@
     	missile-particle="graphics/particles/arrow.particle.xml"
 		weapon_type="10"
 		weapon-type="bow">
-			<sprite>weapon-bow-halo.xml</sprite>
+			<sprite>equipment/weapons/weapon-bow-halo.xml</sprite>
   			<sound event="strike">bow_shoot_1.ogg</sound>
 	</item>
 	<item id="2239"
@@ -5592,7 +5592,7 @@
         attack-delta="10"
         attack-range="32"
         max-per-slot="1">
-			<sprite>weapon-dagger.xml</sprite>
+			<sprite>equipment/weapons/weapon-dagger.xml</sprite>
         <sound event="strike">weapons/swords/short-sword-miss1.ogg</sound>
         <sound event="hit">weapons/swords/short-sword-hit1.ogg</sound>
 	</item>
@@ -5609,7 +5609,7 @@
         attack-delta="10"
         attack-range="32"
         max-per-slot="1">
-			<sprite>weapon-dagger.xml</sprite>
+			<sprite>equipment/weapons/weapon-dagger.xml</sprite>
         <sound event="strike">weapons/swords/short-sword-miss1.ogg</sound>
         <sound event="hit">weapons/swords/short-sword-hit1.ogg</sound>
 	</item>
@@ -5626,7 +5626,7 @@
         attack-delta="10"
         attack-range="32"
         max-per-slot="1">
-			<sprite>weapon-dagger.xml</sprite>
+			<sprite>equipment/weapons/weapon-dagger.xml</sprite>
         <sound event="strike">weapons/swords/short-sword-miss1.ogg</sound>
         <sound event="hit">weapons/swords/short-sword-hit1.ogg</sound>
 	</item>
@@ -5643,7 +5643,7 @@
         attack-delta="10"
         attack-range="32"
         max-per-slot="1">
-			<sprite>weapon-dagger.xml</sprite>
+			<sprite>equipment/weapons/weapon-dagger.xml</sprite>
         <sound event="strike">weapons/swords/short-sword-miss1.ogg</sound>
         <sound event="hit">weapons/swords/short-sword-hit1.ogg</sound>
 	</item>

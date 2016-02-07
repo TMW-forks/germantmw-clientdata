@@ -1,7 +1,8 @@
 <?xml version="1.0"?>
 <sprite name="player" action="stand">
-	<imageset name="dagger" src="graphics/sprites/weapon0.png" width="64" height="64" />
-<action name="default" imageset="dagger">
+	<imageset name="scythe" src="graphics/sprites/equipment/weapons/weapon2.png" width="64" height="64" />
+
+	<action name="default" imageset="scythe">
 		<animation direction="down">
 			<frame index="16"/>
 		</animation>
@@ -16,7 +17,7 @@
 		</animation>
 	</action>
 
-	<action name="attack_stab" imageset="dagger">
+	<action name="attack" imageset="scythe">
 		<animation direction="down">
 			<sequence start="0" end="3" delay="75" />
 		 	<end />
@@ -34,5 +35,4 @@
 		 	 <end />
 		</animation>
 	</action>
-
 </sprite>

@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <sprite name="player" action="stand">
-	<imageset name="bow" src="graphics/sprites/weapon-bow-halo.png" width="64" height="64" />
+	<imageset name="bow" src="graphics/sprites/equipment/weapons/weapon-bow-halo.png" width="64" height="64" />
 	
 
 	
