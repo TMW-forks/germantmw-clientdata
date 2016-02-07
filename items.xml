@@ -2694,7 +2694,7 @@
 			<sprite>equipment/head/witch-doctor-mask.xml</sprite>
     </item>
     <item id="782"
-        image="equipment/chest/forest-armor.png"
+        image="equipment/chest/armor-chest-forest.png"
         name="Forest Armor"
         description="A clean and comfortable mantle with dags made for the finest stalkers."
         effect="+6% Defense"
@@ -2706,7 +2706,7 @@
 			<sprite gender="female">equipment/chest/forest-armor-female.xml</sprite>
     </item>
     <item id="783"
-        image="equipment/chest/valentine-dress.png|R:#FFFFFF"
+        image="equipment/chest/armor-chest-dress.png|R:#FFFFFF"
         name="Kleid"
         description="Ein weißes Kleid."
         effect="Defense: +15"
@@ -4951,7 +4951,7 @@
     	max-per-slot="100"/>
 
 	<item id="2240"
-        image="equipment/chest/valentine-dress.png|R:#6B1212,9C1B1B,F63030"
+        image="equipment/chest/armor-chest-dress.png|R:#6B1212,9C1B1B,F63030"
         name="Rotes Kleid"
         description="Ein rotes Kleid."
         effect="Defense: +15"
@@ -4962,7 +4962,7 @@
 			<sprite>equipment/chest/valentine-dress.xml|#6B1212,9C1B1B,F63030</sprite>
     </item>
 	<item id="2241"
-        image="equipment/chest/valentine-dress.png|R:#144A13,147725,14B825,14E725"
+        image="equipment/chest/armor-chest-dress.png|R:#144A13,147725,14B825,14E725"
         name="Grünes Kleid"
         description="Ein grünes Kleid."
         effect="Defense: +15"
@@ -4973,7 +4973,7 @@
 			<sprite>equipment/chest/valentine-dress.xml|#144A13,147725,14B825,14E725</sprite>
     </item>
 	<item id="2242"
-        image="equipment/chest/valentine-dress.png|R:#140A13,181242,211772,2823B9"
+        image="equipment/chest/armor-chest-dress.png|R:#140A13,181242,211772,2823B9"
         name="Dunkelblaues Kleid"
         description="Ein dunkelblaues Kleid."
         effect="Defense: +15"
@@ -4984,7 +4984,7 @@
 			<sprite>equipment/chest/valentine-dress.xml|#140A13,181242,211772,2823B9</sprite>
     </item>
 	<item id="2243"
-        image="equipment/chest/valentine-dress.png|R:#9E7423,BE9433,FED443"
+        image="equipment/chest/armor-chest-dress.png|R:#9E7423,BE9433,FED443"
         name="Gelbes Kleid"
         description="Ein gelbes Kleid."
         effect="Defense: +15"
@@ -4995,7 +4995,7 @@
 			<sprite>equipment/chest/valentine-dress.xml|#9E7423,BE9433,FED443</sprite>
     </item>
 	<item id="2244"
-        image="equipment/chest/valentine-dress.png|R:#526DAD,6A95C1,A3F4F8"
+        image="equipment/chest/armor-chest-dress.png|R:#526DAD,6A95C1,A3F4F8"
         name="Hellblaues Kleid"
         description="Ein hellblaues Kleid."
         effect="Defense: +15"
@@ -5006,7 +5006,7 @@
 			<sprite>equipment/chest/valentine-dress.xml|#526DAD,6A95C1,A3F4F8</sprite>
     </item>
 	<item id="2245"
-        image="equipment/chest/valentine-dress.png|R:#970890,BD1192,FA20F4"
+        image="equipment/chest/armor-chest-dress.png|R:#970890,BD1192,FA20F4"
         name="Pinkes Kleid"
         description="Ein pinkes Kleid."
         effect="Defense: +15"
@@ -5017,7 +5017,7 @@
 			<sprite>equipment/chest/valentine-dress.xml|#970890,BD1192,FA20F4</sprite>
     </item>
 	<item id="2246"
-        image="equipment/chest/valentine-dress.png|R:#101010,282828,404040"
+        image="equipment/chest/armor-chest-dress.png|R:#101010,282828,404040"
         name="Schwarzes Kleid"
         description="Ein schwarzes Kleid."
         effect="Defense: +15"
@@ -5028,7 +5028,7 @@
 			<sprite>equipment/chest/valentine-dress.xml|#101010,282828,404040</sprite>
     </item>
 	<item id="2247"
-        image="equipment/chest/valentine-dress.png|R:#64150F,C5331C,DC8A2D"
+        image="equipment/chest/armor-chest-dress.png|R:#64150F,C5331C,DC8A2D"
         name="Oranges Kleid"
         description="Ein Oranges Kleid."
         effect="Defense: +15"
@@ -5039,7 +5039,7 @@
 			<sprite>equipment/chest/valentine-dress.xml|#64150F,C5331C,DC8A2D</sprite>
     </item>
 	<item id="2248"
-        image="equipment/chest/valentine-dress.png|R:#32185B,5C2197,7C32B7,8D43F8"
+        image="equipment/chest/armor-chest-dress.png|R:#32185B,5C2197,7C32B7,8D43F8"
         name="Lilanes Kleid"
         description="Ein lilanes Kleid."
         effect="Defense: +15"
@@ -5050,7 +5050,7 @@
 			<sprite>equipment/chest/valentine-dress.xml|#32185B,5C2197,7C32B7,8D43F8</sprite>
     </item>
 	<item id="2249"
-        image="equipment/chest/valentine-dress.png|R:#104010,208020,30c030"
+        image="equipment/chest/armor-chest-dress.png|R:#104010,208020,30c030"
         name="Dunkelgrünes Kleid"
         description="Ein dunkelgrünes Kleid."
         effect="Defense: +15"
