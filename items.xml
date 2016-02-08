@@ -172,7 +172,7 @@
         weight="15"
         defense="2"
         max-per-slot="1">
-			<sprite>head-santahat.xml</sprite>
+			<sprite>equipment/head/head-santahat.xml</sprite>
     </item>
     <item id="512"
         image="generic/use-food-gingerbreadman.png"
@@ -284,8 +284,8 @@
         weight="20"
         defense="4"
         max-per-slot="1">
-			<sprite gender="male">chest-leather-male.xml|#573a26,9e7654,d3b79e,ffffff;#b96b3d,fbf5f1</sprite>
-			<sprite gender="female">chest-leather-female.xml|#412300,603100,8d4900;#ffff00</sprite>
+			<sprite gender="male">equipment/chest/chest-leather-male.xml|#573a26,9e7654,d3b79e,ffffff;#b96b3d,fbf5f1</sprite>
+			<sprite gender="female">equipment/chest/chest-leather-female.xml|#412300,603100,8d4900;#ffff00</sprite>
     </item>
     <item id="524"
         image="equipment/head/armor-head-fancyhat.png"
@@ -296,7 +296,7 @@
         weight="25"
         defense="5"
         max-per-slot="1">
-			<sprite>head-fancyhat.xml</sprite>
+			<sprite>equipment/head/head-fancyhat.xml</sprite>
     </item>
     <item id="525"
         image="equipment/head/armor-head-minershat.png"
@@ -307,7 +307,7 @@
         weight="30"
         defense="4"
         max-per-slot="1">
-			<sprite>head-minershat.xml</sprite>
+			<sprite>equipment/head/head-minershat.xml</sprite>
     </item>
     <item id="526"
         image="generic/generic-coinbag.png"
@@ -335,8 +335,8 @@
         weight="80"
         defense="2"
         max-per-slot="1">
-			<sprite gender="male">equipment/feet/boots-male.xml|#623a34,f0c2b4</sprite>
-			<sprite gender="female">equipment/feet/boots-female.xml|#623a34,f0c2b4</sprite>
+			<sprite gender="male">equipment/feet/feet-boots-male.xml|#623a34,f0c2b4</sprite>
+			<sprite gender="female">equipment/feet/feet-boots-female.xml|#623a34,f0c2b4</sprite>
     </item>
     <item id="529"
         image="equipment/weapons/weapon-arrow-iron.png"
@@ -371,8 +371,8 @@
         weight="20"
         defense="2"
         max-per-slot="1">
-			<sprite gender="male">hands-gloves-generic-male.xml|#202020,505050</sprite>
-			<sprite gender="female">hands-gloves-generic-female.xml|#202020,505050</sprite>
+			<sprite gender="male">equipment/hands/hands-gloves-generic-male.xml|#202020,505050</sprite>
+			<sprite gender="female">equipment/hands/hands-gloves-generic-female.xml|#202020,505050</sprite>
     </item>
     <item id="532"
         image="equipment/hands/armor-hands-leathergloves.png"
@@ -383,8 +383,8 @@
         weight="30"
         defense="4"
         max-per-slot="1">
-			<sprite gender="male">hands-gloves-generic-male.xml|#4e2e18,c8752f</sprite>
-			<sprite gender="female">hands-gloves-generic-female.xml|#4e2e18,c8752f</sprite>
+			<sprite gender="male">equipment/hands/hands-gloves-generic-male.xml|#4e2e18,c8752f</sprite>
+			<sprite gender="female">equipment/hands/hands-gloves-generic-female.xml|#4e2e18,c8752f</sprite>
     </item>
     <item id="533"
         image="generic/use-food-roastedmaggot.png"
@@ -488,7 +488,7 @@
         weight="10"
         max-per-slot="1"
         defense="3">
-			<sprite>head-standardheadband.xml|#563f25,99784c,d8bd86,ffffff</sprite>
+			<sprite>equipment/head/head-standardheadband.xml|#563f25,99784c,d8bd86,ffffff</sprite>
     </item>
     <item id="544"
         image="equipment/head/armor-head-silkheadband.png"
@@ -499,7 +499,7 @@
         weight="10"
         defense="10"
         max-per-slot="1">
-			<sprite>head-silkheadband.xml</sprite>
+			<sprite>equipment/head/head-silkheadband.xml</sprite>
     </item>
     <item id="545"
         image="equipment/weapons/weapon-bow-forestbow.png"
@@ -526,8 +526,8 @@
         weight="30"
         defense="6"
         max-per-slot="1">
-			<sprite gender="male">chest-leather-male.xml|#443c21,85794a,beb590,ffffff;#824035,d6a19a</sprite>
-			<sprite gender="female">chest-leather-female.xml|#251e06,443c21,71653b,a0945e;#b6574a</sprite>
+			<sprite gender="male">equipment/chest/chest-leather-male.xml|#443c21,85794a,beb590,ffffff;#824035,d6a19a</sprite>
+			<sprite gender="female">equipment/chest/chest-leather-female.xml|#251e06,443c21,71653b,a0945e;#b6574a</sprite>
     </item>
     <item id="547"
         image="equipment/weapons/weapon-polearm-bardiche.png"
@@ -677,8 +677,8 @@
         weight="20"
         defense="3"
         max-per-slot="1">
-			<sprite gender="male">hands-gloves-generic-male.xml|#202020,c0c0c0,ffffff,ffffff</sprite>
-			<sprite gender="female">hands-gloves-generic-female.xml|#202020,c0c0c0,ffffff,ffffff</sprite>
+			<sprite gender="male">equipment/hands/hands-gloves-generic-male.xml|#202020,c0c0c0,ffffff,ffffff</sprite>
+			<sprite gender="female">equipment/hands/hands-gloves-generic-female.xml|#202020,c0c0c0,ffffff,ffffff</sprite>
     </item>
     <item id="564"
         image="equipment/chest/armor-chest-tnecksweater.png|W:#A4B2B2,FFFFFF"
@@ -689,8 +689,8 @@
         weight="10"
         defense="6"
         max-per-slot="1">
-			<sprite gender="male">chest-tnecksweater-male.xml|#A4B2B2,FFFFFF</sprite>
-			<sprite gender="female">chest-tnecksweater-female.xml|#A4B2B2,FFFFFF</sprite>
+			<sprite gender="male">equipment/chest/chest-tnecksweater-male.xml|#A4B2B2,FFFFFF</sprite>
+			<sprite gender="female">equipment/chest/chest-tnecksweater-female.xml|#A4B2B2,FFFFFF</sprite>
     </item>
     <item id="565"
         image="generic/generic-petal.png"
@@ -902,7 +902,7 @@
         weight="100"
         max-per-slot="1"/>
     <item id="586"
-        image="equipment/legs/armor-legs-*shorts.png|W:#A4B2B2,FFFFFF"
+        image="equipment/legs/armor-legs-shorts.png|W:#A4B2B2,FFFFFF"
         name="Baumwollhose"
         description="Eine Hose aus 100% Baumwolle."
         effect="+2% Defense"
@@ -1133,7 +1133,7 @@
     -->
     
     <item id="610"
-        image="equipment/legs/armor-legs-*shorts.png|W:#255367,266c84,68b0c5,ffffff"
+        image="equipment/legs/armor-legs-shorts.png|W:#255367,266c84,68b0c5,ffffff"
         name="Kurze Jeans"
         description="Eine paar kurze Jeans, leider zu kurz."
         effect="+4% Defense"
@@ -1185,7 +1185,7 @@
         weight="10"
         defense="4"
         max-per-slot="1">
-			<sprite>head-pumpkinhelmet.xml</sprite>
+			<sprite>equipment/head/head-pumpkinhelmet.xml</sprite>
     </item>
     <item id="616"
         image="equipment/head/armor-head-axehat.png"
@@ -1196,7 +1196,7 @@
         weight="10"
         defense="4"
         max-per-slot="1">
-			<sprite>head-axehat.xml</sprite>
+			<sprite>equipment/head/head-axehat.xml</sprite>
     </item>
     <item id="617"
         image="equipment/head/armor-head-piratehat.png"
@@ -1207,7 +1207,7 @@
         weight="10"
         defense="4"
         max-per-slot="1">
-			<sprite>head-piratehat.xml</sprite>
+			<sprite>equipment/head/head-piratehat.xml</sprite>
     </item>
     <item id="618"
         image="equipment/head/armor-head-goggles.png"
@@ -1218,7 +1218,7 @@
         weight="10"
         defense="2"
         max-per-slot="1">
-			<sprite>head-goggles.xml|#787878,f7f7f7</sprite>
+			<sprite>equipment/head/head-goggles.xml|#787878,f7f7f7</sprite>
     </item>
     <item id="619"
         image="equipment/head/armor-head-leathergoggles.png"
@@ -1229,7 +1229,7 @@
         weight="10"
         defense="3"
         max-per-slot="1">
-			<sprite>head-goggles.xml|#783c00,ff973b</sprite>
+			<sprite>equipment/head/head-goggles.xml|#783c00,ff973b</sprite>
     </item>
     <item id="620"
         image="equipment/head/armor-head-circlet.png"
@@ -1240,7 +1240,7 @@
         weight="10"
         defense="4"
         max-per-slot="1">
-			<sprite>head-circlet.xml</sprite>
+			<sprite>equipment/head/head-circlet.xml</sprite>
     </item>
     <item id="621"
         image="equipment/head/armor-head-eyepatch.png"
@@ -1251,7 +1251,7 @@
         weight="10"
         defense="3"
         max-per-slot="1">
-			<sprite>head-eyepatch.xml</sprite>
+			<sprite>equipment/head/head-eyepatch.xml</sprite>
     </item>
     <item id="622"
         image="equipment/head/armor-head-bandana.png"
@@ -1262,7 +1262,7 @@
         weight="10"
         defense="3"
         max-per-slot="1">
-			<sprite>head-bandana.xml</sprite>
+			<sprite>equipment/head/head-bandana.xml</sprite>
     </item>
     <item id="623"
         image="equipment/weapons/weapon-polearm-scythe.png"
@@ -1288,8 +1288,8 @@
         weight="10"
         defense="8"
         max-per-slot="1">
-			<sprite gender="male">chest-vnecksweater-male.xml|#A4B2B2,FFFFFF</sprite>
-			<sprite gender="female">chest-vnecksweater-female.xml|#A4B2B2,FFFFFF</sprite>
+			<sprite gender="male">equipment/chest/chest-vnecksweater-male.xml|#A4B2B2,FFFFFF</sprite>
+			<sprite gender="female">equipment/chest/chest-vnecksweater-female.xml|#A4B2B2,FFFFFF</sprite>
     </item>
     <item id="625"
         image="equipment/chest/armor-chest-chainmail.png"
@@ -1300,8 +1300,8 @@
         weight="250"
         defense="20"
         max-per-slot="1">
-			<sprite gender="male">chest-chainmail-male.xml</sprite>
-			<sprite gender="female">chest-chainmail-female.xml</sprite>
+			<sprite gender="male">equipment/chest/chest-chainmail-male.xml</sprite>
+			<sprite gender="female">equipment/chest/chest-chainmail-female.xml</sprite>
     </item>
     <item id="626"
         image="equipment/chest/armor-chest-lightplatemail.png|W:#ddeeff"
@@ -1312,8 +1312,8 @@
         weight="240"
         defense="25"
         max-per-slot="1">
-			<sprite gender="male">chest-lightplatemail-male.xml|#ddeeff</sprite>
-			<sprite gender="female">chest-lightplatemail-female.xml|#ddeeff</sprite>
+			<sprite gender="male">equipment/chest/chest-lightplatemail-male.xml|#ddeeff</sprite>
+			<sprite gender="female">equipment/chest/chest-lightplatemail-female.xml|#ddeeff</sprite>
     </item>
     <item id="627"
         image="equipment/head/armor-head-tophat.png"
@@ -1324,7 +1324,7 @@
         weight="10"
         defense="10"
         max-per-slot="1">
-			<sprite>head-tophat.xml</sprite>
+			<sprite>equipment/head/head-tophat.xml</sprite>
     </item>
     <item id="628"
         image="equipment/head/armor-head-funkyhat.png"
@@ -1335,7 +1335,7 @@
         weight="10"
         defense="13"
         max-per-slot="1">
-			<sprite>head-funkywinter.xml</sprite>
+			<sprite>equipment/head/head-funkywinter.xml</sprite>
     </item>
     <item id="629"
         image="equipment/head/armor-head-mushroomhat.png"
@@ -1346,7 +1346,7 @@
         weight="10"
         defense="10"
         max-per-slot="1">
-			<sprite>head-mushroom.xml</sprite>
+			<sprite>equipment/head/head-mushroom.xml</sprite>
     </item>
     <item id="630"
         image="equipment/head/armor-head-shroomhat.png"
@@ -1357,7 +1357,7 @@
         weight="10"
         defense="13"
         max-per-slot="1">
-			<sprite>head-shroom.xml</sprite>
+			<sprite>equipment/head/head-shroom.xml</sprite>
     </item>
     <item id="631"
         image="generic/generic-darkcrystal.png"
@@ -1368,7 +1368,7 @@
         weight="10"
         max-per-slot="10"/>
     <item id="632"
-        image="equipment/legs/armor-legs-*skirt.png|W:#A4B2B2,FFFFFF"
+        image="equipment/legs/armor-legs-skirt.png|W:#A4B2B2,FFFFFF"
         name="Baumwoll Rock"
         description="Ein Rock aus 100% Baumwolle."
         effect="+4% Defense"
@@ -1387,7 +1387,7 @@
         type="equip-head"
         weight="10"
         max-per-slot="1">
-			<sprite>head-xmaself.xml</sprite>
+			<sprite>equipment/head/head-xmaself.xml</sprite>
     </item>
     <item id="634"
         image="equipment/head/armor-head-mask.png"
@@ -1398,7 +1398,7 @@
         type="equip-head"
         weight="10"
         max-per-slot="1">
-			<sprite>head-mask.xml</sprite>
+			<sprite>equipment/head/head-mask.xml</sprite>
     </item>
     <item id="635"
         image="generic/generic-santacookie.png"
@@ -1416,7 +1416,7 @@
         type="equip-head"
         defense="18"
         weight="140">
-			<sprite>head-warlordhelm.xml</sprite>
+			<sprite>equipment/head/head-warlordhelm.xml</sprite>
     </item>
     <item id="637"
         image="equipment/head/armor-head-knighthelm.png"
@@ -1426,7 +1426,7 @@
         type="equip-head"
         defense="15"
         weight="90">
-			<sprite>head-knighthelm.xml</sprite>
+			<sprite>equipment/head/head-knighthelm.xml</sprite>
     </item>
     <item id="638"
         image="equipment/head/armor-head-infantryhelm.png"
@@ -1436,7 +1436,7 @@
         type="equip-head"
         defense="15"
         weight="90">
-			<sprite>head-infantryhelm.xml</sprite>
+			<sprite>equipment/head/head-infantryhelm.xml</sprite>
     </item>
     <item id="639"
         image="equipment/head/armor-head-crusadehelm.png"
@@ -1446,7 +1446,7 @@
         type="equip-head"
         defense="18"
         weight="140">
-			<sprite>head-crusadehelm.xml</sprite>
+			<sprite>equipment/head/head-crusadehelm.xml</sprite>
     </item>
     <item id="640"
         image="generic/generic-ironore.png"
@@ -1463,7 +1463,7 @@
         type="generic"
         weight="20"/>
     <item id="642"
-        image="equipment/legs/armor-legs-*chaps.png"
+        image="equipment/legs/armor-legs-chaps.png"
         name="Lederjeans"
         description="Jeans aus Schlangenleder."
         effect="+6% Defense"
@@ -1481,7 +1481,7 @@
         type="equip-head"
         defense="6"
         weight="30">
-			<sprite>head-cowboywhite.xml</sprite>
+			<sprite>equipment/head/head-cowboywhite.xml</sprite>
     </item>
     <item id="644"
         image="equipment/head/armor-head-cowboyblack.png"
@@ -1491,7 +1491,7 @@
         type="equip-head"
         defense="6"
         weight="30">
-			<sprite>head-cowboyblack.xml</sprite>
+			<sprite>equipment/head/head-cowboyblack.xml</sprite>
     </item>
     <item id="645"
         image="equipment/chest/armor-chest-lightplatemail.png|W:#573f10,9c8226,d3c04b,ffffff"
@@ -1501,8 +1501,8 @@
         type="equip-torso"
         defense="25"
         weight="240">
-			<sprite gender="male">chest-lightplatemail-male.xml|#573f10,9c8226,d3c04b,ffffff</sprite>
-			<sprite gender="female">chest-lightplatemail-female.xml|#573f10,9c8226,d3c04b,ffffff</sprite>
+			<sprite gender="male">equipment/chest/chest-lightplatemail-male.xml|#573f10,9c8226,d3c04b,ffffff</sprite>
+			<sprite gender="female">equipment/chest/chest-lightplatemail-female.xml|#573f10,9c8226,d3c04b,ffffff</sprite>
     </item>
     <item id="646"
         image="equipment/head/armor-head-crown.png"
@@ -1512,7 +1512,7 @@
         type="equip-head"
         defense="4"
         weight="50">
-			<sprite>head-crown.xml</sprite>
+			<sprite>equipment/head/head-crown.xml</sprite>
     </item>
     <item id="647"
         image="equipment/head/armor-head-devcap.png|R:#9999ff"
@@ -1522,7 +1522,7 @@
         type="equip-head"
         defense="5"
         weight="10">
-			<sprite>head-devcap.xml|#9999ff</sprite>
+			<sprite>equipment/head/head-devcap.xml|#9999ff</sprite>
     </item>
     <item id="648"
         image="equipment/accessoires/armor-ring-strength-rough.png"
@@ -1586,7 +1586,7 @@
         type="equip-head"
         defense="5"
         weight="20">
-			<sprite>head-cap.xml|#d94800</sprite>
+			<sprite>equipment/head/head-cap.xml|#d94800</sprite>
     </item>
     <item id="655"
         image="equipment/feet/armor-feet-furboots.png"
@@ -1597,8 +1597,8 @@
         weight="120"
         defense="3"
         max-per-slot="1">
-			<sprite gender="male">equipment/feet/furboots-male.xml</sprite>
-			<sprite gender="female">equipment/feet/furboots-female.xml</sprite>
+			<sprite gender="male">equipment/feet/feet-furboots-male.xml</sprite>
+			<sprite gender="female">equipment/feet/feet-furboots-female.xml</sprite>
     </item>
     <item id="656"
         image="equipment/head/armor-head-serf.png"
@@ -1609,7 +1609,7 @@
         weight="20"
         defense="2"
         max-per-slot="1">
-			<sprite>head-serf.xml</sprite>
+			<sprite>equipment/head/head-serf.xml</sprite>
     </item>
     <item id="657"
         image="generic/use-food-orange.png"
@@ -1629,8 +1629,8 @@
         weight="275"
         defense="27"
         max-per-slot="1">
-			<sprite gender="male">chest-warlordplate-male.xml</sprite>
-			<sprite gender="female">chest-warlordplate-female.xml</sprite>
+			<sprite gender="male">equipment/chest/chest-warlordplate-male.xml</sprite>
+			<sprite gender="female">equipment/chest/chest-warlordplate-female.xml</sprite>
     </item>
         <item id="659"
         image="equipment/chest/armor-chest-warlordplate.png|W:#573f10,9c8226,d3c04b,ffffff"
@@ -1641,8 +1641,8 @@
         weight="275"
         defense="27"
         max-per-slot="1">
-			<sprite gender="male">chest-warlordplate-male.xml|#573f10,9c8226,d3c04b,ffffff</sprite>
-			<sprite gender="female">chest-warlordplate-female.xml|#573f10,9c8226,d3c04b,ffffff</sprite>
+			<sprite gender="male">equipment/chest/chest-warlordplate-male.xml|#573f10,9c8226,d3c04b,ffffff</sprite>
+			<sprite gender="female">equipment/chest/chest-warlordplate-female.xml|#573f10,9c8226,d3c04b,ffffff</sprite>
     </item>
     <item id="660"
         image="generic/generic-fabric.png|W:#2b454d,72818c,b7c0c5,ffffff"
@@ -1773,7 +1773,7 @@
         weight="20"
         defense="2"
         max-per-slot="1">
-			<sprite>head-gradcap.xml</sprite>
+			<sprite>equipment/head/head-gradcap.xml</sprite>
     </item>
     <item id="676"
         image="generic/use-food-steak.png"
@@ -1801,7 +1801,7 @@
         weight="15"
         defense="3"
         max-per-slot="1">
-			<sprite>head-nohmask.xml</sprite>
+			<sprite>equipment/head/head-nohmask.xml</sprite>
     </item>
     <item id="679"
         image="equipment/head/armor-head-demonmask.png"
@@ -1812,7 +1812,7 @@
         weight="15"
         defense="3"
         max-per-slot="1">
-			<sprite>head-demonmask.xml</sprite>
+			<sprite>equipment/head/head-demonmask.xml</sprite>
     </item>
     <item id="680"
         image="generic/generic-herb.png|W:#e0b0ff"
@@ -1885,8 +1885,8 @@
         effect="+2% Defense"
         type="equip-torso"
         weight="10">
-			<sprite gender="male">chest-tanktop-male.xml|#A4B2B2,FFFFFF</sprite>
-			<sprite gender="female">chest-tanktop-female.xml|#A4B2B2,FFFFFF</sprite>
+			<sprite gender="male">equipment/chest/chest-tanktop-male.xml|#A4B2B2,FFFFFF</sprite>
+			<sprite gender="female">equipment/chest/chest-tanktop-female.xml|#A4B2B2,FFFFFF</sprite>
     </item>
     <item id="689"
         image="equipment/chest/armor-chest-tanktop-short.png|W:#A4B2B2,FFFFFF"
@@ -1895,8 +1895,8 @@
         effect="+2% Defense"
         type="equip-torso"
         weight="8">
-			<sprite gender="male">chest-shorttanktop-male.xml|#A4B2B2,FFFFFF</sprite>
-			<sprite gender="female">chest-shorttanktop-female.xml|#A4B2B2,FFFFFF</sprite>
+			<sprite gender="male">equipment/chest/chest-shorttanktop-male.xml|#A4B2B2,FFFFFF</sprite>
+			<sprite gender="female">equipment/chest/chest-shorttanktop-female.xml|#A4B2B2,FFFFFF</sprite>
     </item>    
     <item id="690"
         image="generic/use-potion-small.png|G:#580000,A40000,C02020,ff6060"
@@ -2127,8 +2127,8 @@
         weight="5"
         defense="5"
         max-per-slot="1">
-			<sprite gender="male">chest-robe-male.xml|#ffffff</sprite>
-			<sprite gender="female">chest-robe-female.xml|#ffffff</sprite>
+			<sprite gender="male">equipment/chest/chest-robe-male.xml|#ffffff</sprite>
+			<sprite gender="female">equipment/chest/chest-robe-female.xml|#ffffff</sprite>
     </item>
     <item id="721"
         image="equipment/head/armor-head-highpriest-crown.png"
@@ -2138,7 +2138,7 @@
         type="equip-head"
         defense="4"
         weight="60">
-			<sprite>head-highpriest-crown.xml</sprite>
+			<sprite>equipment/head/head-highpriest-crown.xml</sprite>
     </item>
     <item id="722"
         image="equipment/head/armor-head-monster-skull-helm.png"
@@ -2148,7 +2148,7 @@
         type="equip-head"
         defense="7"
         weight="40">
-			<sprite>head-monster-skull-helm.xml</sprite>
+			<sprite>equipment/head/head-monster-skull-helm.xml</sprite>
     </item>
     <item id="723"
         image="equipment/head/armor-head-deserthat.png|R:#FFFFFF"
@@ -2158,7 +2158,7 @@
         type="equip-head"
         defense="3"
         weight="10">
-			<sprite>head-deserthat.xml|#FFFFFF</sprite>
+			<sprite>equipment/head/head-deserthat.xml|#FFFFFF</sprite>
     </item>
     <item id="724"
         image="equipment/head/armor-head-standardheadband.png|W:#A4B2B2,FFFFFF"
@@ -2168,7 +2168,7 @@
         type="equip-head"
         defense="2"
         weight="5">
-			<sprite>head-standardheadband.xml|#A4B2B2,FFFFFF</sprite>
+			<sprite>equipment/head/head-standardheadband.xml|#A4B2B2,FFFFFF</sprite>
     </item>
     <item id="725"
         image="equipment/head/armor-head-gmcap.png|R:#BF0E08"
@@ -2178,7 +2178,7 @@
         type="equip-head"
         defense="5"
         weight="10">
-			<sprite>head-gmcap.xml|#BF0E08</sprite>
+			<sprite>equipment/head/head-gmcap.xml|#BF0E08</sprite>
     </item>
     <item id="726"
         image="equipment/chest/armor-chest-robe.png|W:#E40A0A"
@@ -2189,8 +2189,8 @@
         weight="5"
         defense="5"
         max-per-slot="1">
-			<sprite gender="male">chest-robe-male.xml|#E40A0A</sprite>
-			<sprite gender="female">chest-robe-female.xml|#E40A0A</sprite>
+			<sprite gender="male">equipment/chest/chest-robe-male.xml|#E40A0A</sprite>
+			<sprite gender="female">equipment/chest/chest-robe-female.xml|#E40A0A</sprite>
     </item>
     <item id="727"
         image="generic/generic-iten.png|W:#ffe0f0"
@@ -2221,7 +2221,7 @@
         type="generic"
         weight="1"/>
     <item id="731"
-        image="equipment/legs/armor-legs-*assassinpants.png"
+        image="equipment/legs/armor-legs-assassinpants.png"
         name="Assassinen-Hose"
         description="Eine Hose für den Meister Assassin."
         effect="+5% Defense"
@@ -2257,8 +2257,8 @@
         weight="35"
         defense="4"
         max-per-slot="1">
-			<sprite gender="male">equipment/feet/boots-male.xml|#505050</sprite>
-			<sprite gender="female">equipment/feet/boots-female.xml|#505050</sprite>
+			<sprite gender="male">equipment/feet/feet-boots-male.xml|#505050</sprite>
+			<sprite gender="female">equipment/feet/feet-boots-female.xml|#505050</sprite>
     </item>
     <item id="735"
         image="equipment/feet/armor-feet-boots.png|W:#A4B2B2,FFFFFF"
@@ -2268,8 +2268,8 @@
         type="equip-head"
         defense="1"
         weight="10">
-			<sprite gender="male">equipment/feet/boots-male.xml|#A4B2B2,FFFFFF</sprite>
-			<sprite gender="female">equipment/feet/boots-female.xml|#A4B2B2,FFFFFF</sprite>
+			<sprite gender="male">equipment/feet/feet-boots-male.xml|#A4B2B2,FFFFFF</sprite>
+			<sprite gender="female">equipment/feet/feet-boots-female.xml|#A4B2B2,FFFFFF</sprite>
     </item>
     <item id="736"
         image="generic/use-food-cake-a.png|R:#EDE5B2,FFF7BF;G:#CCCCCC,FFFFFF"
@@ -2317,8 +2317,8 @@
         type="equip-arms"
         defense="1"
         weight="10">
-			<sprite gender="male">hands-gloves-generic-male.xml|#A4B2B2,FFFFFF</sprite>
-			<sprite gender="female">hands-gloves-generic-female.xml|#A4B2B2,FFFFFF</sprite>
+			<sprite gender="male">equipment/hands/hands-gloves-generic-male.xml|#A4B2B2,FFFFFF</sprite>
+			<sprite gender="female">equipment/hands/hands-gloves-generic-female.xml|#A4B2B2,FFFFFF</sprite>
     </item>
     <item id="742"
         image="generic/generic-4leafclover.png"
@@ -2402,7 +2402,7 @@
         weight="5"
         defense="1"
         max-per-slot="1">
-			<sprite>head-pinkiehat.xml</sprite>
+			<sprite>equipment/head/head-pinkiehat.xml</sprite>
     </item>
     <item id="752"
         image="equipment/head/armor-head-fluffyhat.png"
@@ -2413,7 +2413,7 @@
         weight="10"
         defense="2"
         max-per-slot="1">
-			<sprite>head-fluffyhat.xml</sprite>
+			<sprite>equipment/head/head-fluffyhat.xml</sprite>
     </item>
     <item id="753"
         image="generic/generic-batwing.png"
@@ -2436,8 +2436,8 @@
         weight="15"
         defense="10"
         max-per-slot="1">
-			<sprite gender="male">chest-assassin-male.xml</sprite>
-			<sprite gender="female">chest-assassin-female.xml</sprite>
+			<sprite gender="male">equipment/chest/chest-assassin-male.xml</sprite>
+			<sprite gender="female">equipment/chest/chest-assassin-female.xml</sprite>
     </item>
     <item id="756"
         image="equipment/hands/armor-hands-assassingloves.png"
@@ -2448,8 +2448,8 @@
         weight="9"
         defense="5"
         max-per-slot="1">
-			<sprite gender="male">hands-gloves-assassin-male.xml</sprite>
-			<sprite gender="female">hands-gloves-assassin-female.xml</sprite>
+			<sprite gender="male">equipment/hands/hands-gloves-assassin-male.xml</sprite>
+			<sprite gender="female">equipment/hands/hands-gloves-assassin-female.xml</sprite>
     </item>
     <item id="757"
         image="equipment/feet/armor-feet-assassinboots.png"
@@ -2460,8 +2460,8 @@
         weight="10"
         defense="5"
         max-per-slot="1">
-			<sprite gender="male">equipment/feet/assassin-boots-male.xml</sprite>
-			<sprite gender="female">equipment/feet/assassin-boots-female.xml</sprite>
+			<sprite gender="male">equipment/feet/feet-assassin-boots-male.xml</sprite>
+			<sprite gender="female">equipment/feet/feet-assassin-boots-female.xml</sprite>
     </item>
     <item id="758"
         image="equipment/weapons/weapon-staff-woodstaff.png"
@@ -2487,7 +2487,7 @@
         defense="19"
         weight="43"
 	max-per-slot="1">
-			<sprite>head-paladinhelm.xml</sprite>
+			<sprite>equipment/head/head-paladinhelm.xml</sprite>
     </item>
     <item id="760"
         image="equipment/head/armor-head-overlordhelm.png"
@@ -2498,7 +2498,7 @@
         defense="20"
         weight="45"
 	max-per-slot="1">
-			<sprite>head-overlordhelm.xml</sprite>
+			<sprite>equipment/head/head-overlordhelm.xml</sprite>
     </item>
     <item id="761"
         image="equipment/head/armor-head-desert-helmet.png"
@@ -2509,7 +2509,7 @@
         weight="48"
         defense="21"
         max-per-slot="1">
-			<sprite>head-desert-helmet.xml</sprite>
+			<sprite>equipment/head/head-desert-helmet.xml</sprite>
     </item>
     <!-- 762 TERRANITE ARROW -->
     <item id="763"
@@ -2529,7 +2529,7 @@
         weight="5"
         defense="5"
         max-per-slot="1">
-			<sprite>head-sailor_hat.xml</sprite>
+			<sprite>equipment/head/head-sailor_hat.xml</sprite>
     </item>
     <item id="765"
         image="equipment/head/armor-head-captain_hat.png"
@@ -2540,7 +2540,7 @@
         weight="8"
         defense="15"
         max-per-slot="1">
-			<sprite>head-captain_hat.xml</sprite>
+			<sprite>equipment/head/head-captain_hat.xml</sprite>
     </item>
     <item id="766"
         image="equipment/head/armor-head-terranitehelm.png"
@@ -2550,7 +2550,7 @@
         type="equip-head"
         defense="15"
         weight="10">
-			<sprite>head-terranitehelm.xml</sprite>
+			<sprite>equipment/head/head-terranitehelm.xml</sprite>
     </item>
     <item id="767"
         image="equipment/chest/armor-chest-terranite.png"
@@ -2561,11 +2561,11 @@
         weight="120"
         defense="30"
         max-per-slot="1">
-			<sprite gender="male">chest-terranite-male.xml</sprite>
-			<sprite gender="female">chest-terranite-female.xml</sprite>
+			<sprite gender="male">equipment/chest/chest-terranite-male.xml</sprite>
+			<sprite gender="female">equipment/chest/chest-terranite-female.xml</sprite>
     </item>
     <item id="768"
-        image="equipment/legs/armor-legs-*terranite.png"
+        image="equipment/legs/armor-legs-terranite.png"
         name="Terranite Legs Armor"
         description="Leggings made out of terranite."
         effect="+8% Defense"
@@ -2585,7 +2585,7 @@
         weight="12"
         defense="14"
         max-per-slot="1">
-			<sprite>head-guyfawkes.xml</sprite>
+			<sprite>equipment/head/head-guyfawkes.xml</sprite>
     </item>
     <item id="770"
         image="equipment/head/armor-head-fairy_hat.png"
@@ -2596,10 +2596,10 @@
         weight="18"
         defense="8"
         max-per-slot="1">
-			<sprite>head-fairy_hat.xml</sprite>
+			<sprite>equipment/head/head-fairy_hat.xml</sprite>
     </item>
     <item id="771"
-        image="equipment/legs/armor-legs-*miniskirt.png|W:#a4b2b2,ffffff"
+        image="equipment/legs/armor-legs-miniskirt.png|W:#a4b2b2,ffffff"
         name="Minirock"
         description="Ein kurzer Rock für heiße Sommer."
         effect="+4% Defense"
@@ -2775,8 +2775,8 @@
         weight="10"
         defense="2"
         max-per-slot="1">
-			<sprite gender="male">chest-cotton-male.xml|#A4B2B2,FFFFFF</sprite>
-			<sprite gender="female">chest-cotton-female.xml|#A4B2B2,FFFFFF</sprite>
+			<sprite gender="male">equipment/chest/chest-cotton-male.xml|#A4B2B2,FFFFFF</sprite>
+			<sprite gender="female">equipment/chest/chest-cotton-female.xml|#A4B2B2,FFFFFF</sprite>
     </item>
     <item id="1203"
         image="equipment/head/armor-head-rangerhat.png"
@@ -2787,7 +2787,7 @@
         weight="10"
         defense="2"
         max-per-slot="1">
-			<sprite>head-rangerhat.xml</sprite>
+			<sprite>equipment/head/head-rangerhat.xml</sprite>
     </item>
     <item id="1204"
         image="equipment/head/armor-head-antlerhat.png"
@@ -2798,7 +2798,7 @@
         weight="10"
         defense="4"
         max-per-slot="1">
-			<sprite>head-antlerhat.xml</sprite>
+			<sprite>equipment/head/head-antlerhat.xml</sprite>
     </item>
     <item id="1205"
         image="equipment/head/armor-head-christmastree.png"
@@ -2809,7 +2809,7 @@
         weight="10"
         defense="2"
         max-per-slot="1">
-			<sprite>head-christmastree.xml</sprite>
+			<sprite>equipment/head/head-christmastreehat.xml</sprite>
     </item>
     <item id="1206"
         image="equipment/head/armor-head-santabeardhat.png"
@@ -2820,7 +2820,7 @@
         weight="10"
         defense="5"
         max-per-slot="1">
-			<sprite>head-santabeardhat.xml</sprite>
+			<sprite>equipment/head/head-santabeardhat.xml</sprite>
     </item>
     <item id="1207"
         image="generic/generic-redstocking.png"
@@ -2886,7 +2886,7 @@
         type="equip-head"
         defense="10"
         weight="10">
-			<sprite>head-bunnyears.xml</sprite>
+			<sprite>equipment/head/head-bunnyears.xml</sprite>
     </item>
     <item id="1215"
         image="equipment/weapons/weapon-sword-sabre.png"
@@ -2912,7 +2912,7 @@
         type="equip-head"
         defense="1"
         weight="20">
-			<sprite>head-mouboohead.xml</sprite>
+			<sprite>equipment/head/head-mouboohead.xml</sprite>
     </item>
     <item id="1217"
         image="equipment/head/armor-head-catears.png|M:#774444;W:#777777"
@@ -2922,7 +2922,7 @@
         type="equip-head"
         defense="1"
         weight="2">
-			<sprite>head-catears.xml|#774444;#777777</sprite>
+			<sprite>equipment/head/head-catears.xml|#774444;#777777</sprite>
     </item>
     <item id="1218"
         image="equipment/head/armor-head-paperbag.png"
@@ -2932,7 +2932,7 @@
         type="equip-head"
         defense="1"
         weight="1">
-			<sprite>head-paperbag.xml</sprite>
+			<sprite>equipment/head/head-paperbag.xml</sprite>
     </item>
     <item id="1219"
         image="equipment/head/armor-head-moubootaurhead.png"
@@ -2942,7 +2942,7 @@
         type="equip-head"
         defense="1"
         weight="20">
-			<sprite>head-moubootaurhead.xml</sprite>
+			<sprite>equipment/head/head-moubootaurhead.xml</sprite>
     </item>
     <item id="1220"
         image="equipment/head/armor-head-parsley-earplugs.png"
@@ -2952,7 +2952,7 @@
         type="equip-head"
         defense="1"
         weight="1">
-			<sprite>head-parsley-earplugs.xml</sprite>
+			<sprite>equipment/head/head-parsley-earplugs.xml</sprite>
     </item>
     <item id="1221"
         image="equipment/head/armor-head-skullmask.png"
@@ -2962,7 +2962,7 @@
         type="equip-head"
         defense="2"
         weight="15">
-			<sprite>head-skullmask.xml</sprite>
+			<sprite>equipment/head/head-skullmask.xml</sprite>
     </item>
     <item id="1222"
         image="generic/generic-claylump_small.png"
@@ -3134,7 +3134,7 @@
         type="equip-head"
         defense="5"
         weight="10">
-			<sprite>head-snowgoggles.xml</sprite>
+			<sprite>equipment/head/head-snowgoggles.xml</sprite>
     </item>
 
     <!-- The 2XXY IDs are used for recolored items on eAthena.
@@ -3153,8 +3153,8 @@
         effect="+2% Defense"
         type="equip-torso"
         weight="10">
-			<sprite gender="male">chest-cotton-male.xml|#580000,A40000,C02020,ff6060</sprite>
-			<sprite gender="female">chest-cotton-female.xml|#580000,A40000,C02020,ff6060</sprite>
+			<sprite gender="male">equipment/chest/chest-cotton-male.xml|#580000,A40000,C02020,ff6060</sprite>
+			<sprite gender="female">equipment/chest/chest-cotton-female.xml|#580000,A40000,C02020,ff6060</sprite>
     </item>
     <item id="2051"
         image="equipment/chest/armor-chest-cottonshirt.png|W:#115511,22aa22,99dd99"
@@ -3163,8 +3163,8 @@
         effect="+2% Defense"
         type="equip-torso"
         weight="10">
-			<sprite gender="male">chest-cotton-male.xml|#115511,22aa22,99dd99</sprite>
-			<sprite gender="female">chest-cotton-female.xml|#115511,22aa22,99dd99</sprite>
+			<sprite gender="male">equipment/chest/chest-cotton-male.xml|#115511,22aa22,99dd99</sprite>
+			<sprite gender="female">equipment/chest/chest-cotton-female.xml|#115511,22aa22,99dd99</sprite>
     </item>
     <item id="2052"
         image="equipment/chest/armor-chest-cottonshirt.png|W:#222255,6666ff"
@@ -3173,8 +3173,8 @@
         effect="+2% Defense"
         type="equip-torso"
         weight="10">
-			<sprite gender="male">chest-cotton-male.xml|#222255,6666ff</sprite>
-			<sprite gender="female">chest-cotton-female.xml|#222255,6666ff</sprite>
+			<sprite gender="male">equipment/chest/chest-cotton-male.xml|#222255,6666ff</sprite>
+			<sprite gender="female">equipment/chest/chest-cotton-female.xml|#222255,6666ff</sprite>
     </item>
     <item id="2053"
         image="equipment/chest/armor-chest-cottonshirt.png|W:#846211,dab333,fffb93,ffffff"
@@ -3183,8 +3183,8 @@
         effect="+2% Defense"
         type="equip-torso"
         weight="10">
-			<sprite gender="male">chest-cotton-male.xml|#846211,dab333,fffb93,ffffff</sprite>
-			<sprite gender="female">chest-cotton-female.xml|#846211,dab333,fffb93,ffffff</sprite>
+			<sprite gender="male">equipment/chest/chest-cotton-male.xml|#846211,dab333,fffb93,ffffff</sprite>
+			<sprite gender="female">equipment/chest/chest-cotton-female.xml|#846211,dab333,fffb93,ffffff</sprite>
     </item>
     <item id="2054"
         image="equipment/chest/armor-chest-cottonshirt.png|W:#16486e,498ec5,e4f2fc"
@@ -3193,8 +3193,8 @@
         effect="+2% Defense"
         type="equip-torso"
         weight="10">
-			<sprite gender="male">chest-cotton-male.xml|#16486e,498ec5,e4f2fc</sprite>
-			<sprite gender="female">chest-cotton-female.xml|#16486e,498ec5,e4f2fc</sprite>
+			<sprite gender="male">equipment/chest/chest-cotton-male.xml|#16486e,498ec5,e4f2fc</sprite>
+			<sprite gender="female">equipment/chest/chest-cotton-female.xml|#16486e,498ec5,e4f2fc</sprite>
     </item>
     <item id="2055"
         image="equipment/chest/armor-chest-cottonshirt.png|W:#56002f,930050,fe70bd,feb7de,ffffff"
@@ -3203,8 +3203,8 @@
         effect="+2% Defense"
         type="equip-torso"
         weight="10">
-			<sprite gender="male">chest-cotton-male.xml|#56002f,930050,fe70bd,feb7de,ffffff</sprite>
-			<sprite gender="female">chest-cotton-female.xml|#56002f,930050,fe70bd,feb7de,ffffff</sprite>
+			<sprite gender="male">equipment/chest/chest-cotton-male.xml|#56002f,930050,fe70bd,feb7de,ffffff</sprite>
+			<sprite gender="female">equipment/chest/chest-cotton-female.xml|#56002f,930050,fe70bd,feb7de,ffffff</sprite>
     </item>
     <item id="2056"
         image="equipment/chest/armor-chest-cottonshirt.png|W:#111111,222222,333333,444444,555555,aaaaaa"
@@ -3213,8 +3213,8 @@
         effect="+2% Defense"
         type="equip-torso"
         weight="10">
-			<sprite gender="male">chest-cotton-male.xml|#111111,222222,333333,444444,555555,aaaaaa</sprite>
-			<sprite gender="female">chest-cotton-female.xml|#111111,222222,333333,444444,555555,aaaaaa</sprite>
+			<sprite gender="male">equipment/chest/chest-cotton-male.xml|#111111,222222,333333,444444,555555,aaaaaa</sprite>
+			<sprite gender="female">equipment/chest/chest-cotton-female.xml|#111111,222222,333333,444444,555555,aaaaaa</sprite>
     </item>
     <item id="2057"
         image="equipment/chest/armor-chest-cottonshirt.png|W:#80280f,b04810,ef681f,ffb830"
@@ -3223,8 +3223,8 @@
         effect="+2% Defense"
         type="equip-torso"
         weight="10">
-			<sprite gender="male">chest-cotton-male.xml|#80280f,b04810,ef681f,ffb830</sprite>
-			<sprite gender="female">chest-cotton-female.xml|#80280f,b04810,ef681f,ffb830</sprite>
+			<sprite gender="male">equipment/chest/chest-cotton-male.xml|#80280f,b04810,ef681f,ffb830</sprite>
+			<sprite gender="female">equipment/chest/chest-cotton-female.xml|#80280f,b04810,ef681f,ffb830</sprite>
     </item>
     <item id="2058"
         image="equipment/chest/armor-chest-cottonshirt.png|W:#4f0a76,8010c0,d699f7"
@@ -3233,8 +3233,8 @@
         effect="+2% Defense"
         type="equip-torso"
         weight="10">
-			<sprite gender="male">chest-cotton-male.xml|#4f0a76,8010c0,d699f7</sprite>
-			<sprite gender="female">chest-cotton-female.xml|#4f0a76,8010c0,d699f7</sprite>
+			<sprite gender="male">equipment/chest/chest-cotton-male.xml|#4f0a76,8010c0,d699f7</sprite>
+			<sprite gender="female">equipment/chest/chest-cotton-female.xml|#4f0a76,8010c0,d699f7</sprite>
     </item>
     <item id="2059"
         image="equipment/chest/armor-chest-cottonshirt.png|W:#104010,208020,30c030"
@@ -3243,8 +3243,8 @@
         effect="+2% Defense"
         type="equip-torso"
         weight="10">
-			<sprite gender="male">chest-cotton-male.xml|#104010,208020,30c030</sprite>
-			<sprite gender="female">chest-cotton-female.xml|#104010,208020,30c030</sprite>
+			<sprite gender="male">equipment/chest/chest-cotton-male.xml|#104010,208020,30c030</sprite>
+			<sprite gender="female">equipment/chest/chest-cotton-female.xml|#104010,208020,30c030</sprite>
     </item>
 
     <item id="2060"
@@ -3254,8 +3254,8 @@
         effect="+8% Defense"
         type="equip-torso"
         weight="10">
-			<sprite gender="male">chest-vnecksweater-male.xml|#580000,A40000,C02020,ff6060</sprite>
-			<sprite gender="female">chest-vnecksweater-female.xml|#580000,A40000,C02020,ff6060</sprite>
+			<sprite gender="male">equipment/chest/chest-vnecksweater-male.xml|#580000,A40000,C02020,ff6060</sprite>
+			<sprite gender="female">equipment/chest/chest-vnecksweater-female.xml|#580000,A40000,C02020,ff6060</sprite>
     </item>
     <item id="2061"
         image="equipment/chest/armor-chest-vnecksweater.png|W:#115511,22aa22,99dd99"
@@ -3264,8 +3264,8 @@
         effect="+8% Defense"
         type="equip-torso"
         weight="10">
-			<sprite gender="male">chest-vnecksweater-male.xml|#115511,22aa22,99dd99</sprite>
-			<sprite gender="female">chest-vnecksweater-female.xml|#115511,22aa22,99dd99</sprite>
+			<sprite gender="male">equipment/chest/chest-vnecksweater-male.xml|#115511,22aa22,99dd99</sprite>
+			<sprite gender="female">equipment/chest/chest-vnecksweater-female.xml|#115511,22aa22,99dd99</sprite>
     </item>
     <item id="2062"
         image="equipment/chest/armor-chest-vnecksweater.png|W:#222255,6666ff"
@@ -3274,8 +3274,8 @@
         effect="+8% Defense"
         type="equip-torso"
         weight="10">
-			<sprite gender="male">chest-vnecksweater-male.xml|#222255,6666ff</sprite>
-			<sprite gender="female">chest-vnecksweater-female.xml|#222255,6666ff</sprite>
+			<sprite gender="male">equipment/chest/chest-vnecksweater-male.xml|#222255,6666ff</sprite>
+			<sprite gender="female">equipment/chest/chest-vnecksweater-female.xml|#222255,6666ff</sprite>
     </item>
     <item id="2063"
         image="equipment/chest/armor-chest-vnecksweater.png|W:#846211,dab333,fffb93,ffffff"
@@ -3284,8 +3284,8 @@
         effect="+8% Defense"
         type="equip-torso"
         weight="10">
-			<sprite gender="male">chest-vnecksweater-male.xml|#846211,dab333,fffb93,ffffff</sprite>
-			<sprite gender="female">chest-vnecksweater-female.xml|#846211,dab333,fffb93,ffffff</sprite>
+			<sprite gender="male">equipment/chest/chest-vnecksweater-male.xml|#846211,dab333,fffb93,ffffff</sprite>
+			<sprite gender="female">equipment/chest/chest-vnecksweater-female.xml|#846211,dab333,fffb93,ffffff</sprite>
     </item>
     <item id="2064"
         image="equipment/chest/armor-chest-vnecksweater.png|W:#16486e,498ec5,e4f2fc"
@@ -3294,8 +3294,8 @@
         effect="+8% Defense"
         type="equip-torso"
         weight="10">
-			<sprite gender="male">chest-vnecksweater-male.xml|#16486e,498ec5,e4f2fc</sprite>
-			<sprite gender="female">chest-vnecksweater-female.xml|#16486e,498ec5,e4f2fc</sprite>
+			<sprite gender="male">equipment/chest/chest-vnecksweater-male.xml|#16486e,498ec5,e4f2fc</sprite>
+			<sprite gender="female">equipment/chest/chest-vnecksweater-female.xml|#16486e,498ec5,e4f2fc</sprite>
     </item>
     <item id="2065"
         image="equipment/chest/armor-chest-vnecksweater.png|W:#56002f,930050,fe70bd,feb7de,ffffff"
@@ -3304,8 +3304,8 @@
         effect="+8% Defense"
         type="equip-torso"
         weight="10">
-			<sprite gender="male">chest-vnecksweater-male.xml|#56002f,930050,fe70bd,feb7de,ffffff</sprite>
-			<sprite gender="female">chest-vnecksweater-female.xml|#56002f,930050,fe70bd,feb7de,ffffff</sprite>
+			<sprite gender="male">equipment/chest/chest-vnecksweater-male.xml|#56002f,930050,fe70bd,feb7de,ffffff</sprite>
+			<sprite gender="female">equipment/chest/chest-vnecksweater-female.xml|#56002f,930050,fe70bd,feb7de,ffffff</sprite>
     </item>
     <item id="2066"
         image="equipment/chest/armor-chest-vnecksweater.png|W:#111111,222222,333333,444444,555555,aaaaaa"
@@ -3314,8 +3314,8 @@
         effect="+8% Defense"
         type="equip-torso"
         weight="10">
-			<sprite gender="male">chest-vnecksweater-male.xml|#111111,222222,333333,444444,555555,aaaaaa</sprite>
-			<sprite gender="female">chest-vnecksweater-female.xml|#111111,222222,333333,444444,555555,aaaaaa</sprite>
+			<sprite gender="male">equipment/chest/chest-vnecksweater-male.xml|#111111,222222,333333,444444,555555,aaaaaa</sprite>
+			<sprite gender="female">equipment/chest/chest-vnecksweater-female.xml|#111111,222222,333333,444444,555555,aaaaaa</sprite>
     </item>
     <item id="2067"
         image="equipment/chest/armor-chest-vnecksweater.png|W:#80280f,b04810,ef681f,ffb830"
@@ -3324,8 +3324,8 @@
         effect="+8% Defense"
         type="equip-torso"
         weight="10">
-			<sprite gender="male">chest-vnecksweater-male.xml|#80280f,b04810,ef681f,ffb830</sprite>
-			<sprite gender="female">chest-vnecksweater-female.xml|#80280f,b04810,ef681f,ffb830</sprite>
+			<sprite gender="male">equipment/chest/chest-vnecksweater-male.xml|#80280f,b04810,ef681f,ffb830</sprite>
+			<sprite gender="female">equipment/chest/chest-vnecksweater-female.xml|#80280f,b04810,ef681f,ffb830</sprite>
     </item>
     <item id="2068"
         image="equipment/chest/armor-chest-vnecksweater.png|W:#4f0a76,8010c0,d699f7"
@@ -3334,8 +3334,8 @@
         effect="+8% Defense"
         type="equip-torso"
         weight="10">
-			<sprite gender="male">chest-vnecksweater-male.xml|#4f0a76,8010c0,d699f7</sprite>
-			<sprite gender="female">chest-vnecksweater-female.xml|#4f0a76,8010c0,d699f7</sprite>
+			<sprite gender="male">equipment/chest/chest-vnecksweater-male.xml|#4f0a76,8010c0,d699f7</sprite>
+			<sprite gender="female">equipment/chest/chest-vnecksweater-female.xml|#4f0a76,8010c0,d699f7</sprite>
     </item>
     <item id="2069"
         image="equipment/chest/armor-chest-vnecksweater.png|W:#104010,208020,30c030"
@@ -3344,8 +3344,8 @@
         effect="+8% Defense"
         type="equip-torso"
         weight="10">
-			<sprite gender="male">chest-vnecksweater-male.xml|#104010,208020,30c030</sprite>
-			<sprite gender="female">chest-vnecksweater-female.xml|#104010,208020,30c030</sprite>
+			<sprite gender="male">equipment/chest/chest-vnecksweater-male.xml|#104010,208020,30c030</sprite>
+			<sprite gender="female">equipment/chest/chest-vnecksweater-female.xml|#104010,208020,30c030</sprite>
     </item>
 
     <item id="2070"
@@ -3355,8 +3355,8 @@
         effect="+6% Defense"
         type="equip-torso"
         weight="10">
-			<sprite gender="male">chest-tnecksweater-male.xml|#580000,A40000,C02020,ff6060</sprite>
-			<sprite gender="female">chest-tnecksweater-female.xml|#580000,A40000,C02020,ff6060</sprite>
+			<sprite gender="male">equipment/chest/chest-tnecksweater-male.xml|#580000,A40000,C02020,ff6060</sprite>
+			<sprite gender="female">equipment/chest/chest-tnecksweater-female.xml|#580000,A40000,C02020,ff6060</sprite>
     </item>
     <item id="2071"
         image="equipment/chest/armor-chest-tnecksweater.png|W:#115511,22aa22,99dd99"
@@ -3365,8 +3365,8 @@
         effect="+6% Defense"
         type="equip-torso"
         weight="10">
-			<sprite gender="male">chest-tnecksweater-male.xml|#115511,22aa22,99dd99</sprite>
-			<sprite gender="female">chest-tnecksweater-female.xml|#115511,22aa22,99dd99</sprite>
+			<sprite gender="male">equipment/chest/chest-tnecksweater-male.xml|#115511,22aa22,99dd99</sprite>
+			<sprite gender="female">equipment/chest/chest-tnecksweater-female.xml|#115511,22aa22,99dd99</sprite>
     </item>
     <item id="2072"
         image="equipment/chest/armor-chest-tnecksweater.png|W:#222255,6666ff"
@@ -3375,8 +3375,8 @@
         effect="+6% Defense"
         type="equip-torso"
         weight="10">
-			<sprite gender="male">chest-tnecksweater-male.xml|#222255,6666ff</sprite>
-			<sprite gender="female">chest-tnecksweater-female.xml|#222255,6666ff</sprite>
+			<sprite gender="male">equipment/chest/chest-tnecksweater-male.xml|#222255,6666ff</sprite>
+			<sprite gender="female">equipment/chest/chest-tnecksweater-female.xml|#222255,6666ff</sprite>
     </item>
     <item id="2073"
         image="equipment/chest/armor-chest-tnecksweater.png|W:#846211,dab333,fffb93,ffffff"
@@ -3385,8 +3385,8 @@
         effect="+6% Defense"
         type="equip-torso"
         weight="10">
-			<sprite gender="male">chest-tnecksweater-male.xml|#846211,dab333,fffb93,ffffff</sprite>
-			<sprite gender="female">chest-tnecksweater-female.xml|#846211,dab333,fffb93,ffffff</sprite>
+			<sprite gender="male">equipment/chest/chest-tnecksweater-male.xml|#846211,dab333,fffb93,ffffff</sprite>
+			<sprite gender="female">equipment/chest/chest-tnecksweater-female.xml|#846211,dab333,fffb93,ffffff</sprite>
     </item>
     <item id="2074"
         image="equipment/chest/armor-chest-tnecksweater.png|W:#16486e,498ec5,e4f2fc"
@@ -3395,8 +3395,8 @@
         effect="+6% Defense"
         type="equip-torso"
         weight="10">
-			<sprite gender="male">chest-tnecksweater-male.xml|#16486e,498ec5,e4f2fc</sprite>
-			<sprite gender="female">chest-tnecksweater-female.xml|#16486e,498ec5,e4f2fc</sprite>
+			<sprite gender="male">equipment/chest/chest-tnecksweater-male.xml|#16486e,498ec5,e4f2fc</sprite>
+			<sprite gender="female">equipment/chest/chest-tnecksweater-female.xml|#16486e,498ec5,e4f2fc</sprite>
     </item>
     <item id="2075"
         image="equipment/chest/armor-chest-tnecksweater.png|W:#56002f,930050,fe70bd,feb7de,ffffff"
@@ -3405,8 +3405,8 @@
         effect="+6% Defense"
         type="equip-torso"
         weight="10">
-			<sprite gender="male">chest-tnecksweater-male.xml|#56002f,930050,fe70bd,feb7de,ffffff</sprite>
-			<sprite gender="female">chest-tnecksweater-female.xml|#56002f,930050,fe70bd,feb7de,ffffff</sprite>
+			<sprite gender="male">equipment/chest/chest-tnecksweater-male.xml|#56002f,930050,fe70bd,feb7de,ffffff</sprite>
+			<sprite gender="female">equipment/chest/chest-tnecksweater-female.xml|#56002f,930050,fe70bd,feb7de,ffffff</sprite>
     </item>
     <item id="2076"
         image="equipment/chest/armor-chest-tnecksweater.png|W:#111111,222222,333333,444444,555555,aaaaaa"
@@ -3415,8 +3415,8 @@
         effect="+6% Defense"
         type="equip-torso"
         weight="10">
-			<sprite gender="male">chest-tnecksweater-male.xml|#111111,222222,333333,444444,555555,aaaaaa</sprite>
-			<sprite gender="female">chest-tnecksweater-female.xml|#111111,222222,333333,444444,555555,aaaaaa</sprite>
+			<sprite gender="male">equipment/chest/chest-tnecksweater-male.xml|#111111,222222,333333,444444,555555,aaaaaa</sprite>
+			<sprite gender="female">equipment/chest/chest-tnecksweater-female.xml|#111111,222222,333333,444444,555555,aaaaaa</sprite>
     </item>
     <item id="2077"
         image="equipment/chest/armor-chest-tnecksweater.png|W:#80280f,b04810,ef681f,ffb830"
@@ -3425,8 +3425,8 @@
         effect="+6% Defense"
         type="equip-torso"
         weight="10">
-			<sprite gender="male">chest-tnecksweater-male.xml|#80280f,b04810,ef681f,ffb830</sprite>
-			<sprite gender="female">chest-tnecksweater-female.xml|#80280f,b04810,ef681f,ffb830</sprite>
+			<sprite gender="male">equipment/chest/chest-tnecksweater-male.xml|#80280f,b04810,ef681f,ffb830</sprite>
+			<sprite gender="female">equipment/chest/chest-tnecksweater-female.xml|#80280f,b04810,ef681f,ffb830</sprite>
     </item>
     <item id="2078"
         image="equipment/chest/armor-chest-tnecksweater.png|W:#4f0a76,8010c0,d699f7"
@@ -3435,8 +3435,8 @@
         effect="+6% Defense"
         type="equip-torso"
         weight="10">
-			<sprite gender="male">chest-tnecksweater-male.xml|#4f0a76,8010c0,d699f7</sprite>
-			<sprite gender="female">chest-tnecksweater-female.xml|#4f0a76,8010c0,d699f7</sprite>
+			<sprite gender="male">equipment/chest/chest-tnecksweater-male.xml|#4f0a76,8010c0,d699f7</sprite>
+			<sprite gender="female">equipment/chest/chest-tnecksweater-female.xml|#4f0a76,8010c0,d699f7</sprite>
     </item>
     <item id="2079"
         image="equipment/chest/armor-chest-tnecksweater.png|W:#104010,208020,30c030"
@@ -3445,8 +3445,8 @@
         effect="+6% Defense"
         type="equip-torso"
         weight="10">
-			<sprite gender="male">chest-tnecksweater-male.xml|#104010,208020,30c030</sprite>
-			<sprite gender="female">chest-tnecksweater-female.xml|#104010,208020,30c030</sprite>
+			<sprite gender="male">equipment/chest/chest-tnecksweater-male.xml|#104010,208020,30c030</sprite>
+			<sprite gender="female">equipment/chest/chest-tnecksweater-female.xml|#104010,208020,30c030</sprite>
     </item>
 
     <item id="2080"
@@ -3458,8 +3458,8 @@
         weight="5"
         defense="5"
         max-per-slot="1">
-			<sprite gender="male">chest-robe-male.xml|#580000,A40000,C02020,ff6060</sprite>
-			<sprite gender="female">chest-robe-female.xml|#580000,A40000,C02020,ff6060</sprite>
+			<sprite gender="male">equipment/chest/chest-robe-male.xml|#580000,A40000,C02020,ff6060</sprite>
+			<sprite gender="female">equipment/chest/chest-robe-female.xml|#580000,A40000,C02020,ff6060</sprite>
     </item>
     <item id="2081"
         image="equipment/chest/armor-chest-robe.png|W:#115511,22aa22,99dd99"
@@ -3470,8 +3470,8 @@
         weight="5"
         defense="5"
         max-per-slot="1">
-			<sprite gender="male">chest-robe-male.xml|#115511,22aa22,99dd99</sprite>
-			<sprite gender="female">chest-robe-female.xml|#115511,22aa22,99dd99</sprite>
+			<sprite gender="male">equipment/chest/chest-robe-male.xml|#115511,22aa22,99dd99</sprite>
+			<sprite gender="female">equipment/chest/chest-robe-female.xml|#115511,22aa22,99dd99</sprite>
     </item>
     <item id="2082"
         image="equipment/chest/armor-chest-robe.png|W:#222255,6666ff"
@@ -3482,8 +3482,8 @@
         weight="5"
         defense="5"
         max-per-slot="1">
-			<sprite gender="male">chest-robe-male.xml|#222255,6666ff</sprite>
-			<sprite gender="female">chest-robe-female.xml|#222255,6666ff</sprite>
+			<sprite gender="male">equipment/chest/chest-robe-male.xml|#222255,6666ff</sprite>
+			<sprite gender="female">equipment/chest/chest-robe-female.xml|#222255,6666ff</sprite>
     </item>
     <item id="2083"
         image="equipment/chest/armor-chest-robe.png|W:#846211,dab333,fffb93,ffffff"
@@ -3494,8 +3494,8 @@
         weight="5"
         defense="5"
         max-per-slot="1">
-			<sprite gender="male">chest-robe-male.xml|#846211,dab333,fffb93,ffffff</sprite>
-			<sprite gender="female">chest-robe-female.xml|#846211,dab333,fffb93,ffffff</sprite>
+			<sprite gender="male">equipment/chest/chest-robe-male.xml|#846211,dab333,fffb93,ffffff</sprite>
+			<sprite gender="female">equipment/chest/chest-robe-female.xml|#846211,dab333,fffb93,ffffff</sprite>
     </item>
     <item id="2084"
         image="equipment/chest/armor-chest-robe.png|W:#16486e,498ec5,e4f2fc"
@@ -3506,8 +3506,8 @@
         weight="5"
         defense="5"
         max-per-slot="1">
-			<sprite gender="male">chest-robe-male.xml|#16486e,498ec5,e4f2fc</sprite>
-			<sprite gender="female">chest-robe-female.xml|#16486e,498ec5,e4f2fc</sprite>
+			<sprite gender="male">equipment/chest/chest-robe-male.xml|#16486e,498ec5,e4f2fc</sprite>
+			<sprite gender="female">equipment/chest/chest-robe-female.xml|#16486e,498ec5,e4f2fc</sprite>
     </item>
     <item id="2085"
         image="equipment/chest/armor-chest-robe.png|W:#56002f,930050,fe70bd,feb7de,ffffff"
@@ -3518,8 +3518,8 @@
         weight="5"
         defense="5"
         max-per-slot="1">
-			<sprite gender="male">chest-robe-male.xml|#56002f,930050,fe70bd,feb7de,ffffff</sprite>
-			<sprite gender="female">chest-robe-female.xml|#56002f,930050,fe70bd,feb7de,ffffff</sprite>
+			<sprite gender="male">equipment/chest/chest-robe-male.xml|#56002f,930050,fe70bd,feb7de,ffffff</sprite>
+			<sprite gender="female">equipment/chest/chest-robe-female.xml|#56002f,930050,fe70bd,feb7de,ffffff</sprite>
     </item>
     <item id="2086"
         image="equipment/chest/armor-chest-robe.png|W:#111111,222222,333333,444444,555555,aaaaaa"
@@ -3530,8 +3530,8 @@
         weight="5"
         defense="5"
         max-per-slot="1">
-			<sprite gender="male">chest-robe-male.xml|#111111,222222,333333,444444,555555,aaaaaa</sprite>
-			<sprite gender="female">chest-robe-female.xml|#111111,222222,333333,444444,555555,aaaaaa</sprite>
+			<sprite gender="male">equipment/chest/chest-robe-male.xml|#111111,222222,333333,444444,555555,aaaaaa</sprite>
+			<sprite gender="female">equipment/chest/chest-robe-female.xml|#111111,222222,333333,444444,555555,aaaaaa</sprite>
     </item>
     <item id="2087"
         image="equipment/chest/armor-chest-robe.png|W:#80280f,b04810,ef681f,ffb830"
@@ -3542,8 +3542,8 @@
         weight="5"
         defense="5"
         max-per-slot="1">
-			<sprite gender="male">chest-robe-male.xml|#80280f,b04810,ef681f,ffb830</sprite>
-			<sprite gender="female">chest-robe-female.xml|#80280f,b04810,ef681f,ffb830</sprite>
+			<sprite gender="male">equipment/chest/chest-robe-male.xml|#80280f,b04810,ef681f,ffb830</sprite>
+			<sprite gender="female">equipment/chest/chest-robe-female.xml|#80280f,b04810,ef681f,ffb830</sprite>
     </item>
     <item id="2088"
         image="equipment/chest/armor-chest-robe.png|W:#4f0a76,8010c0,d699f7"
@@ -3554,8 +3554,8 @@
         weight="5"
         defense="5"
         max-per-slot="1">
-			<sprite gender="male">chest-robe-male.xml|#4f0a76,8010c0,d699f7</sprite>
-			<sprite gender="female">chest-robe-female.xml|#4f0a76,8010c0,d699f7</sprite>
+			<sprite gender="male">equipment/chest/chest-robe-male.xml|#4f0a76,8010c0,d699f7</sprite>
+			<sprite gender="female">equipment/chest/chest-robe-female.xml|#4f0a76,8010c0,d699f7</sprite>
     </item>
     <item id="2089"
         image="equipment/chest/armor-chest-robe.png|W:#104010,208020,30c030"
@@ -3566,8 +3566,8 @@
         weight="5"
         defense="5"
         max-per-slot="1">
-			<sprite gender="male">chest-robe-male.xml|#104010,208020,30c030</sprite>
-			<sprite gender="female">chest-robe-female.xml|#104010,208020,30c030</sprite>
+			<sprite gender="male">equipment/chest/chest-robe-male.xml|#104010,208020,30c030</sprite>
+			<sprite gender="female">equipment/chest/chest-robe-female.xml|#104010,208020,30c030</sprite>
     </item>
 
     <item id="2090"
@@ -3577,8 +3577,8 @@
         effect="+2% Defense"
         type="equip-torso"
         weight="10">
-			<sprite gender="male">chest-tanktop-male.xml|#580000,A40000,C02020,ff6060</sprite>
-			<sprite gender="female">chest-tanktop-female.xml|#580000,A40000,C02020,ff6060</sprite>
+			<sprite gender="male">equipment/chest/chest-tanktop-male.xml|#580000,A40000,C02020,ff6060</sprite>
+			<sprite gender="female">equipment/chest/chest-tanktop-female.xml|#580000,A40000,C02020,ff6060</sprite>
     </item>
     <item id="2091"
         image="equipment/chest/armor-chest-tanktop.png|W:#115511,22aa22,99dd99"
@@ -3587,8 +3587,8 @@
         effect="+2% Defense"
         type="equip-torso"
         weight="10">
-			<sprite gender="male">chest-tanktop-male.xml|#115511,22aa22,99dd99</sprite>
-			<sprite gender="female">chest-tanktop-female.xml|#115511,22aa22,99dd99</sprite>
+			<sprite gender="male">equipment/chest/chest-tanktop-male.xml|#115511,22aa22,99dd99</sprite>
+			<sprite gender="female">equipment/chest/chest-tanktop-female.xml|#115511,22aa22,99dd99</sprite>
     </item>
     <item id="2092"
         image="equipment/chest/armor-chest-tanktop.png|W:#222255,6666ff"
@@ -3597,8 +3597,8 @@
         effect="+2% Defense"
         type="equip-torso"
         weight="10">
-			<sprite gender="male">chest-tanktop-male.xml|#222255,6666ff</sprite>
-			<sprite gender="female">chest-tanktop-female.xml|#222255,6666ff</sprite>
+			<sprite gender="male">equipment/chest/chest-tanktop-male.xml|#222255,6666ff</sprite>
+			<sprite gender="female">equipment/chest/chest-tanktop-female.xml|#222255,6666ff</sprite>
     </item>
     <item id="2093"
         image="equipment/chest/armor-chest-tanktop.png|W:#846211,dab333,fffb93,ffffff"
@@ -3607,8 +3607,8 @@
         effect="+2% Defense"
         type="equip-torso"
         weight="10">
-			<sprite gender="male">chest-tanktop-male.xml|#846211,dab333,fffb93,ffffff</sprite>
-			<sprite gender="female">chest-tanktop-female.xml|#846211,dab333,fffb93,ffffff</sprite>
+			<sprite gender="male">equipment/chest/chest-tanktop-male.xml|#846211,dab333,fffb93,ffffff</sprite>
+			<sprite gender="female">equipment/chest/chest-tanktop-female.xml|#846211,dab333,fffb93,ffffff</sprite>
     </item>
     <item id="2094" image="equipment/chest/armor-chest-tanktop.png|W:#16486e,498ec5,e4f2fc"
         name="Hellblaues Top"
@@ -3616,8 +3616,8 @@
         effect="+2% Defense"
         type="equip-torso"
         weight="10">
-			<sprite gender="male">chest-tanktop-male.xml|#16486e,498ec5,e4f2fc</sprite>
-			<sprite gender="female">chest-tanktop-female.xml|#16486e,498ec5,e4f2fc</sprite>
+			<sprite gender="male">equipment/chest/chest-tanktop-male.xml|#16486e,498ec5,e4f2fc</sprite>
+			<sprite gender="female">equipment/chest/chest-tanktop-female.xml|#16486e,498ec5,e4f2fc</sprite>
     </item>
     <item id="2095" image="equipment/chest/armor-chest-tanktop.png|W:#56002f,930050,fe70bd,feb7de,ffffff"
         name="Pinkes Top"
@@ -3625,8 +3625,8 @@
         effect="+2% Defense"
         type="equip-torso"
         weight="10">
-			<sprite gender="male">chest-tanktop-male.xml|#56002f,930050,fe70bd,feb7de,ffffff</sprite>
-			<sprite gender="female">chest-tanktop-female.xml|#56002f,930050,fe70bd,feb7de,ffffff</sprite>
+			<sprite gender="male">equipment/chest/chest-tanktop-male.xml|#56002f,930050,fe70bd,feb7de,ffffff</sprite>
+			<sprite gender="female">equipment/chest/chest-tanktop-female.xml|#56002f,930050,fe70bd,feb7de,ffffff</sprite>
     </item>
     <item id="2096"
         image="equipment/chest/armor-chest-tanktop.png|W:#111111,222222,333333,444444,555555,aaaaaa"
@@ -3635,8 +3635,8 @@
         effect="+2% Defense"
         type="equip-torso"
         weight="10">
-			<sprite gender="male">chest-tanktop-male.xml|#111111,222222,333333,444444,555555,aaaaaa</sprite>
-			<sprite gender="female">chest-tanktop-female.xml|#111111,222222,333333,444444,555555,aaaaaa</sprite>
+			<sprite gender="male">equipment/chest/chest-tanktop-male.xml|#111111,222222,333333,444444,555555,aaaaaa</sprite>
+			<sprite gender="female">equipment/chest/chest-tanktop-female.xml|#111111,222222,333333,444444,555555,aaaaaa</sprite>
     </item>
     <item id="2097"
         image="equipment/chest/armor-chest-tanktop.png|W:#80280f,b04810,ef681f,ffb830"
@@ -3645,8 +3645,8 @@
         effect="+2% Defense"
         type="equip-torso"
         weight="10">
-			<sprite gender="male">chest-tanktop-male.xml|#80280f,b04810,ef681f,ffb830</sprite>
-			<sprite gender="female">chest-tanktop-female.xml|#80280f,b04810,ef681f,ffb830</sprite>
+			<sprite gender="male">equipment/chest/chest-tanktop-male.xml|#80280f,b04810,ef681f,ffb830</sprite>
+			<sprite gender="female">equipment/chest/chest-tanktop-female.xml|#80280f,b04810,ef681f,ffb830</sprite>
     </item>
     <item id="2098" image="equipment/chest/armor-chest-tanktop.png|W:#4f0a76,8010c0,d699f7"
         name="Lilanes Top"
@@ -3654,8 +3654,8 @@
         effect="+2% Defense"
         type="equip-torso"
         weight="10">
-			<sprite gender="male">chest-tanktop-male.xml|#4f0a76,8010c0,d699f7</sprite>
-			<sprite gender="female">chest-tanktop-female.xml|#4f0a76,8010c0,d699f7</sprite>
+			<sprite gender="male">equipment/chest/chest-tanktop-male.xml|#4f0a76,8010c0,d699f7</sprite>
+			<sprite gender="female">equipment/chest/chest-tanktop-female.xml|#4f0a76,8010c0,d699f7</sprite>
     </item>
     <item id="2099"
         image="equipment/chest/armor-chest-tanktop.png|W:#104010,208020,30c030"
@@ -3664,12 +3664,12 @@
         effect="+2% Defense"
         type="equip-torso"
         weight="10">
-			<sprite gender="male">chest-tanktop-male.xml|#104010,208020,30c030</sprite>
-			<sprite gender="female">chest-tanktop-female.xml|#104010,208020,30c030</sprite>
+			<sprite gender="male">equipment/chest/chest-tanktop-male.xml|#104010,208020,30c030</sprite>
+			<sprite gender="female">equipment/chest/chest-tanktop-female.xml|#104010,208020,30c030</sprite>
     </item>
 
     <item id="2100"
-        image="equipment/legs/armor-legs-*skirt.png|W:#580000,A40000,C02020,ff6060"
+        image="equipment/legs/armor-legs-skirt.png|W:#580000,A40000,C02020,ff6060"
         name="Roter Rock"
         description="Ein Rock aus 100% Baumwolle."
         effect="+4% Defense"
@@ -3680,7 +3680,7 @@
 			<sprite>leg-skirt.xml|#580000,A40000,C02020,ff6060</sprite>
     </item>
     <item id="2101"
-        image="equipment/legs/armor-legs-*skirt.png|W:#115511,22aa22,99dd99"
+        image="equipment/legs/armor-legs-skirt.png|W:#115511,22aa22,99dd99"
         name="Grüner Rock"
         description="Ein Rock aus 100% Baumwolle."
         effect="+4% Defense"
@@ -3691,7 +3691,7 @@
       	<sprite>leg-skirt.xml|#115511,22aa22,99dd99</sprite>
     </item>
     <item id="2102"
-        image="equipment/legs/armor-legs-*skirt.png|W:#222255,6666ff"
+        image="equipment/legs/armor-legs-skirt.png|W:#222255,6666ff"
         name="Dunkelblauer Rock"
         description="Ein Rock aus 100% Baumwolle."
         effect="+4% Defense"
@@ -3702,7 +3702,7 @@
 			<sprite>leg-skirt.xml|#222255,6666ff</sprite>
     </item>
     <item id="2103"
-        image="equipment/legs/armor-legs-*skirt.png|W:#846211,dab333,fffb93,ffffff"
+        image="equipment/legs/armor-legs-skirt.png|W:#846211,dab333,fffb93,ffffff"
         name="Gelber Rock"
         description="Ein Rock aus 100% Baumwolle."
         effect="+4% Defense"
@@ -3713,7 +3713,7 @@
 			<sprite>leg-skirt.xml|#846211,dab333,fffb93,ffffff</sprite>
     </item>
     <item id="2104"
-        image="equipment/legs/armor-legs-*skirt.png|W:#16486e,498ec5,e4f2fc"
+        image="equipment/legs/armor-legs-skirt.png|W:#16486e,498ec5,e4f2fc"
         name="Hellblauer Rock"
         description="Ein Rock aus 100% Baumwolle."
         effect="+4% Defense"
@@ -3724,7 +3724,7 @@
 			<sprite>leg-skirt.xml|#16486e,498ec5,e4f2fc</sprite>
     </item>
     <item id="2105"
-        image="equipment/legs/armor-legs-*skirt.png|W:#56002f,930050,fe70bd,feb7de,ffffff"
+        image="equipment/legs/armor-legs-skirt.png|W:#56002f,930050,fe70bd,feb7de,ffffff"
         name="Pinker Rock"
         description="Ein Rock aus 100% Baumwolle."
         effect="+4% Defense"
@@ -3735,7 +3735,7 @@
 			<sprite>leg-skirt.xml|#56002f,930050,fe70bd,feb7de,ffffff</sprite>
     </item>
     <item id="2106"
-        image="equipment/legs/armor-legs-*skirt.png|W:#111111,222222,333333,444444,555555,aaaaaa"
+        image="equipment/legs/armor-legs-skirt.png|W:#111111,222222,333333,444444,555555,aaaaaa"
         name="Schwarzer Rock"
         description="Ein Rock aus 100% Baumwolle."
         effect="+4% Defense"
@@ -3746,7 +3746,7 @@
 			<sprite>leg-skirt.xml|#111111,222222,333333,444444,555555,aaaaaa</sprite>
     </item>
     <item id="2107"
-        image="equipment/legs/armor-legs-*skirt.png|W:#80280f,b04810,ef681f,ffb830"
+        image="equipment/legs/armor-legs-skirt.png|W:#80280f,b04810,ef681f,ffb830"
         name="Oranger Rock"
         description="Ein Rock aus 100% Baumwolle."
         effect="+4% Defense"
@@ -3757,7 +3757,7 @@
 			<sprite>leg-skirt.xml|#80280f,b04810,ef681f,ffb830</sprite>
     </item>
     <item id="2108"
-        image="equipment/legs/armor-legs-*skirt.png|W:#4f0a76,8010c0,d699f7"
+        image="equipment/legs/armor-legs-skirt.png|W:#4f0a76,8010c0,d699f7"
         name="Lilafarbener Rock"
         description="Ein Rock aus 100% Baumwolle."
         effect="+4% Defense"
@@ -3768,7 +3768,7 @@
 			<sprite>leg-skirt.xml|#4f0a76,8010c0,d699f7</sprite>
     </item>
     <item id="2109"
-        image="equipment/legs/armor-legs-*skirt.png|W:#104010,208020,30c030"
+        image="equipment/legs/armor-legs-skirt.png|W:#104010,208020,30c030"
         name="Dunkelgrüner Rock"
         description="Ein Rock aus 100% Baumwolle."
         effect="+4% Defense"
@@ -3780,7 +3780,7 @@
     </item>
     
     <item id="2110"
-        image="equipment/legs/armor-legs-*shorts.png|W:#580000,A40000,C02020,ff6060"
+        image="equipment/legs/armor-legs-shorts.png|W:#580000,A40000,C02020,ff6060"
         name="Rote Hose"
         description="Eine Hose aus 100% Baumwolle."
         effect="+2% Defense"
@@ -3792,7 +3792,7 @@
 			<sprite gender="female">leg-shorts-female.xml|#580000,A40000,C02020,ff6060</sprite>
     </item>
     <item id="2111"
-        image="equipment/legs/armor-legs-*shorts.png|W:#115511,22aa22,99dd99"
+        image="equipment/legs/armor-legs-shorts.png|W:#115511,22aa22,99dd99"
         name="Grüne Hose"
         description="Eine Hose aus 100% Baumwolle."
         effect="+2% Defense"
@@ -3804,7 +3804,7 @@
 			<sprite gender="female">leg-shorts-female.xml|#115511,22aa22,99dd99</sprite>
     </item>
     <item id="2112"
-        image="equipment/legs/armor-legs-*shorts.png|W:#222255,6666ff"
+        image="equipment/legs/armor-legs-shorts.png|W:#222255,6666ff"
         name="Dunkelblaue Hose"
         description="Eine Hose aus 100% Baumwolle."
         effect="+2% Defense"
@@ -3816,7 +3816,7 @@
 			<sprite gender="female">leg-shorts-female.xml|#222255,6666ff</sprite>
     </item>
     <item id="2113"
-        image="equipment/legs/armor-legs-*shorts.png|W:#846211,dab333,fffb93,ffffff"
+        image="equipment/legs/armor-legs-shorts.png|W:#846211,dab333,fffb93,ffffff"
         name="Gelbe Hose"
         description="Eine Hose aus 100% Baumwolle."
         effect="+2% Defense"
@@ -3828,7 +3828,7 @@
 			<sprite gender="female">leg-shorts-female.xml|#846211,dab333,fffb93,ffffff</sprite>
     </item>
     <item id="2114"
-        image="equipment/legs/armor-legs-*shorts.png|W:#16486e,498ec5,e4f2fc"
+        image="equipment/legs/armor-legs-shorts.png|W:#16486e,498ec5,e4f2fc"
         name="Hellblaue Hose"
         description="Eine Hose aus 100% Baumwolle."
         effect="+2% Defense"
@@ -3840,7 +3840,7 @@
 			<sprite gender="female">leg-shorts-female.xml|#16486e,498ec5,e4f2fc</sprite>
     </item>
     <item id="2115"
-        image="equipment/legs/armor-legs-*shorts.png|W:#56002f,930050,fe70bd,feb7de,ffffff"
+        image="equipment/legs/armor-legs-shorts.png|W:#56002f,930050,fe70bd,feb7de,ffffff"
         name="Pinke Hose"
         description="Eine Hose aus 100% Baumwolle."
         effect="+2% Defense"
@@ -3852,7 +3852,7 @@
 			<sprite gender="female">leg-shorts-female.xml|#56002f,930050,fe70bd,feb7de,ffffff</sprite>
     </item>
     <item id="2116"
-        image="equipment/legs/armor-legs-*shorts.png|W:#111111,222222,333333,444444,555555,aaaaaa"
+        image="equipment/legs/armor-legs-shorts.png|W:#111111,222222,333333,444444,555555,aaaaaa"
         name="Schwarze Hose"
         description="Eine Hose aus 100% Baumwolle."
         effect="+2% Defense"
@@ -3864,7 +3864,7 @@
 			<sprite gender="female">leg-shorts-female.xml|#111111,222222,333333,444444,555555,aaaaaa</sprite>
     </item>
     <item id="2117"
-        image="equipment/legs/armor-legs-*shorts.png|W:#80280f,b04810,ef681f,ffb830"
+        image="equipment/legs/armor-legs-shorts.png|W:#80280f,b04810,ef681f,ffb830"
         name="Orange Hose"
         description="Eine Hose aus 100% Baumwolle."
         effect="+2% Defense"
@@ -3876,7 +3876,7 @@
 			<sprite gender="female">leg-shorts-female.xml|#80280f,b04810,ef681f,ffb830</sprite>
     </item>
     <item id="2118"
-        image="equipment/legs/armor-legs-*shorts.png|W:#4f0a76,8010c0,d699f7"
+        image="equipment/legs/armor-legs-shorts.png|W:#4f0a76,8010c0,d699f7"
         name="Lilane Hose"
         description="Eine Hose aus 100% Baumwolle."
         effect="+2% Defense"
@@ -3888,7 +3888,7 @@
 			<sprite gender="female">leg-shorts-female.xml|#520a7b,8c23c7,ca87ef</sprite>
     </item>
     <item id="2119"
-        image="equipment/legs/armor-legs-*shorts.png|W:#104010,208020,30c030"
+        image="equipment/legs/armor-legs-shorts.png|W:#104010,208020,30c030"
         name="Dunkelgrüne Hose"
         description="Eine Hose aus 100% Baumwolle."
         effect="+2% Defense"
@@ -3907,8 +3907,8 @@
         effect="+2% Defense"
         type="equip-torso"
         weight="8">
-			<sprite gender="male">chest-shorttanktop-male.xml|#580000,A40000,C02020,ff6060</sprite>
-			<sprite gender="female">chest-shorttanktop-female.xml|#580000,A40000,C02020,ff6060</sprite>
+			<sprite gender="male">equipment/chest/chest-shorttanktop-male.xml|#580000,A40000,C02020,ff6060</sprite>
+			<sprite gender="female">equipment/chest/chest-shorttanktop-female.xml|#580000,A40000,C02020,ff6060</sprite>
     </item>
     <item id="2121"
         image="equipment/chest/armor-chest-tanktop-short.png|W:#115511,22aa22,99dd99"
@@ -3917,8 +3917,8 @@
         effect="+2% Defense"
         type="equip-torso"
         weight="8">
-			<sprite gender="male">chest-shorttanktop-male.xml|#115511,22aa22,99dd99</sprite>
-			<sprite gender="female">chest-shorttanktop-female.xml|#115511,22aa22,99dd99</sprite>
+			<sprite gender="male">equipment/chest/chest-shorttanktop-male.xml|#115511,22aa22,99dd99</sprite>
+			<sprite gender="female">equipment/chest/chest-shorttanktop-female.xml|#115511,22aa22,99dd99</sprite>
     </item>
     <item id="2122"
         image="equipment/chest/armor-chest-tanktop-short.png|W:#222255,6666ff"
@@ -3927,8 +3927,8 @@
         effect="+2% Defense"
         type="equip-torso"
         weight="8">
-			<sprite gender="male">chest-shorttanktop-male.xml|#222255,6666ff</sprite>
-			<sprite gender="female">chest-shorttanktop-female.xml|#222255,6666ff</sprite>
+			<sprite gender="male">equipment/chest/chest-shorttanktop-male.xml|#222255,6666ff</sprite>
+			<sprite gender="female">equipment/chest/chest-shorttanktop-female.xml|#222255,6666ff</sprite>
     </item>
     <item id="2123"
         image="equipment/chest/armor-chest-tanktop-short.png|W:#846211,dab333,fffb93,ffffff"
@@ -3937,8 +3937,8 @@
         effect="+2% Defense"
         type="equip-torso"
         weight="8">
-			<sprite gender="male">chest-shorttanktop-male.xml|#846211,dab333,fffb93,ffffff</sprite>
-			<sprite gender="female">chest-shorttanktop-female.xml|#846211,dab333,fffb93,ffffff</sprite>
+			<sprite gender="male">equipment/chest/chest-shorttanktop-male.xml|#846211,dab333,fffb93,ffffff</sprite>
+			<sprite gender="female">equipment/chest/chest-shorttanktop-female.xml|#846211,dab333,fffb93,ffffff</sprite>
     </item>
     <item id="2124"
         image="equipment/chest/armor-chest-tanktop-short.png|W:#16486e,498ec5,e4f2fc"
@@ -3947,8 +3947,8 @@
         effect="+2% Defense"
         type="equip-torso"
         weight="8">
-			<sprite gender="male">chest-shorttanktop-male.xml|#16486e,498ec5,e4f2fc</sprite>
-			<sprite gender="female">chest-shorttanktop-female.xml|#16486e,498ec5,e4f2fc</sprite>
+			<sprite gender="male">equipment/chest/chest-shorttanktop-male.xml|#16486e,498ec5,e4f2fc</sprite>
+			<sprite gender="female">equipment/chest/chest-shorttanktop-female.xml|#16486e,498ec5,e4f2fc</sprite>
     </item>
     <item id="2125"
         image="equipment/chest/armor-chest-tanktop-short.png|W:#56002f,930050,fe70bd,feb7de,ffffff"
@@ -3957,8 +3957,8 @@
         effect="+2% Defense"
         type="equip-torso"
         weight="8">
-			<sprite gender="male">chest-shorttanktop-male.xml|#56002f,930050,fe70bd,feb7de,ffffff</sprite>
-			<sprite gender="female">chest-shorttanktop-female.xml|#56002f,930050,fe70bd,feb7de,ffffff</sprite>
+			<sprite gender="male">equipment/chest/chest-shorttanktop-male.xml|#56002f,930050,fe70bd,feb7de,ffffff</sprite>
+			<sprite gender="female">equipment/chest/chest-shorttanktop-female.xml|#56002f,930050,fe70bd,feb7de,ffffff</sprite>
     </item>
     <item id="2126"
         image="equipment/chest/armor-chest-tanktop-short.png|W:#111111,222222,333333,444444,555555,aaaaaa"
@@ -3967,8 +3967,8 @@
         effect="+2% Defense"
         type="equip-torso"
         weight="8">
-			<sprite gender="male">chest-shorttanktop-male.xml|#111111,222222,333333,444444,555555,aaaaaa</sprite>
-			<sprite gender="female">chest-shorttanktop-female.xml|#111111,222222,333333,444444,555555,aaaaaa</sprite>
+			<sprite gender="male">equipment/chest/chest-shorttanktop-male.xml|#111111,222222,333333,444444,555555,aaaaaa</sprite>
+			<sprite gender="female">equipment/chest/chest-shorttanktop-female.xml|#111111,222222,333333,444444,555555,aaaaaa</sprite>
     </item>
     <item id="2127"
         image="equipment/chest/armor-chest-tanktop-short.png|W:#80280f,b04810,ef681f,ffb830"
@@ -3977,8 +3977,8 @@
         effect="+2% Defense"
         type="equip-torso"
         weight="8">
-			<sprite gender="male">chest-shorttanktop-male.xml|#80280f,b04810,ef681f,ffb830</sprite>
-			<sprite gender="female">chest-shorttanktop-female.xml|#80280f,b04810,ef681f,ffb830</sprite>
+			<sprite gender="male">equipment/chest/chest-shorttanktop-male.xml|#80280f,b04810,ef681f,ffb830</sprite>
+			<sprite gender="female">equipment/chest/chest-shorttanktop-female.xml|#80280f,b04810,ef681f,ffb830</sprite>
     </item>
     <item id="2128" image="equipment/chest/armor-chest-tanktop-short.png|W:#4f0a76,8010c0,d699f7"
         name="Lilanes kurzes Top"
@@ -3986,8 +3986,8 @@
         effect="+2% Defense"
         type="equip-torso"
         weight="8">
-			<sprite gender="male">chest-shorttanktop-male.xml|#4f0a76,8010c0,d699f7</sprite>
-			<sprite gender="female">chest-shorttanktop-female.xml|#4f0a76,8010c0,d699f7</sprite>
+			<sprite gender="male">equipment/chest/chest-shorttanktop-male.xml|#4f0a76,8010c0,d699f7</sprite>
+			<sprite gender="female">equipment/chest/chest-shorttanktop-female.xml|#4f0a76,8010c0,d699f7</sprite>
     </item>
     <item id="2129"
         image="equipment/chest/armor-chest-tanktop-short.png|W:#104010,208020,30c030"
@@ -3996,8 +3996,8 @@
         effect="+2% Defense"
         type="equip-torso"
         weight="8">
-			<sprite gender="male">chest-shorttanktop-male.xml|#104010,208020,30c030</sprite>
-			<sprite gender="female">chest-shorttanktop-female.xml|#104010,208020,30c030</sprite>
+			<sprite gender="male">equipment/chest/chest-shorttanktop-male.xml|#104010,208020,30c030</sprite>
+			<sprite gender="female">equipment/chest/chest-shorttanktop-female.xml|#104010,208020,30c030</sprite>
     </item>
 
     <item id="2130"
@@ -4008,7 +4008,7 @@
         type="equip-head"
         defense="3"
         weight="10">
-			<sprite>head-deserthat.xml|#580000,A40000,C02020,ff6060</sprite>
+			<sprite>equipment/head/head-deserthat.xml|#580000,A40000,C02020,ff6060</sprite>
     </item>
     <item id="2131"
         image="equipment/head/armor-head-deserthat.png|R:#115511,22aa22,99dd99"
@@ -4018,7 +4018,7 @@
         type="equip-head"
         defense="3"
         weight="10">
-			<sprite>head-deserthat.xml|#115511,22aa22,99dd99</sprite>
+			<sprite>equipment/head/head-deserthat.xml|#115511,22aa22,99dd99</sprite>
     </item>
     <item id="2132"
         image="equipment/head/armor-head-deserthat.png|R:#222255,6666ff"
@@ -4028,7 +4028,7 @@
         type="equip-head"
         defense="3"
         weight="10">
-			<sprite>head-deserthat.xml|#222255,6666ff</sprite>
+			<sprite>equipment/head/head-deserthat.xml|#222255,6666ff</sprite>
     </item>
     <item id="2133"
         image="equipment/head/armor-head-deserthat.png|R:#846211,dab333,fffb93,ffffff"
@@ -4038,7 +4038,7 @@
         type="equip-head"
         defense="3"
         weight="10">
-			<sprite>head-deserthat.xml|#846211,dab333,fffb93,ffffff</sprite>
+			<sprite>equipment/head/head-deserthat.xml|#846211,dab333,fffb93,ffffff</sprite>
     </item>
     <item id="2134"
         image="equipment/head/armor-head-deserthat.png|R:#16486e,498ec5,e4f2fc"
@@ -4048,7 +4048,7 @@
         type="equip-head"
         defense="3"
         weight="10">
-			<sprite>head-deserthat.xml|#16486e,498ec5,e4f2fc</sprite>
+			<sprite>equipment/head/head-deserthat.xml|#16486e,498ec5,e4f2fc</sprite>
     </item>
     <item id="2135"
         image="equipment/head/armor-head-deserthat.png|R:#56002f,930050,fe70bd,feb7de,ffffff"
@@ -4058,7 +4058,7 @@
         type="equip-head"
         defense="3"
         weight="10">
-			<sprite>head-deserthat.xml|#56002f,930050,fe70bd,feb7de,ffffff</sprite>
+			<sprite>equipment/head/head-deserthat.xml|#56002f,930050,fe70bd,feb7de,ffffff</sprite>
     </item>
     <item id="2136"
         image="equipment/head/armor-head-deserthat.png|R:#111111,222222,333333,444444,555555,aaaaaa"
@@ -4068,7 +4068,7 @@
         type="equip-head"
         defense="3"
         weight="10">
-			<sprite>head-deserthat.xml|#111111,222222,333333,444444,555555,aaaaaa</sprite>
+			<sprite>equipment/head/head-deserthat.xml|#111111,222222,333333,444444,555555,aaaaaa</sprite>
     </item>
     <item id="2137"
         image="equipment/head/armor-head-deserthat.png|R:#80280f,b04810,ef681f,ffb830"
@@ -4078,7 +4078,7 @@
         type="equip-head"
         defense="3"
         weight="10">
-			<sprite>head-deserthat.xml|#80280f,b04810,ef681f,ffb830</sprite>
+			<sprite>equipment/head/head-deserthat.xml|#80280f,b04810,ef681f,ffb830</sprite>
     </item>
     <item id="2138"
         image="equipment/head/armor-head-deserthat.png|R:#4f0a76,8010c0,d699f7"
@@ -4088,7 +4088,7 @@
         type="equip-head"
         defense="3"
         weight="10">
-			<sprite>head-deserthat.xml|#4f0a76,8010c0,d699f7</sprite>
+			<sprite>equipment/head/head-deserthat.xml|#4f0a76,8010c0,d699f7</sprite>
     </item>
     <item id="2139"
         image="equipment/head/armor-head-deserthat.png|R:#104010,208020,30c030"
@@ -4098,7 +4098,7 @@
         type="equip-head"
         defense="3"
         weight="10">
-			<sprite>head-deserthat.xml|#104010,208020,30c030</sprite>
+			<sprite>equipment/head/head-deserthat.xml|#104010,208020,30c030</sprite>
     </item>
 
     <item id="2140"
@@ -4109,7 +4109,7 @@
         type="equip-head"
         defense="2"
         weight="5">
-			<sprite>head-standardheadband.xml|#580000,A40000,C02020,ff6060</sprite>
+			<sprite>equipment/head/head-standardheadband.xml|#580000,A40000,C02020,ff6060</sprite>
     </item>
     <item id="2141"
         image="equipment/head/armor-head-standardheadband.png|W:#115511,22aa22,99dd99"
@@ -4119,7 +4119,7 @@
         type="equip-head"
         defense="2"
         weight="5">
-			<sprite>head-standardheadband.xml|#115511,22aa22,99dd99</sprite>
+			<sprite>equipment/head/head-standardheadband.xml|#115511,22aa22,99dd99</sprite>
     </item>
     <item id="2142"
         image="equipment/head/armor-head-standardheadband.png|W:#222255,6666ff"
@@ -4129,7 +4129,7 @@
         type="equip-head"
         defense="2"
         weight="5">
-			<sprite>head-standardheadband.xml|#222255,6666ff</sprite>
+			<sprite>equipment/head/head-standardheadband.xml|#222255,6666ff</sprite>
     </item>
     <item id="2143"
         image="equipment/head/armor-head-standardheadband.png|W:#846211,dab333,fffb93,ffffff"
@@ -4139,7 +4139,7 @@
         type="equip-head"
         defense="2"
         weight="5">
-			<sprite>head-standardheadband.xml|#846211,dab333,fffb93,ffffff</sprite>
+			<sprite>equipment/head/head-standardheadband.xml|#846211,dab333,fffb93,ffffff</sprite>
     </item>
     <item id="2144"
         image="equipment/head/armor-head-standardheadband.png|W:#16486e,498ec5,e4f2fc"
@@ -4149,7 +4149,7 @@
         type="equip-head"
         defense="2"
         weight="5">
-			<sprite>head-standardheadband.xml|#16486e,498ec5,e4f2fc</sprite>
+			<sprite>equipment/head/head-standardheadband.xml|#16486e,498ec5,e4f2fc</sprite>
     </item>
     <item id="2145"
         image="equipment/head/armor-head-standardheadband.png|W:#56002f,930050,fe70bd,feb7de,ffffff"
@@ -4159,7 +4159,7 @@
         type="equip-head"
         defense="2"
         weight="5">
-			<sprite>head-standardheadband.xml|#56002f,930050,fe70bd,feb7de,ffffff</sprite>
+			<sprite>equipment/head/head-standardheadband.xml|#56002f,930050,fe70bd,feb7de,ffffff</sprite>
     </item>
     <item id="2146"
         image="equipment/head/armor-head-standardheadband.png|W:#111111,222222,333333,444444,555555,aaaaaa"
@@ -4169,7 +4169,7 @@
         type="equip-head"
         defense="2"
         weight="5">
-			<sprite>head-standardheadband.xml|#111111,222222,333333,444444,555555,aaaaaa</sprite>
+			<sprite>equipment/head/head-standardheadband.xml|#111111,222222,333333,444444,555555,aaaaaa</sprite>
     </item>
     <item id="2147"
         image="equipment/head/armor-head-standardheadband.png|W:#80280f,b04810,ef681f,ffb830"
@@ -4179,7 +4179,7 @@
         type="equip-head"
         defense="2"
         weight="5">
-			<sprite>head-standardheadband.xml|#80280f,b04810,ef681f,ffb830</sprite>
+			<sprite>equipment/head/head-standardheadband.xml|#80280f,b04810,ef681f,ffb830</sprite>
     </item>
     <item id="2148"
         image="equipment/head/armor-head-standardheadband.png|W:#4f0a76,8010c0,d699f7"
@@ -4189,7 +4189,7 @@
         type="equip-head"
         defense="2"
         weight="5">
-			<sprite>head-standardheadband.xml|#4f0a76,8010c0,d699f7</sprite>
+			<sprite>equipment/head/head-standardheadband.xml|#4f0a76,8010c0,d699f7</sprite>
     </item>
     <item id="2149"
         image="equipment/head/armor-head-standardheadband.png|W:#104010,208020,30c030"
@@ -4199,7 +4199,7 @@
         type="equip-head"
         defense="2"
         weight="5">
-			<sprite>head-standardheadband.xml|#104010,208020,30c030</sprite>
+			<sprite>equipment/head/head-standardheadband.xml|#104010,208020,30c030</sprite>
     </item>
     <item id="2150"
         image="equipment/feet/armor-feet-boots.png|W:#580000,A40000,C02020,ff6060"
@@ -4209,8 +4209,8 @@
         type="equip-feet"
         defense="1"
         weight="10">
-			<sprite gender="male">equipment/feet/boots-male.xml|#580000,A40000,C02020,ff6060</sprite>
-			<sprite gender="female">equipment/feet/boots-female.xml|#580000,A40000,C02020,ff6060</sprite>
+			<sprite gender="male">equipment/feet/feet-boots-male.xml|#580000,A40000,C02020,ff6060</sprite>
+			<sprite gender="female">equipment/feet/feet-boots-female.xml|#580000,A40000,C02020,ff6060</sprite>
     </item>
     <item id="2151"
         image="equipment/feet/armor-feet-boots.png|W:#115511,22aa22,99dd99"
@@ -4220,8 +4220,8 @@
         type="equip-feet"
         defense="1"
         weight="10">
-			<sprite gender="male">equipment/feet/boots-male.xml|#115511,22aa22,99dd99</sprite>
-			<sprite gender="female">equipment/feet/boots-female.xml|#115511,22aa22,99dd99</sprite>
+			<sprite gender="male">equipment/feet/feet-boots-male.xml|#115511,22aa22,99dd99</sprite>
+			<sprite gender="female">equipment/feet/feet-boots-female.xml|#115511,22aa22,99dd99</sprite>
     </item>
     <item id="2152"
         image="equipment/feet/armor-feet-boots.png|W:#222255,6666ff"
@@ -4231,8 +4231,8 @@
         type="equip-feet"
         defense="1"
         weight="10">
-			<sprite gender="male">equipment/feet/boots-male.xml|#222255,6666ff</sprite>
-			<sprite gender="female">equipment/feet/boots-female.xml|#222255,6666ff</sprite>
+			<sprite gender="male">equipment/feet/feet-boots-male.xml|#222255,6666ff</sprite>
+			<sprite gender="female">equipment/feet/feet-boots-female.xml|#222255,6666ff</sprite>
     </item>
     <item id="2153"
         image="equipment/feet/armor-feet-boots.png|W:#846211,dab333,fffb93,ffffff"
@@ -4242,8 +4242,8 @@
         type="equip-feet"
         defense="1"
         weight="10">
-			<sprite gender="male">equipment/feet/boots-male.xml|#846211,dab333,fffb93,ffffff</sprite>
-			<sprite gender="female">equipment/feet/boots-female.xml|#846211,dab333,fffb93,ffffff</sprite>
+			<sprite gender="male">equipment/feet/feet-boots-male.xml|#846211,dab333,fffb93,ffffff</sprite>
+			<sprite gender="female">equipment/feet/feet-boots-female.xml|#846211,dab333,fffb93,ffffff</sprite>
     </item>
     <item id="2154"
         image="equipment/feet/armor-feet-boots.png|W:#16486e,498ec5,e4f2fc"
@@ -4253,8 +4253,8 @@
         type="equip-feet"
         defense="1"
         weight="10">
-			<sprite gender="male">equipment/feet/boots-male.xml|#16486e,498ec5,e4f2fc</sprite>
-			<sprite gender="female">equipment/feet/boots-female.xml|#16486e,498ec5,e4f2fc</sprite>
+			<sprite gender="male">equipment/feet/feet-boots-male.xml|#16486e,498ec5,e4f2fc</sprite>
+			<sprite gender="female">equipment/feet/feet-boots-female.xml|#16486e,498ec5,e4f2fc</sprite>
     </item>
     <item id="2155"
         image="equipment/feet/armor-feet-boots.png|W:#56002f,930050,fe70bd,feb7de,ffffff"
@@ -4264,8 +4264,8 @@
         type="equip-feet"
         defense="1"
         weight="10">
-			<sprite gender="male">equipment/feet/boots-male.xml|#56002f,930050,fe70bd,feb7de,ffffff</sprite>
-			<sprite gender="female">equipment/feet/boots-female.xml|#56002f,930050,fe70bd,feb7de,ffffff</sprite>
+			<sprite gender="male">equipment/feet/feet-boots-male.xml|#56002f,930050,fe70bd,feb7de,ffffff</sprite>
+			<sprite gender="female">equipment/feet/feet-boots-female.xml|#56002f,930050,fe70bd,feb7de,ffffff</sprite>
     </item>
     <item id="2156"
         image="equipment/feet/armor-feet-boots.png|W:#111111,222222,333333,444444,555555,aaaaaa"
@@ -4275,8 +4275,8 @@
         type="equip-feet"
         defense="1"
         weight="10">
-			<sprite gender="male">equipment/feet/boots-male.xml|#111111,222222,333333,444444,555555,aaaaaa</sprite>
-			<sprite gender="female">equipment/feet/boots-female.xml|#111111,222222,333333,444444,555555,aaaaaa</sprite>
+			<sprite gender="male">equipment/feet/feet-boots-male.xml|#111111,222222,333333,444444,555555,aaaaaa</sprite>
+			<sprite gender="female">equipment/feet/feet-boots-female.xml|#111111,222222,333333,444444,555555,aaaaaa</sprite>
     </item>
     <item id="2157"
         image="equipment/feet/armor-feet-boots.png|W:#80280f,b04810,ef681f,ffb830"
@@ -4286,8 +4286,8 @@
         type="equip-feet"
         defense="1"
         weight="10">
-			<sprite gender="male">equipment/feet/boots-male.xml|#80280f,b04810,ef681f,ffb830</sprite>
-			<sprite gender="female">equipment/feet/boots-female.xml|#80280f,b04810,ef681f,ffb830</sprite>
+			<sprite gender="male">equipment/feet/feet-boots-male.xml|#80280f,b04810,ef681f,ffb830</sprite>
+			<sprite gender="female">equipment/feet/feet-boots-female.xml|#80280f,b04810,ef681f,ffb830</sprite>
     </item>
     <item id="2158"
         image="equipment/feet/armor-feet-boots.png|W:#4f0a76,8010c0,d699f7"
@@ -4297,8 +4297,8 @@
         type="equip-feet"
         defense="1"
         weight="10">
-			<sprite gender="male">equipment/feet/boots-male.xml|#4f0a76,8010c0,d699f7</sprite>
-			<sprite gender="female">equipment/feet/boots-female.xml|#4f0a76,8010c0,d699f7</sprite>
+			<sprite gender="male">equipment/feet/feet-boots-male.xml|#4f0a76,8010c0,d699f7</sprite>
+			<sprite gender="female">equipment/feet/feet-boots-female.xml|#4f0a76,8010c0,d699f7</sprite>
     </item>
     <item id="2159"
         image="equipment/feet/armor-feet-boots.png|W:#104010,208020,30c030"
@@ -4308,8 +4308,8 @@
         type="equip-feet"
         defense="1"
         weight="10">
-			<sprite gender="male">equipment/feet/boots-male.xml|#104010,208020,30c030</sprite>
-			<sprite gender="female">equipment/feet/boots-female.xml|#104010,208020,30c030</sprite>
+			<sprite gender="male">equipment/feet/feet-boots-male.xml|#104010,208020,30c030</sprite>
+			<sprite gender="female">equipment/feet/feet-boots-female.xml|#104010,208020,30c030</sprite>
     </item>
     <item id="2160"
         image="equipment/hands/armor-hands-gloves.png|W:#580000,A40000,C02020,ff6060"
@@ -4319,8 +4319,8 @@
         type="equip-arms"
         defense="1"
         weight="10">
-			<sprite gender="male">hands-gloves-generic-male.xml|#580000,A40000,C02020,ff6060</sprite>
-			<sprite gender="female">hands-gloves-generic-female.xml|#580000,A40000,C02020,ff6060</sprite>
+			<sprite gender="male">equipment/hands/hands-gloves-generic-male.xml|#580000,A40000,C02020,ff6060</sprite>
+			<sprite gender="female">equipment/hands/hands-gloves-generic-female.xml|#580000,A40000,C02020,ff6060</sprite>
     </item>
     <item id="2161"
         image="equipment/hands/armor-hands-gloves.png|W:#115511,22aa22,99dd99"
@@ -4330,8 +4330,8 @@
         type="equip-arms"
         defense="1"
         weight="10">
-			<sprite gender="male">hands-gloves-generic-male.xml|#115511,22aa22,99dd99</sprite>
-			<sprite gender="female">hands-gloves-generic-female.xml|#115511,22aa22,99dd99</sprite>
+			<sprite gender="male">equipment/hands/hands-gloves-generic-male.xml|#115511,22aa22,99dd99</sprite>
+			<sprite gender="female">equipment/hands/hands-gloves-generic-female.xml|#115511,22aa22,99dd99</sprite>
     </item>
     <item id="2162"
         image="equipment/hands/armor-hands-gloves.png|W:#222255,6666ff"
@@ -4341,8 +4341,8 @@
         type="equip-arms"
         defense="1"
         weight="10">
-			<sprite gender="male">hands-gloves-generic-male.xml|#222255,6666ff</sprite>
-			<sprite gender="female">hands-gloves-generic-female.xml|#222255,6666ff</sprite>
+			<sprite gender="male">equipment/hands/hands-gloves-generic-male.xml|#222255,6666ff</sprite>
+			<sprite gender="female">equipment/hands/hands-gloves-generic-female.xml|#222255,6666ff</sprite>
     </item>
     <item id="2163"
         image="equipment/hands/armor-hands-gloves.png|W:#846211,dab333,fffb93,ffffff"
@@ -4352,8 +4352,8 @@
         type="equip-arms"
         defense="1"
         weight="10">
-			<sprite gender="male">hands-gloves-generic-male.xml|#846211,dab333,fffb93,ffffff</sprite>
-			<sprite gender="female">hands-gloves-generic-female.xml|#846211,dab333,fffb93,ffffff</sprite>
+			<sprite gender="male">equipment/hands/hands-gloves-generic-male.xml|#846211,dab333,fffb93,ffffff</sprite>
+			<sprite gender="female">equipment/hands/hands-gloves-generic-female.xml|#846211,dab333,fffb93,ffffff</sprite>
     </item>
     <item id="2164"
         image="equipment/hands/armor-hands-gloves.png|W:#16486e,498ec5,e4f2fc"
@@ -4363,8 +4363,8 @@
         type="equip-arms"
         defense="1"
         weight="10">
-			<sprite gender="male">hands-gloves-generic-male.xml|#16486e,498ec5,e4f2fc</sprite>
-			<sprite gender="female">hands-gloves-generic-female.xml|#16486e,498ec5,e4f2fc</sprite>
+			<sprite gender="male">equipment/hands/hands-gloves-generic-male.xml|#16486e,498ec5,e4f2fc</sprite>
+			<sprite gender="female">equipment/hands/hands-gloves-generic-female.xml|#16486e,498ec5,e4f2fc</sprite>
     </item>
     <item id="2165"
         image="equipment/hands/armor-hands-gloves.png|W:#56002f,930050,fe70bd,feb7de,ffffff"
@@ -4374,8 +4374,8 @@
         type="equip-arms"
         defense="1"
         weight="10">
-			<sprite gender="male">hands-gloves-generic-male.xml|#56002f,930050,fe70bd,feb7de,ffffff</sprite>
-			<sprite gender="female">hands-gloves-generic-female.xml|#56002f,930050,fe70bd,feb7de,ffffff</sprite>
+			<sprite gender="male">equipment/hands/hands-gloves-generic-male.xml|#56002f,930050,fe70bd,feb7de,ffffff</sprite>
+			<sprite gender="female">equipment/hands/hands-gloves-generic-female.xml|#56002f,930050,fe70bd,feb7de,ffffff</sprite>
     </item>
     <item id="2166"
         image="equipment/hands/armor-hands-gloves.png|W:#111111,222222,333333,444444,555555,aaaaaa"
@@ -4385,8 +4385,8 @@
         type="equip-arms"
         defense="1"
         weight="10">
-			<sprite gender="male">hands-gloves-generic-male.xml|#111111,222222,333333,444444,555555,aaaaaa</sprite>
-			<sprite gender="female">hands-gloves-generic-female.xml|#111111,222222,333333,444444,555555,aaaaaa</sprite>
+			<sprite gender="male">equipment/hands/hands-gloves-generic-male.xml|#111111,222222,333333,444444,555555,aaaaaa</sprite>
+			<sprite gender="female">equipment/hands/hands-gloves-generic-female.xml|#111111,222222,333333,444444,555555,aaaaaa</sprite>
     </item>
     <item id="2167"
         image="equipment/hands/armor-hands-gloves.png|W:#80280f,b04810,ef681f,ffb830"
@@ -4396,8 +4396,8 @@
         type="equip-arms"
         defense="1"
         weight="10">
-			<sprite gender="male">hands-gloves-generic-male.xml|#80280f,b04810,ef681f,ffb830</sprite>
-			<sprite gender="female">hands-gloves-generic-female.xml|#80280f,b04810,ef681f,ffb830</sprite>
+			<sprite gender="male">equipment/hands/hands-gloves-generic-male.xml|#80280f,b04810,ef681f,ffb830</sprite>
+			<sprite gender="female">equipment/hands/hands-gloves-generic-female.xml|#80280f,b04810,ef681f,ffb830</sprite>
     </item>
     <item id="2168"
         image="equipment/hands/armor-hands-gloves.png|W:#4f0a76,8010c0,d699f7"
@@ -4407,8 +4407,8 @@
         type="equip-arms"
         defense="1"
         weight="10">
-			<sprite gender="male">hands-gloves-generic-male.xml|#4f0a76,8010c0,d699f7</sprite>
-			<sprite gender="female">hands-gloves-generic-female.xml|#4f0a76,8010c0,d699f7</sprite>
+			<sprite gender="male">equipment/hands/hands-gloves-generic-male.xml|#4f0a76,8010c0,d699f7</sprite>
+			<sprite gender="female">equipment/hands/hands-gloves-generic-female.xml|#4f0a76,8010c0,d699f7</sprite>
     </item>
     <item id="2169"
         image="equipment/hands/armor-hands-gloves.png|W:#104010,208020,30c030"
@@ -4418,11 +4418,11 @@
         type="equip-arms"
         defense="1"
         weight="10">
-			<sprite gender="male">hands-gloves-generic-male.xml|#104010,208020,30c030</sprite>
-			<sprite gender="female">hands-gloves-generic-female.xml|#104010,208020,30c030</sprite>
+			<sprite gender="male">equipment/hands/hands-gloves-generic-male.xml|#104010,208020,30c030</sprite>
+			<sprite gender="female">equipment/hands/hands-gloves-generic-female.xml|#104010,208020,30c030</sprite>
     </item>
     <item id="2170"
-        image="equipment/legs/armor-legs-*miniskirt.png|W:#580000,a40000,c02020,ff6060"
+        image="equipment/legs/armor-legs-miniskirt.png|W:#580000,a40000,c02020,ff6060"
         name="Roter Minirock"
         description="Ein kurzer Rock für sehr heiße Sommertage. Schick."
         effect="+4% Defense"
@@ -4434,7 +4434,7 @@
 			<sprite gender="female">leg-miniskirt-female.xml|#580000,a40000,c02020,ff6060</sprite>
     </item>
     <item id="2171"
-        image="equipment/legs/armor-legs-*miniskirt.png|W:#115511,22aa22,99dd99"
+        image="equipment/legs/armor-legs-miniskirt.png|W:#115511,22aa22,99dd99"
         name="Grüner Minirock"
         description="Ein kurzer Rock für sehr heiße Sommertage. Schick."
         effect="+4% Defense"
@@ -4446,7 +4446,7 @@
 			<sprite gender="female">leg-miniskirt-female.xml|#115511,22aa22,99dd99</sprite>
     </item>
     <item id="2172"
-        image="equipment/legs/armor-legs-*miniskirt.png|W:#222255,6666ff"
+        image="equipment/legs/armor-legs-miniskirt.png|W:#222255,6666ff"
         name="Dunkelblauer Minirock"
         description="Ein kurzer Rock für sehr heiße Sommertage. Schick."
         effect="+4% Defense"
@@ -4458,7 +4458,7 @@
 			<sprite gender="female">leg-miniskirt-female.xml|#222255,6666ff</sprite>
     </item>
     <item id="2173"
-        image="equipment/legs/armor-legs-*miniskirt.png|W:#846211,dab333,fffb93,ffffff"
+        image="equipment/legs/armor-legs-miniskirt.png|W:#846211,dab333,fffb93,ffffff"
         name="Gelber Minirock"
         description="Ein kurzer Rock für sehr heiße Sommertage. Schick."
         effect="+4% Defense"
@@ -4470,7 +4470,7 @@
 			<sprite gender="female">leg-miniskirt-female.xml|#846211,dab333,fffb93,ffffff</sprite>
     </item>
     <item id="2174"
-        image="equipment/legs/armor-legs-*miniskirt.png|W:#16486e,498ec5,e4f2fc"
+        image="equipment/legs/armor-legs-miniskirt.png|W:#16486e,498ec5,e4f2fc"
         name="Hellblauer Minirock"
         description="Ein kurzer Rock für sehr heiße Sommertage. Schick."
         effect="+4% Defense"
@@ -4482,7 +4482,7 @@
 			<sprite gender="female">leg-miniskirt-female.xml|#16486e,498ec5,e4f2fc</sprite>
     </item>
     <item id="2175"
-        image="equipment/legs/armor-legs-*miniskirt.png|W:#56002f,930050,fe70bd,feb7de,ffffff"
+        image="equipment/legs/armor-legs-miniskirt.png|W:#56002f,930050,fe70bd,feb7de,ffffff"
        name="Pinker Minirock"
         description="Ein kurzer Rock für sehr heiße Sommertage. Schick."
         effect="+4% Defense"
@@ -4494,7 +4494,7 @@
 			<sprite gender="female">leg-miniskirt-female.xml|#56002f,930050,fe70bd,feb7de,ffffff</sprite>
     </item>
     <item id="2176"
-        image="equipment/legs/armor-legs-*miniskirt.png|W:#111111,222222,333333,444444,555555,aaaaaa"
+        image="equipment/legs/armor-legs-miniskirt.png|W:#111111,222222,333333,444444,555555,aaaaaa"
         name="Schwarzer Minirock"
         description="Ein kurzer Rock für sehr heiße Sommertage. Schick."
         effect="+4% Defense"
@@ -4506,7 +4506,7 @@
 			<sprite gender="female">leg-miniskirt-female.xml|#111111,222222,333333,444444,555555,aaaaaa</sprite>
     </item>
     <item id="2177"
-        image="equipment/legs/armor-legs-*miniskirt.png|W:#80280f,b04810,ef681f,ffb830"
+        image="equipment/legs/armor-legs-miniskirt.png|W:#80280f,b04810,ef681f,ffb830"
         name="Oranger Minirock"
         description="Ein kurzer Rock für sehr heiße Sommertage. Schick."
         effect="+4% Defense"
@@ -4518,7 +4518,7 @@
 			<sprite gender="female">leg-miniskirt-female.xml|#80280f,b04810,ef681f,ffb830</sprite>
     </item>
     <item id="2178"
-        image="equipment/legs/armor-legs-*miniskirt.png|W:#4f0a76,8010c0,d699f7"
+        image="equipment/legs/armor-legs-miniskirt.png|W:#4f0a76,8010c0,d699f7"
         name="Lilafarbener Minirock"
         description="Ein kurzer Rock für sehr heiße Sommertage. Schick."
         effect="+4% Defense"
@@ -4530,7 +4530,7 @@
 			<sprite gender="female">leg-miniskirt-female.xml|#4f0a76,8010c0,d699f7</sprite>
     </item>
     <item id="2179"
-        image="equipment/legs/armor-legs-*miniskirt.png|W:#104010,208020,30c030"
+        image="equipment/legs/armor-legs-miniskirt.png|W:#104010,208020,30c030"
         name="Dunkelgrüner Minirock"
         description="Ein kurzer Rock für sehr heiße Sommertage. Schick."
         effect="+4% Defense"
@@ -4578,8 +4578,8 @@
         weight="10"
         defense="10"
         max-per-slot="1">
-			<sprite gender="male">chest-assassinrobe-male.xml</sprite>
-			<sprite gender="female">chest-assassinrobe-female.xml</sprite>
+			<sprite gender="male">equipment/chest/chest-assassinrobe-male.xml</sprite>
+			<sprite gender="female">equipment/chest/chest-assassinrobe-female.xml</sprite>
     </item>
 	<item id="2205"
         image="equipment/head/armor-head-artcap.png"
@@ -4589,7 +4589,7 @@
         type="equip-head"
         defense="5"
         weight="10">
-			<sprite>head-artcap.xml|#BF0E08</sprite>
+			<sprite>equipment/head/head-artcap.xml|#BF0E08</sprite>
     </item>
 	<item id="2206"
         image="equipment/head/armor-head-elfhat.png"
@@ -4599,7 +4599,7 @@
         type="equip-head"
         defense="5"
         weight="10">
-			<sprite>head-elfhat.xml</sprite>
+			<sprite>equipment/head/head-elfhat.xml</sprite>
     </item>
 	<item id="2207"
         image="equipment/head/armor-head-majorhelm.png"
@@ -4609,7 +4609,7 @@
         type="equip-head"
         defense="10"
         weight="10">
-			<sprite>head-majorhelmet.xml</sprite>
+			<sprite>equipment/head/head-majorhelmet.xml</sprite>
     </item>
 	<item id="2208"
         image="equipment/head/armor-head-soldierhelm.png"
@@ -4619,19 +4619,19 @@
         type="equip-head"
         defense="8"
         weight="10">
-			<sprite>head-soldiershelmet.xml</sprite>
+			<sprite>equipment/head/head-soldiershelmet.xml</sprite>
     </item>
 	
 	<item id="2209"
-        image="equipment/legs/armor-legs-*saviorpants.png"
+        image="equipment/legs/armor-legs-saviorpants.png"
         name="Savior-Hose"
         description="Ein paar passende Hosen für dein Cape."
         effect="+15% Defense"
         type="equip-legs"
         defense="15"
         weight="40">
-			<sprite gender="male">legs-saviorpants-male.xml</sprite>
-			<sprite gender="female">legs-saviorpants-male.xml</sprite>
+			<sprite gender="male">equipment/legs/leg-saviorpants-male.xml</sprite>
+			<sprite gender="female">equipment/legs/leg-saviorpants-male.xml</sprite>
     </item>
     <item id="2210"
 		image="equipment/head/armor-head-jestermask.png"
@@ -4642,7 +4642,7 @@
         defense="30"
         weight="10"
 		max-per-slot="1">
-			<sprite>head-yestermask.xml</sprite>
+			<sprite>equipment/head/head-yestermask.xml</sprite>
     </item>
 	<item id="2211"
         image="equipment/head/armor-head-admincap.png"
@@ -4652,7 +4652,7 @@
         type="equip-head"
         defense="5"
         weight="10">
-			<sprite>head-admincap.xml</sprite>
+			<sprite>equipment/head/head-admincap.xml</sprite>
     </item>
     <item id="2212"
         image="generic/generic-feather.png"
@@ -4671,8 +4671,8 @@
         weight="275"
         defense="35"
         max-per-slot="1">
-			<sprite gender="male">chest-saviorarmor-white-male.xml</sprite>
-			<sprite gender="female">chest-saviorarmor-white-female.xml</sprite>
+			<sprite gender="male">equipment/chest/chest-saviorarmor-white-male.xml</sprite>
+			<sprite gender="female">equipment/chest/chest-saviorarmor-white-female.xml</sprite>
     </item>
 	<item id="2214"
         image="equipment/shields/armor-shield-dragon.png"
@@ -4695,7 +4695,7 @@
         weight="25"
         defense="4"
         max-per-slot="1">
-			<sprite>head-piratehat-br.xml</sprite>
+			<sprite>equipment/head/head-piratehat-br.xml</sprite>
     </item>
 	<item id="2216"
 		image="equipment/head/armor-head-afkcap.png"
@@ -4706,7 +4706,7 @@
         defense="5"
         weight="10"
 		max-per-slot="1">
-			<sprite>head-afkcap.xml</sprite>
+			<sprite>equipment/head/head-afkcap.xml</sprite>
     </item>
 	<item id="2217"
 		image="equipment/head/armor-head-chiefcrown.PNG"
@@ -4717,7 +4717,7 @@
         defense="5"
         weight="10"
 		max-per-slot="1">
-			<sprite>head-chiefcrown.xml</sprite>
+			<sprite>equipment/head/head-chiefcrown.xml</sprite>
     </item>
     <item id="2218"
 		image="equipment/head/armor-head-clownmask.PNG"
@@ -4728,7 +4728,7 @@
         defense="5"
         weight="10"
 		max-per-slot="1">
-			<sprite>head-clownmask.xml</sprite>
+			<sprite>equipment/head/head-clownmask.xml</sprite>
     </item>
 	
     <item id="2219"
@@ -4740,7 +4740,7 @@
         defense="30"
         weight="10"
 		max-per-slot="1">
-			<sprite>head-gladiator.xml</sprite>
+			<sprite>equipment/head/head-gladiator.xml</sprite>
     </item>
 	<item id="2220"
 		image="equipment/head/armor-head-overlordhelm.png"
@@ -4751,7 +4751,7 @@
         defense="30"
         weight="10"
 		max-per-slot="1">
-			<sprite>head-overlordhelm.xml</sprite>
+			<sprite>equipment/head/head-overlordhelm.xml</sprite>
     </item>
     <item id="2221"
 		image="equipment/head/armor-head-paladinhelm.png"
@@ -4762,7 +4762,7 @@
         defense="30"
         weight="10"
 		max-per-slot="1">
-			<sprite>head-paladinhelm.xml</sprite>
+			<sprite>equipment/head/head-paladinhelm.xml</sprite>
     </item>
 	<item id="2222"
 		image="equipment/head/armor-head-mapcap.png"
@@ -4773,7 +4773,7 @@
         defense="5"
         weight="10"
 		max-per-slot="1">
-			<sprite>head-mapcap.xml</sprite>
+			<sprite>equipment/head/head-mapcap.xml</sprite>
     </item>
 	<item id="2223"
 		image="equipment/head/armor-head-gorro-cerebro.png"
@@ -4783,7 +4783,7 @@
 		weight="35"
 		defense="5"
 		max-per-slot="1">
-			<sprite>head-gorro-cerebro.xml</sprite>
+			<sprite>equipment/head/head-gorro-cerebro.xml</sprite>
 	</item>
 <!-- will get removed later! -->
 	<item id="2224"
@@ -4794,9 +4794,9 @@
 		type="equip-ring"
 		weight="1"
 		max-per-slot="1">
-			<sprite>pet-cachorro.xml</sprite>
+			<sprite>pets/pet-cachorro.xml</sprite>
 	</item>
-<!-- will get removed later! -->
+<!-- will get removed later! (TODO wrong item inv. image)-->
 	<item id="2225"
 		image="pets/pet-fairy-blue.png"
 		name="Grüne Fee"
@@ -4805,7 +4805,7 @@
 		type="equip-ring"
 		weight="1"
 		max-per-slot="1">
-			<sprite>pet-fada.xml</sprite>
+			<sprite>pets/pet-fada.xml</sprite>
 	</item>
 <!-- will get removed later! -->
 	<item id="2226"
@@ -4816,7 +4816,7 @@
 		type="equip-ring"
 		weight="1"
 		max-per-slot="1">
-			<sprite>pet-fairy-red.xml</sprite>
+			<sprite>pets/pet-fairy-red.xml</sprite>
 	</item>	
 <!-- will get removed later! -->
 	<item id="2227"
@@ -4827,7 +4827,7 @@
 		type="equip-ring"
 		weight="1"
 		max-per-slot="1">
-			<sprite>pet-fairy-blue.xml</sprite>
+			<sprite>pets/pet-fairy-blue.xml</sprite>
 	</item>
 	
 	<item id="2228" 
@@ -4837,8 +4837,8 @@
       effect="Defense: +40" 
       type="equip-torso" 
       weight="40">
-	    <sprite gender="male">chest-saviorarmor-white-male.xml|#5b5b5b</sprite>
-	    <sprite gender="female">chest-saviorarmor-white-female.xml|#5b5b5b</sprite>
+	    <sprite gender="male">equipment/chest/chest-saviorarmor-white-male.xml|#5b5b5b</sprite>
+	    <sprite gender="female">equipment/chest/chest-saviorarmor-white-female.xml|#5b5b5b</sprite>
     </item>
     <item id="2229" 
 	  image="equipment/chest/armor-chest-saviorarmor-male.png|W:#3996f5" 
@@ -4847,8 +4847,8 @@
 	  effect="Defense: +40" 
 	  type="equip-torso" 
 	  weight="40">
-	    <sprite gender="male">chest-saviorarmor-white-male.xml|#3996f5</sprite>
-	    <sprite gender="female">chest-saviorarmor-white-female.xml|#3996f5</sprite>
+	    <sprite gender="male">equipment/chest/chest-saviorarmor-white-male.xml|#3996f5</sprite>
+	    <sprite gender="female">equipment/chest/chest-saviorarmor-white-female.xml|#3996f5</sprite>
     </item>
     <item id="2230" 
 	  image="equipment/chest/armor-chest-saviorarmor-male.png|W:#f72424" 
@@ -4857,8 +4857,8 @@
 	  effect="Defense: +40" 
 	  type="equip-torso" 
 	  weight="40">
-	    <sprite gender="male">chest-saviorarmor-white-male.xml|#f72424</sprite>
-	    <sprite gender="female">chest-saviorarmor-white-female.xml|#f72424</sprite>
+	    <sprite gender="male">equipment/chest/chest-saviorarmor-white-male.xml|#f72424</sprite>
+	    <sprite gender="female">equipment/chest/chest-saviorarmor-white-female.xml|#f72424</sprite>
     </item>
 <!--
 	<item id="2231"
@@ -4926,7 +4926,7 @@
 		type="equip-head"
 		weight="10"
 		max-per-slot="1">
-			<sprite>head-heartglasses.xml</sprite>
+			<sprite>equipment/head/head-heartglasses.xml</sprite>
 	</item>
 	<item id="2238"
 	  	image="equipment/weapons/weapon-bow-silverbow.png"
@@ -5168,11 +5168,11 @@
 	  effect="Atk+1 / Mbonus+75"
 	  type="equip-1hand"
 	  weight="5">
-	  	<sprite>particle_teddy.xml</sprite>
+	  	<sprite>equipment/weapon/weapon-magic-fist.xml</sprite>
 	</item>
 	<!-- aufrüstungsitems -->
 	<item id="3000"
-		image="equipment/legs/armor-legs-*chaps.png"
+		image="equipment/legs/armor-legs-chaps.png"
         name="Jeans Chaps +1"
         description="Eine aufgerüstete Jeans mit Schlangenleder."
         effect="+7% Defense"
@@ -5183,7 +5183,7 @@
 			<sprite gender="female">leg-chaps-female.xml</sprite>
 	</item>
 	<item id="3001"
-		image="equipment/legs/armor-legs-*chaps.png"
+		image="equipment/legs/armor-legs-chaps.png"
         name="Jeans Chaps +2"
         description="Eine aufgerüstete Jeans mit Schlangenleder."
         effect="+8% Defense"
@@ -5194,7 +5194,7 @@
 			<sprite gender="female">leg-chaps-female.xml</sprite>
 	</item>
 	<item id="3002"
-		image="equipment/legs/armor-legs-*chaps.png"
+		image="equipment/legs/armor-legs-chaps.png"
         name="Jeans Chaps +3"
         description="Eine aufgerüstete Jeans mit Schlangenleder."
         effect="+9% Defense"
@@ -5205,7 +5205,7 @@
 			<sprite gender="female">leg-chaps-female.xml</sprite>
 	</item>
 	<item id="3003"
-		image="equipment/legs/armor-legs-*chaps.png"
+		image="equipment/legs/armor-legs-chaps.png"
         name="Jeans Chaps +4"
         description="Eine aufgerüstete Jeans mit Schlangenleder."
         effect="+10% Defense"
@@ -5224,8 +5224,8 @@
         weight="250"
         defense="22"
         max-per-slot="1">
-			<sprite gender="male">chest-chainmail-male.xml</sprite>
-			<sprite gender="female">chest-chainmail-female.xml</sprite>
+			<sprite gender="male">equipment/chest/chest-chainmail-male.xml</sprite>
+			<sprite gender="female">equipment/chest/chest-chainmail-female.xml</sprite>
 	</item>
 	<item id="3011"
         image="equipment/chest/armor-chest-chainmail.png"
@@ -5236,8 +5236,8 @@
         weight="250"
         defense="24"
         max-per-slot="1">
-			<sprite gender="male">chest-chainmail-male.xml</sprite>
-			<sprite gender="female">chest-chainmail-female.xml</sprite>
+			<sprite gender="male">equipment/chest/chest-chainmail-male.xml</sprite>
+			<sprite gender="female">equipment/chest/chest-chainmail-female.xml</sprite>
 	</item>
 	<item id="3012"
         image="equipment/chest/armor-chest-chainmail.png"
@@ -5248,8 +5248,8 @@
         weight="250"
         defense="25"
         max-per-slot="1">
-			<sprite gender="male">chest-chainmail-male.xml</sprite>
-			<sprite gender="female">chest-chainmail-female.xml</sprite>
+			<sprite gender="male">equipment/chest/chest-chainmail-male.xml</sprite>
+			<sprite gender="female">equipment/chest/chest-chainmail-female.xml</sprite>
 	</item>
 	<item id="3013"
         image="equipment/chest/armor-chest-chainmail.png"
@@ -5260,8 +5260,8 @@
         weight="250"
         defense="26"
         max-per-slot="1">
-			<sprite gender="male">chest-chainmail-male.xml</sprite>
-			<sprite gender="female">chest-chainmail-female.xml</sprite>
+			<sprite gender="male">equipment/chest/chest-chainmail-male.xml</sprite>
+			<sprite gender="female">equipment/chest/chest-chainmail-female.xml</sprite>
 	</item>
 	<item id="3020"
         image="equipment/chest/armor-chest-lightplatemail.png|W:#ddeeff"
@@ -5272,8 +5272,8 @@
         weight="240"
         defense="26"
         max-per-slot="1">
-			<sprite gender="male">chest-lightplatemail-male.xml|#ddeeff</sprite>
-			<sprite gender="female">chest-lightplatemail-female.xml|#ddeeff</sprite>
+			<sprite gender="male">equipment/chest/chest-lightplatemail-male.xml|#ddeeff</sprite>
+			<sprite gender="female">equipment/chest/chest-lightplatemail-female.xml|#ddeeff</sprite>
 	</item>
 	<item id="3021"
         image="equipment/chest/armor-chest-lightplatemail.png|W:#ddeeff"
@@ -5284,8 +5284,8 @@
         weight="240"
         defense="27"
         max-per-slot="1">
-			<sprite gender="male">chest-lightplatemail-male.xml|#ddeeff</sprite>
-			<sprite gender="female">chest-lightplatemail-female.xml|#ddeeff</sprite>
+			<sprite gender="male">equipment/chest/chest-lightplatemail-male.xml|#ddeeff</sprite>
+			<sprite gender="female">equipment/chest/chest-lightplatemail-female.xml|#ddeeff</sprite>
 	</item>
 	<item id="3022"
         image="equipment/chest/armor-chest-lightplatemail.png|W:#ddeeff"
@@ -5296,8 +5296,8 @@
         weight="240"
         defense="28"
         max-per-slot="1">
-			<sprite gender="male">chest-lightplatemail-male.xml|#ddeeff</sprite>
-			<sprite gender="female">chest-lightplatemail-female.xml|#ddeeff</sprite>
+			<sprite gender="male">equipment/chest/chest-lightplatemail-male.xml|#ddeeff</sprite>
+			<sprite gender="female">equipment/chest/chest-lightplatemail-female.xml|#ddeeff</sprite>
 	</item>
 	<item id="3023"
         image="equipment/chest/armor-chest-lightplatemail.png|W:#ddeeff"
@@ -5308,8 +5308,8 @@
         weight="240"
         defense="29"
         max-per-slot="1">
-			<sprite gender="male">chest-lightplatemail-male.xml|#ddeeff</sprite>
-			<sprite gender="female">chest-lightplatemail-female.xml|#ddeeff</sprite>
+			<sprite gender="male">equipment/chest/chest-lightplatemail-male.xml|#ddeeff</sprite>
+			<sprite gender="female">equipment/chest/chest-lightplatemail-female.xml|#ddeeff</sprite>
 	</item>
 	<item id="3030"
         image="equipment/chest/armor-chest-warlordplate.png"
@@ -5320,8 +5320,8 @@
         weight="275"
         defense="28"
         max-per-slot="1">
-			<sprite gender="male">chest-warlordplate-male.xml</sprite>
-			<sprite gender="female">chest-warlordplate-female.xml</sprite>
+			<sprite gender="male">equipment/chest/chest-warlordplate-male.xml</sprite>
+			<sprite gender="female">equipment/chest/chest-warlordplate-female.xml</sprite>
 	</item>
 	<item id="3031"
         image="equipment/chest/armor-chest-warlordplate.png"
@@ -5332,8 +5332,8 @@
         weight="275"
         defense="29"
         max-per-slot="1">
-			<sprite gender="male">chest-warlordplate-male.xml</sprite>
-			<sprite gender="female">chest-warlordplate-female.xml</sprite>
+			<sprite gender="male">equipment/chest/chest-warlordplate-male.xml</sprite>
+			<sprite gender="female">equipment/chest/chest-warlordplate-female.xml</sprite>
 	</item>
 	<item id="3032"
         image="equipment/chest/armor-chest-warlordplate.png"
@@ -5344,8 +5344,8 @@
         weight="275"
         defense="30"
         max-per-slot="1">
-			<sprite gender="male">chest-warlordplate-male.xml</sprite>
-			<sprite gender="female">chest-warlordplate-female.xml</sprite>
+			<sprite gender="male">equipment/chest/chest-warlordplate-male.xml</sprite>
+			<sprite gender="female">equipment/chest/chest-warlordplate-female.xml</sprite>
 	</item>
 	<item id="3033"
         image="equipment/chest/armor-chest-warlordplate.png"
@@ -5356,8 +5356,8 @@
         weight="275"
         defense="31"
         max-per-slot="1">
-			<sprite gender="male">chest-warlordplate-male.xml</sprite>
-			<sprite gender="female">chest-warlordplate-female.xml</sprite>
+			<sprite gender="male">equipment/chest/chest-warlordplate-male.xml</sprite>
+			<sprite gender="female">equipment/chest/chest-warlordplate-female.xml</sprite>
 	</item>
 	<item id="3040"
         image="equipment/hands/armor-hands-minergloves.png"
@@ -5368,8 +5368,8 @@
         weight="20"
         defense="3"
         max-per-slot="1">
-			<sprite gender="male">hands-gloves-generic-male.xml|#202020,505050</sprite>
-			<sprite gender="female">hands-gloves-generic-female.xml|#202020,505050</sprite>
+			<sprite gender="male">equipment/hands/hands-gloves-generic-male.xml|#202020,505050</sprite>
+			<sprite gender="female">equipment/hands/hands-gloves-generic-female.xml|#202020,505050</sprite>
 	</item>
 	<item id="3041"
         image="equipment/hands/armor-hands-minergloves.png"
@@ -5380,8 +5380,8 @@
         weight="20"
         defense="4"
         max-per-slot="1">
-			<sprite gender="male">hands-gloves-generic-male.xml|#202020,505050</sprite>
-			<sprite gender="female">hands-gloves-generic-female.xml|#202020,505050</sprite>
+			<sprite gender="male">equipment/hands/hands-gloves-generic-male.xml|#202020,505050</sprite>
+			<sprite gender="female">equipment/hands/hands-gloves-generic-female.xml|#202020,505050</sprite>
 	</item>
 	<item id="3042"
         image="equipment/hands/armor-hands-minergloves.png"
@@ -5392,8 +5392,8 @@
         weight="20"
         defense="5"
         max-per-slot="1">
-			<sprite gender="male">hands-gloves-generic-male.xml|#202020,505050</sprite>
-			<sprite gender="female">hands-gloves-generic-female.xml|#202020,505050</sprite>
+			<sprite gender="male">equipment/hands/hands-gloves-generic-male.xml|#202020,505050</sprite>
+			<sprite gender="female">equipment/hands/hands-gloves-generic-female.xml|#202020,505050</sprite>
 	</item>
 	<item id="3043"
         image="equipment/hands/armor-hands-minergloves.png"
@@ -5404,8 +5404,8 @@
         weight="20"
         defense="6"
         max-per-slot="1">
-			<sprite gender="male">hands-gloves-generic-male.xml|#202020,505050</sprite>
-			<sprite gender="female">hands-gloves-generic-female.xml|#202020,505050</sprite>
+			<sprite gender="male">equipment/hands/hands-gloves-generic-male.xml|#202020,505050</sprite>
+			<sprite gender="female">equipment/hands/hands-gloves-generic-female.xml|#202020,505050</sprite>
 	</item>
 	<item id="3050"
         image="equipment/feet/armor-feet-boots.png|W:#4f2d29,c89078"
@@ -5416,8 +5416,8 @@
         weight="80"
         defense="3"
         max-per-slot="1">
-			<sprite gender="male">equipment/feet/boots-male.xml|#623a34,f0c2b4</sprite>
-			<sprite gender="female">equipment/feet/boots-female.xml|#623a34,f0c2b4</sprite>
+			<sprite gender="male">equipment/feet/feet-boots-male.xml|#623a34,f0c2b4</sprite>
+			<sprite gender="female">equipment/feet/feet-boots-female.xml|#623a34,f0c2b4</sprite>
 	</item>
 	<item id="3051"
         image="equipment/feet/armor-feet-boots.png|W:#4f2d29,c89078"
@@ -5428,8 +5428,8 @@
         weight="80"
         defense="4"
         max-per-slot="1">
-			<sprite gender="male">equipment/feet/boots-male.xml|#623a34,f0c2b4</sprite>
-			<sprite gender="female">equipment/feet/boots-female.xml|#623a34,f0c2b4</sprite>
+			<sprite gender="male">equipment/feet/feet-boots-male.xml|#623a34,f0c2b4</sprite>
+			<sprite gender="female">equipment/feet/feet-boots-female.xml|#623a34,f0c2b4</sprite>
 	</item>
 	<item id="3052"
         image="equipment/feet/armor-feet-boots.png|W:#4f2d29,c89078"
@@ -5440,8 +5440,8 @@
         weight="80"
         defense="5"
         max-per-slot="1">
-			<sprite gender="male">equipment/feet/boots-male.xml|#623a34,f0c2b4</sprite>
-			<sprite gender="female">equipment/feet/boots-female.xml|#623a34,f0c2b4</sprite>
+			<sprite gender="male">equipment/feet/feet-boots-male.xml|#623a34,f0c2b4</sprite>
+			<sprite gender="female">equipment/feet/feet-boots-female.xml|#623a34,f0c2b4</sprite>
 	</item>
 	<item id="3053"
         image="equipment/feet/armor-feet-boots.png|W:#4f2d29,c89078"
@@ -5452,8 +5452,8 @@
         weight="80"
         defense="6"
         max-per-slot="1">
-			<sprite gender="male">equipment/feet/boots-male.xml|#623a34,f0c2b4</sprite>
-			<sprite gender="female">equipment/feet/boots-female.xml|#623a34,f0c2b4</sprite>
+			<sprite gender="male">equipment/feet/feet-boots-male.xml|#623a34,f0c2b4</sprite>
+			<sprite gender="female">equipment/feet/feet-boots-female.xml|#623a34,f0c2b4</sprite>
 	</item>
 	<item id="3060"
         image="equipment/weapons/weapon-dagger-knive.png"
@@ -5823,7 +5823,7 @@
         type="equip-head"
         defense="19"
         weight="140">
-			<sprite>head-warlordhelm.xml</sprite>
+			<sprite>equipment/head/head-warlordhelm.xml</sprite>
 	</item>
 	<item id="3121"
         image="equipment/head/armor-head-warlordhelm.png"
@@ -5833,7 +5833,7 @@
         type="equip-head"
         defense="21"
         weight="140">
-			<sprite>head-warlordhelm.xml</sprite>
+			<sprite>equipment/head/head-warlordhelm.xml</sprite>
 	</item>
 	<item id="3122"
         image="equipment/head/armor-head-warlordhelm.png"
@@ -5843,7 +5843,7 @@
         type="equip-head"
         defense="23"
         weight="140">
-			<sprite>head-warlordhelm.xml</sprite>
+			<sprite>equipment/head/head-warlordhelm.xml</sprite>
 	</item>
 	<item id="3123"
         image="equipment/head/armor-head-warlordhelm.png"
@@ -5853,7 +5853,7 @@
         type="equip-head"
         defense="25"
         weight="140">
-			<sprite>head-warlordhelm.xml</sprite>
+			<sprite>equipment/head/head-warlordhelm.xml</sprite>
 	</item>
 	<item id="3130"
         image="equipment/head/armor-head-knighthelm.png"
@@ -5863,7 +5863,7 @@
         type="equip-head"
         defense="16"
         weight="90">
-			<sprite>head-knighthelm.xml</sprite>
+			<sprite>equipment/head/head-knighthelm.xml</sprite>
 	</item>
 	<item id="3131"
         image="equipment/head/armor-head-knighthelm.png"
@@ -5873,7 +5873,7 @@
         type="equip-head"
         defense="17"
         weight="90">
-			<sprite>head-knighthelm.xml</sprite>
+			<sprite>equipment/head/head-knighthelm.xml</sprite>
 	</item>
 	<item id="3132"
         image="equipment/head/armor-head-knighthelm.png"
@@ -5883,7 +5883,7 @@
         type="equip-head"
         defense="18"
         weight="90">
-			<sprite>head-knighthelm.xml</sprite>
+			<sprite>equipment/head/head-knighthelm.xml</sprite>
 	</item>
 	<item id="3133"
         image="equipment/head/armor-head-knighthelm.png"
@@ -5893,7 +5893,7 @@
         type="equip-head"
         defense="19"
         weight="90">
-			<sprite>head-knighthelm.xml</sprite>
+			<sprite>equipment/head/head-knighthelm.xml</sprite>
 	</item>
 	<item id="3140"
         image="equipment/head/armor-head-infantryhelm.png"
@@ -5903,7 +5903,7 @@
         type="equip-head"
         defense="15"
         weight="90">
-			<sprite>head-infantryhelm.xml</sprite>
+			<sprite>equipment/head/head-infantryhelm.xml</sprite>
 	</item>
 	<item id="3141"
         image="equipment/head/armor-head-infantryhelm.png"
@@ -5913,7 +5913,7 @@
         type="equip-head"
         defense="17"
         weight="90">
-			<sprite>head-infantryhelm.xml</sprite>
+			<sprite>equipment/head/head-infantryhelm.xml</sprite>
 	</item>
 	<item id="3142"
         image="equipment/head/armor-head-infantryhelm.png"
@@ -5923,7 +5923,7 @@
         type="equip-head"
         defense="18"
         weight="90">
-			<sprite>head-infantryhelm.xml</sprite>
+			<sprite>equipment/head/head-infantryhelm.xml</sprite>
 	</item>
 	<item id="3143"
         image="equipment/head/armor-head-infantryhelm.png"
@@ -5933,7 +5933,7 @@
         type="equip-head"
         defense="19"
         weight="90">
-			<sprite>head-infantryhelm.xml</sprite>
+			<sprite>equipment/head/head-infantryhelm.xml</sprite>
 	</item>
 	<item id="3150"
         image="equipment/head/armor-head-crusadehelm.png"
@@ -5943,7 +5943,7 @@
         type="equip-head"
         defense="18"
         weight="140">
-			<sprite>head-crusadehelm.xml</sprite>
+			<sprite>equipment/head/head-crusadehelm.xml</sprite>
 	</item>
 	<item id="3151"
         image="equipment/head/armor-head-crusadehelm.png"
@@ -5953,7 +5953,7 @@
         type="equip-head"
         defense="21"
         weight="140">
-			<sprite>head-crusadehelm.xml</sprite>
+			<sprite>equipment/head/head-crusadehelm.xml</sprite>
 	</item>
 	<item id="3152"
         image="equipment/head/armor-head-crusadehelm.png"
@@ -5963,7 +5963,7 @@
         type="equip-head"
         defense="23"
         weight="140">
-			<sprite>head-crusadehelm.xml</sprite>
+			<sprite>equipment/head/head-crusadehelm.xml</sprite>
 	</item>
 	<item id="3153"
         image="equipment/head/armor-head-crusadehelm.png"
@@ -5973,51 +5973,51 @@
         type="equip-head"
         defense="25"
         weight="140">
-			<sprite>head-crusadehelm.xml</sprite>
+			<sprite>equipment/head/head-crusadehelm.xml</sprite>
 	</item>
 	<item id="3160"
-        image="equipment/legs/armor-legs-*saviorpants.png"
+        image="equipment/legs/armor-legs-saviorpants.png"
         name="Savior Hose +1"
         description="Ein Aufgerüstetes Paar passende Hosen für dein Cape."
         effect="+18% Defense"
         type="equip-legs"
         defense="18"
         weight="40">
-			<sprite gender="male">legs-saviorpants-male.xml</sprite>
-			<sprite gender="female">legs-saviorpants-male.xml</sprite>
+			<sprite gender="male">equipment/legs/leg-saviorpants-male.xml</sprite>
+			<sprite gender="female">equipment/legs/leg-saviorpants-male.xml</sprite>
     </item>
 	<item id="3161"
-        image="equipment/legs/armor-legs-*saviorpants.png"
+        image="equipment/legs/armor-legs-saviorpants.png"
         name="Savior Hose +2"
         description="Ein Aufgerüstetes Paar passende Hosen für dein Cape."
         effect="+20% Defense"
         type="equip-legs"
         defense="20"
         weight="40">
-			<sprite gender="male">legs-saviorpants-male.xml</sprite>
-			<sprite gender="female">legs-saviorpants-male.xml</sprite>
+			<sprite gender="male">equipment/legs/leg-saviorpants-male.xml</sprite>
+			<sprite gender="female">equipment/legs/leg-saviorpants-male.xml</sprite>
     </item>
 	<item id="3162"
-        image="equipment/legs/armor-legs-*saviorpants.png"
+        image="equipment/legs/armor-legs-saviorpants.png"
         name="Savior Hose +3"
         description="Ein Aufgerüstetes Paar passende Hosen für dein Cape."
         effect="+22% Defense"
         type="equip-legs"
         defense="22"
         weight="40">
-			<sprite gender="male">legs-saviorpants-male.xml</sprite>
-			<sprite gender="female">legs-saviorpants-male.xml</sprite>
+			<sprite gender="male">equipment/legs/leg-saviorpants-male.xml</sprite>
+			<sprite gender="female">equipment/legs/leg-saviorpants-male.xml</sprite>
     </item>
 	<item id="3163"
-        image="equipment/legs/armor-legs-*saviorpants.png"
+        image="equipment/legs/armor-legs-saviorpants.png"
         name="Savior Hose +4"
         description="Ein Aufgerüstetes Paar passende Hosen für dein Cape."
         effect="+25% Defense"
         type="equip-legs"
         defense="25"
         weight="40">
-			<sprite gender="male">legs-saviorpants-male.xml</sprite>
-			<sprite gender="female">legs-saviorpants-male.xml</sprite>
+			<sprite gender="male">equipment/legs/leg-saviorpants-male.xml</sprite>
+			<sprite gender="female">equipment/legs/leg-saviorpants-male.xml</sprite>
     </item>
 	<item id="3170"
 		image="equipment/chest/armor-chest-saviorarmor-male.png"
@@ -6028,8 +6028,8 @@
         weight="275"
         defense="35"
         max-per-slot="1">
-			<sprite gender="male">chest-saviorarmor-white-male.xml</sprite>
-			<sprite gender="female">chest-saviorarmor-white-female.xml</sprite>
+			<sprite gender="male">equipment/chest/chest-saviorarmor-white-male.xml</sprite>
+			<sprite gender="female">equipment/chest/chest-saviorarmor-white-female.xml</sprite>
     </item>
 	<item id="3171"
 		image="equipment/chest/armor-chest-saviorarmor-male.png"
@@ -6040,8 +6040,8 @@
         weight="275"
         defense="35"
         max-per-slot="1">
-			<sprite gender="male">chest-saviorarmor-white-male.xml</sprite>
-			<sprite gender="female">chest-saviorarmor-white-female.xml</sprite>
+			<sprite gender="male">equipment/chest/chest-saviorarmor-white-male.xml</sprite>
+			<sprite gender="female">equipment/chest/chest-saviorarmor-white-female.xml</sprite>
     </item>
 	<item id="3172"
 		image="equipment/chest/armor-chest-saviorarmor-male.png"
@@ -6052,8 +6052,8 @@
         weight="275"
         defense="35"
         max-per-slot="1">
-			<sprite gender="male">chest-saviorarmor-white-male.xml</sprite>
-			<sprite gender="female">chest-saviorarmor-white-female.xml</sprite>
+			<sprite gender="male">equipment/chest/chest-saviorarmor-white-male.xml</sprite>
+			<sprite gender="female">equipment/chest/chest-saviorarmor-white-female.xml</sprite>
     </item>
 	<item id="3173"
 		image="equipment/chest/armor-chest-saviorarmor-male.png"
@@ -6064,8 +6064,8 @@
         weight="275"
         defense="35"
         max-per-slot="1">
-			<sprite gender="male">chest-saviorarmor-white-male.xml</sprite>
-			<sprite gender="female">chest-saviorarmor-white-female.xml</sprite>
+			<sprite gender="male">equipment/chest/chest-saviorarmor-white-male.xml</sprite>
+			<sprite gender="female">equipment/chest/chest-saviorarmor-white-female.xml</sprite>
     </item>
 	<item id="3180"
         image="equipment/shields/armor-shield-dragonheart.png"
@@ -6138,7 +6138,7 @@
         type="equip-head"
         defense="10"
 		weight="20">
-			<sprite>head-bunnyears.xml|#6B1212,9C1B1B,F63030</sprite>
+			<sprite>equipment/head/head-bunnyears.xml|#6B1212,9C1B1B,F63030</sprite>
     </item>
     <item id="4501"
         image="equipment/head/armor-head-bunnyears.png|W:#144A13,147725,14B825,14E725"
@@ -6148,7 +6148,7 @@
         type="equip-head"
         defense="10"
         weight="20">
-			<sprite>head-bunnyears.xml|#144A13,147725,14B825,14E725</sprite>
+			<sprite>equipment/head/head-bunnyears.xml|#144A13,147725,14B825,14E725</sprite>
     </item>
     <item id="4502"
         image="equipment/head/armor-head-bunnyears.png|W:#140A13,181242,211772,2823B9"
@@ -6158,7 +6158,7 @@
         type="equip-head"
         defense="10"
         weight="20">
-			<sprite>head-bunnyears.xml|#140A13,181242,211772,2823B9</sprite>
+			<sprite>equipment/head/head-bunnyears.xml|#140A13,181242,211772,2823B9</sprite>
     </item>
     <item id="4503"
         image="equipment/head/armor-head-bunnyears.png|W:#9E7423,BE9433,FED443"
@@ -6168,7 +6168,7 @@
         type="equip-head"
         defense="10"
         weight="20">
-			<sprite>head-bunnyears.xml|#9E7423,BE9433,FED443</sprite>
+			<sprite>equipment/head/head-bunnyears.xml|#9E7423,BE9433,FED443</sprite>
     </item>
     <item id="4504"
         image="equipment/head/armor-head-bunnyears.png|W:#526DAD,6A95C1,A3F4F8"
@@ -6178,7 +6178,7 @@
         type="equip-head"
         defense="10"
         weight="20">
-			<sprite>head-bunnyears.xml|#526DAD,6A95C1,A3F4F8</sprite>
+			<sprite>equipment/head/head-bunnyears.xml|#526DAD,6A95C1,A3F4F8</sprite>
     </item>
     <item id="4505"
         image="equipment/head/armor-head-bunnyears.png|W:#970890,BD1192,FA20F4"
@@ -6188,7 +6188,7 @@
         type="equip-head"
         defense="10"
         weight="20">
-			<sprite>head-bunnyears.xml|#970890,BD1192,FA20F4</sprite>
+			<sprite>equipment/head/head-bunnyears.xml|#970890,BD1192,FA20F4</sprite>
     </item>
     <item id="4506"
         image="equipment/head/armor-head-bunnyears.png|W:#101010,282828,404040"
@@ -6198,7 +6198,7 @@
         type="equip-head"
         defense="10"
         weight="20">
-			<sprite>head-bunnyears.xml|#101010,282828,404040</sprite>
+			<sprite>equipment/head/head-bunnyears.xml|#101010,282828,404040</sprite>
     </item>
     <item id="4507"
         image="equipment/head/armor-head-bunnyears.png|W:#64150F,C5331C,DC8A2D"
@@ -6208,7 +6208,7 @@
         type="equip-head"
         defense="10"
         weight="20">
-			<sprite>head-bunnyears.xml|#64150F,C5331C,DC8A2D</sprite>
+			<sprite>equipment/head/head-bunnyears.xml|#64150F,C5331C,DC8A2D</sprite>
     </item>
     <item id="4508"
         image="equipment/head/armor-head-bunnyears.png|W:#32185B,5C2197,7C32B7,8D43F8"
@@ -6218,7 +6218,7 @@
         type="equip-head"
         defense="10"
         weight="20">
-			<sprite>head-bunnyears.xml|#32185B,5C2197,7C32B7,8D43F8</sprite>
+			<sprite>equipment/head/head-bunnyears.xml|#32185B,5C2197,7C32B7,8D43F8</sprite>
     </item>
     <item id="4509"
         image="equipment/head/armor-head-bunnyears.png|W:#104010,208020,30c030"
@@ -6228,7 +6228,7 @@
         type="equip-head"
         defense="10"
         weight="20">
-			<sprite>head-bunnyears.xml|#104010,208020,30c030</sprite>
+			<sprite>equipment/head/head-bunnyears.xml|#104010,208020,30c030</sprite>
     </item>
 	 <item id="4510"
         image="equipment/head/armor-head-eggshell.png"
@@ -6238,7 +6238,7 @@
         defense="12"
         type="equip-head"
         weight="482">
-			<sprite>eggshell.xml</sprite>
+			<sprite>equipment/head/armor-head-eggshell.xml</sprite>
     </item>
 	<item id="4511"
 		image="pets/pet-cat.png"
@@ -6246,7 +6246,7 @@
 		description="eine kleine süße Katze. Schnurr..."
 		type="equip-ring"
 		weight="50">
-		<sprite>pet-katze.xml</sprite>
+		<sprite>pets/pet-cat.xml</sprite>
 	</item>
 	<item id="4512"
 		image="pets/pet-rat.png"
@@ -6254,7 +6254,7 @@
 		description="Eine kleine ähem... süße... ähem... Ratte."
 		type="equip-ring"
 		weight="50">
-		<sprite>pet-ratte.xml</sprite>
+		<sprite>pets/pet-rat.xml</sprite>
 	</item>
 		<item id="4513"
 		image="equipment/head/armor-head-knighthelm2.png"
@@ -6262,7 +6262,7 @@
 		description="Eine kleine ähwm... süße ähem... Ratte."
 		type="equip-ring"
 		weight="50">
-		<sprite>ritterhelm.xml</sprite>
+		<sprite>equipment/head/armor-head-knighthelm2.xml</sprite>
 	</item>
 	<item id="4514"
         image="equipment/accessoires/armor-neck-heart.png"
