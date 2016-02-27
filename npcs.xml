@@ -103,12 +103,12 @@
 <npc id="201">
    <!-- This entry demonstrates that an NPC can be constructed from multiple preexisting
    spritesets. While using the default player sprite and normal player equipment can save
-   time it is usually better to create a new NPC as one graphic from scratch. -->
+   time it is usually better to create a new NPC as one graphic from scratch. = Andra -->
    <sprite>player_female_base.xml</sprite>
    <sprite>equipment/feet/boots-female.xml|#4f2d29,c89078</sprite>
-   <sprite>leg-chaps-female.xml</sprite>
-   <sprite>chest-shorttanktop-female.xml</sprite>
-   <sprite>hairstyle11.xml|#bb2222,ffee33</sprite>
+   <sprite>equipment/legs/chaps-female.xml</sprite>
+   <sprite>equipment/chest/shorttanktop-female.xml</sprite>
+   <sprite>hairstyles/hairstyle11.xml|#bb2222,ffee33</sprite>
 </npc>
 <npc id="202">
    <!-- An NPC made only from a particle effect. -->
@@ -128,5 +128,23 @@
 </npc>
 	<npc id="209"><sprite variant="15">npcs/npc_reindeer.xml</sprite>
 </npc>
-<npc id="210"><sprite variant="84">npcs/npc.xml</sprite></npc><!-- Woman in a Yellow Dress -->
+<npc id="210"><sprite>npcs/npc-mia.xml</sprite></npc><!-- Woman in a Yellow Dress -->
+	
+	<npc id="211">	<!-- cloning my jaki -->
+	<sprite>player_male_base.xml</sprite>
+	<sprite>hairstyles/hairstyle06.xml|#000000,202020,404040,dddddd</sprite>
+	<sprite>equipment/chest/assassinrobe-male.xml</sprite>
+	<sprite>equipment/feet/black-boots.xml</sprite>
+	<!--<sprite>equipment/head/admincap.xml</sprite> -->
+      </npc>
+      <!-- the following are not sorted yet, so the following might get new ID's atm these are the id's from main.
+       die folgenden sind noch nicht gemacht, bekommen evtl neue ID's dann atm sind das die id's vom offi -->
+<!-- Woman in pink dress and white hair, wearing a circlet -->
+  <npc id="352">
+    <sprite variant="2">npcs/thermin_npcs.xml</sprite>
+  </npc>
+   <!-- Old man with long beard, wearing green clothing with white borders, holding a staff -->
+  <npc id="358">
+    <sprite variant="3">npcs/sages.xml</sprite>
+  </npc>   
 </npcs>
