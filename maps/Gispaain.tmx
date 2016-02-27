@@ -27,32 +27,32 @@
  <tileset firstgid="1443" name="inn_x4" tilewidth="32" tileheight="32">
   <image source="../graphics/tiles/inn_x4.png" trans="ff00ff" width="512" height="128"/>
  </tileset>
- <layer name="loxmarkers" width="180" height="180">
+ <layer name="loxmarkers" width="180" height="180" visible="0">
   <data encoding="base64" compression="zlib">
    eJzt2aENADAMA8HsP2qmKA8qaBVZupvA4JmrAAAAAAAAAAAAAAAAAPihtwcQ5baXja60DAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAECi3h5AHM0AAAAAAAAAkx8RAAAAAADgjQOxkwZn
   </data>
  </layer>
- <layer name="ground" width="180" height="180" visible="0">
+ <layer name="Ground" width="180" height="180">
   <data encoding="base64" compression="zlib">
    eJztwzEJAAAMA7DC/AvuVxM7E0gvqaqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqPh9mfZ0F
   </data>
  </layer>
- <layer name="ground extra" width="180" height="180">
+ <layer name="Ground2" width="180" height="180">
   <data encoding="base64" compression="zlib">
    eJzt2F1Kw0AYhtFAQLyPO0h3YLzwdwm6BJfgInTT8coZmMJQP9PSihP1HHghpEmvHkJI1wEAAAAAAAAAAAAAAAAAwP8x913Xp52V1cfRztMev7gu/5b/D1rJ/Q1pF2X1cbRh4bpBzzSW+xvTNmX1cbRx4bpRzzSW+7tOu0m7Tbtc2FRte+4u7T7toZzXMy3NexrWM7/JqT3vntczLemZv+TYnn2vY43m4Hl7SM++17FGx/bsex1rdEjPr2lvwfvzUzA909L2/XkKel16Puc9B9MzLc1Bp1dldZvv/ed7XoLpmZainqeg51PvgZ/wnT37/gwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA1D4AD7FXRA==
   </data>
  </layer>
- <layer name="fringe" width="180" height="180">
+ <layer name="Fringe" width="180" height="180">
   <data encoding="base64" compression="zlib">
    eJzt1rtOFVEYBeCdDKfwgqUERRpIjFJKhT4Bl5bicHgBLhXnmKihMjQYKy+Nj2DvI/goUNFCyyIMIQwBgiQyhO9LVvbes2eSKVbxlwIAAAAAAAAAAAAAAAAAAPfLg6qUh8mj6vj863Z/B25kND1+ljyv+/y7fr7RKaWfDJL3nfPfPa1O9y+r8/dwG16li6+TqUYnP6fDf5Ot5E+jz5P1eWaolLfJu6H/869wlZ0Lnn9LZ78nP5KfjT5P1+fZ9HgumddnWmK/Xnf/4dtueryU9PSZFtlLDur9RuaOfjKozu7hrvhYnV3hrvqUDm/XPT5aNy/p9Ad9p+W+pKOPk+HkSfL1mp0d0XFaZiydfJGMN7q5eElX53O3kEx0SpnNOqfXtEhzhr5qtujlfjl5kz53sy7pMy1xnRn6xFreWa/fW8m6qs+0xE1naGiLk7niohkaAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADuu0MrCyRC
   </data>
  </layer>
- <layer name="over" width="180" height="180">
+ <layer name="Over" width="180" height="180">
   <data encoding="base64" compression="zlib">
    eJzt2D0KwkAQgNFA7iZWNlY2Noo/jUdIm842nTfzIHYOqBCCRhHB3eU9GLJliq/YnaoCAAAAAAAAAAAAAAAAAADGzOp//wH8zlLPFOSgZzI37TXc6JnEnXvnVfS6rW/fdcwmZtdr+KhnCtFGyyc9U4guWr6MDKTgcbeYf9CkfR05WkS3kyft2teRo/2Lbu3rKIl9HSlr730O79DDd553Hzno9AmQpG92yfbPAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMA7V4IzJk8=
   </data>
  </layer>
- <layer name="collision" width="180" height="180">
+ <layer name="Collision" width="180" height="180">
   <data encoding="base64" compression="zlib">
    eJzt1ksKwkAABcGQ+x/afZCoMB/pVMEDIRsXPcOcx3GcZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZjeDnXb374ww0u5W9cxIu1vVMyPNbHBEi3rmF7vu0/Pm9+gzwXOsuJs/dX/XrJ75xT+8d/XMKLt7nnE+eK6Z741ve9Qzo6y+n9991zOjrOx59Nsarv6h5+sb5fq/4Fsze/70pp51p/NcM3q+u4dXvFF4rtXvDT0z06z7ecX5gCvtUaJnSvRMiZ4p0TMleqZEz5TomRI9U6JnSvRMiZ4p0TMleqZEz5TomRI9U6JnSvRMiZ4p0TMleqZEz5TomRI9U6JnSvRMiZ4p0TMleqZEz5TomRI9U6JnSvRMiZ4p0TMleqZEz5TomRI9U6JnSvRMiZ4p0TMleqZEz5TomRI9U6JnSvRMiZ4p0TMleqZEz5TomRI9U6JnSvRMiZ4p0TMleqZEz5TomRI9U6JnSvRMiZ4p0TMleqZEz5TomRI9U6JnSvRMiZ4p0TMleqZEz5TomRI9U6JnSvRMiZ4p0TMleqZEz5TomRI9U6JnSvRMiZ4p0TMleqZEz5TomRI9U6JnSvRMiZ4p0TMleqZEz5TomRI9U6JnSvRMiZ4p0TMleqZEz5TomRI9U6JnSvRMiZ4p0TMleqZEz5TomRI9U6JnSvRMiZ4p0TMleqZEz5TomRI9U6JnSvRMiZ4p0TMleqZEz5TomRI9U6JnSvRMiZ4p0TMleqZEz5S8AKzeNos=
   </data>

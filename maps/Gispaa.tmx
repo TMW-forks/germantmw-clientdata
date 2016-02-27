@@ -33,7 +33,7 @@
   <image source="../graphics/tiles/tulimshar1.png" trans="ff00ff" width="512" height="512"/>
  </tileset>
  <tileset firstgid="1063" name="trans_woodland-desert" tilewidth="32" tileheight="32">
-  <image source="../graphics/tiles/trans_woodland-desert.png" trans="ff00ff" width="512" height="352"/>
+  <image source="../graphics/tiles/trans_woodland-desert.png" trans="ff00ff" width="512" height="256"/>
  </tileset>
  <layer name="ground" width="123" height="103">
   <data encoding="base64" compression="zlib">
@@ -75,7 +75,7 @@
    eJztzikOgEAUREHQXJhFs2i4LJKRhIxAEP4QqpIn2nVVAQAAAADAe5o6+gEAAADwBXv0gYvS/gAAAADwP22qy9RnGoI+8owxNZ2aT133EvQRAAAAAAAAAKBUa2qLPgEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA3HYA0y0PIw==
   </data>
  </layer>
- <layer name="collision" width="123" height="103" visible="0">
+ <layer name="Collision" width="123" height="103">
   <data encoding="base64" compression="zlib">
    eJztkluO5SAMBaO7/0XP10itKIAfBwxJHanUPdPE2C5+13X9AAAAAAAAAAAAAAAAAAAAAAAAAGAJl/GM5RzE9v+UTC3vXar7v4Z3T6pdW771pHqPFd68u/DuSb1XVVp1q52s9qzch3p/rT7Vqfaz0nNkD9bzvRqe3i3vMJNqT9Wee3uwnL3/X6tWr3/F+8jMeQrK/G4/e+c87yFzXr2Lal+rXI++/TV+79Wz3meNYh/VTqpct86O/m1J5JtRnep97s5oj09e7/uNxPreet+2avRqV++7mlYyPlq1LD2MzlnqeOeqdlDt2/IerPH0oHA9q8e3MJo9E08Pmb/f+8y877djmbt3phVVH6PgWu971Q5b6fVqvXdU+ytkZ1fuz1sneq+q3xNRzO7JLn2r+zkBqwvr3y1R9l31Vk7kKdH34PXe+jbj2vu9Z67T8WTWHbie79jrOrobTy1r/dYZa1+ZeU7j+vOzNbc1CtfRmlHXllpvIZqZ97XORepFe6v2sotn9S689/69X9XnzPl2IZoVfazqb8V8O2CdzbqL7J4UUdxX7WV316pdRaO8q9qL0u8M16N6nh16o/Bc7SXrVLUrZVRzqXdT7Wul6968ylS7ntXXjowy0/NT/ZWuZ/a1I6NYzvZqz96ptc79zlGqvax0HT3neUf371v3ql17+3oLljkVO5kRq+to7bdhnS+7k6dvLOn1gOu468g+PHtRp+e6df6teKKqtYPrSG+nY43yzbTqRe59+nbmez6Z7Pyz450j21O1j5Wu1e8km1muLXNUu5nhWvVOZsR7t7W3r7nOzGXdSzZR1zPvPpHMXNa9ZJNx7emh2sXbXKv8P9XKvrVqFyt9r3hPq4LrsYsdXKveyA6z74ZnR5GdWOtmaveC6/6+TnSdnb3aQ5Xr1uyZ4LqeXlSe77UqXGf6ewvqRFxYzuBa43rFO1D4wvXcd2DdhzKRelnXlhpvxrOLbGa9m/+1I33AHNcz4+3vfr56tyezMor7qvd1Mtm9WqN6W9X7+jIeB15vT6me98tYHTwl8o31W6hx3Urknuj3MNe12o+yFsT2b3Gs8qOsBQAAAAAAAAAAAAAAAAAAAAAAAKDkH/3tUmM=
   </data>
