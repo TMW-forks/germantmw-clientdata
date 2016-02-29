@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="150" height="150" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="collision" tilewidth="32" tileheight="32">
+  <image source="../graphics/tiles/collision.png" width="64" height="32"/>
+ </tileset>
+ <tileset firstgid="3" name="Desert" tilewidth="32" tileheight="32">
+  <image source="../graphics/tiles/Desert.png" width="704" height="704"/>
+ </tileset>
+ <tileset firstgid="487" name="desert1" tilewidth="32" tileheight="32">
+  <image source="../graphics/tiles/desert1.png" width="512" height="512"/>
+ </tileset>
+ <tileset firstgid="743" name="desert2" tilewidth="32" tileheight="32">
+  <image source="../graphics/tiles/desert2.png" width="512" height="512"/>
+ </tileset>
+ <tileset firstgid="999" name="desert_x2" tilewidth="32" tileheight="32">
+  <image source="../graphics/tiles/desert_x2.png" width="512" height="64"/>
+ </tileset>
+ <tileset firstgid="1031" name="trans_woodland-desert" tilewidth="32" tileheight="32">
+  <image source="../graphics/tiles/trans_woodland-desert.png" width="512" height="352"/>
+ </tileset>
+ <tileset firstgid="1207" name="tulimshar1" tilewidth="32" tileheight="32">
+  <image source="../graphics/tiles/tulimshar1.png" width="512" height="512"/>
+ </tileset>
+ <layer name="Ground" width="150" height="150">
+  <data encoding="base64" compression="zlib">
+   eJzt2L1NA0EQgNGVRSvuyzE4dYJpgJ8eHNgtIGEXAZRAcFACMbMhG6ytY5cL7gUvPJ1G+qRZzfIqpSUAAAAAAAAAAAAAAAAAAAAw2iqldF/R4h83i9+mnpn+cle7ius/NrGOb7aFqWemv9zVc8Vt0UTZWU1u6i48FqaemX7yjttcsOceiibKzmpyU086mpW84z5GvJ/Kzmo0NT95/303epfDOfto7aA3GnqJno7hpCsaeo2e3sK7rmhoiJ4+w5euAAD+lVsErblF0INbBD0MbhEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwAg/xRBDyQ==
+  </data>
+ </layer>
+ <layer name="Fringe" width="150" height="150">
+  <data encoding="base64" compression="zlib">
+   eJzt2kFKw0AUBuAgFbyCp3DjJRTFnct25wFEPIWn8DKtXqDqBdSeok+oIAWbKc401Pd98JNFJsksfl4gpOsAAAAAAAAAAAAAAAAAANo5GnoDABuMIodDb4J/4a7n/G3j+8OXbXqmU0AN37PkftBdsO/WvxtMVseHyHHlZ00PKt+QvTFeHR+3uOakcN1cr9Ka9C8pNh113SzyFHmOXOlVWuP+JcXm0aWXyGvkTa9Sqzmv3qNLH5HPyEKvUqs5r9ZdR69OIzf6lU7LXv10plup1HwPbqJXueyqV+d6lUrJe7DG/w3mFS2YV7RgXvGbyz90w7zKqeQ/9gvdAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEhlCeZyGQo=
+  </data>
+ </layer>
+ <layer name="Over" width="150" height="150">
+  <data encoding="base64" compression="zlib">
+   eJzt2UEKgzAQBdBBvFStddnirbxVa0/nFFyUIhi7EcJ78ElmN4shkCQCAAAAAAAAAAAAAAAAAAAAAAAA2PNsI16ZOfNuz+4GAKBulyaiy9y+VgAAoNzj7Aao1pi5r+u4UX/2gzscULneOceO68EZMVOUKpmt3ps6f/j9k1kzZT2ZJwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAarIAkNcLlQ==
+  </data>
+ </layer>
+ <layer name="Collision" width="150" height="150">
+  <data encoding="base64" compression="zlib">
+   eJzt1MGK21AUBFEz///R2cYTEjITxSX3OwUFWhgLbjX6eDweHyRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJftM/8b///zTq1nfa1r/cBc/UnV+1pa9u6srfnUjd/FW7ugLfqb+nbm5Xm9TN33FXn5/xK3Xzd9rVZ3y3fk/d/J139TPVe+9K3dyuNqmb29UmdfM77OqKHdjVM3XzO+zqCuzqmbr5yrbs6pm69528+o4nU7e8k1ff8WTqlnfzyhueTN3xjl51v5OpG97VK+52MnW/ZU+mvv2yJ1PfftmTqW+/7MnUt1/2ZOrbL3sy9e2XPZn69sueTH17nTepW9vVJnVru9qkbm1Xm9St7WqTurVdbVK3tqtN6tZ2tUnd2q42qVvb1SZ1a7vapG5tV5vUre1qk7q1XW1St7arTerWdrVJ3dquNqlb29UmdWu72qRubVeb1K3tapO6tV1tUre2q03q1na1Sd3arjapW9vVJnVru9qkbm1Xm9St7WqTurVdbVK3tqtN6tZ2tUnd2q42qVvb1SZ1a7vapG5tV5vUre1qk7q1XW1St7arTerWdrVJ3dquNqlb29UmdWu72qRubVeb1K3tapO6tV1tUre2q03q1na1Sd3arjapW9vVJnVru9qkbm1Xm9St7WqTurVdbVK3tqtN6tZ2tUnd2q42qVvb1SZ1a7vapG5tV5vUre1qk7q1XW1St7arTerWdrVJ3dquNqlbkyRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJknyNPwAFnXHt
+  </data>
+ </layer>
+ <objectgroup name="Objects" width="150" height="150" visible="0">
+  <object name="ToHouse_N1" type="Warp" x="1537" y="1121" width="28" height="30"/>
+  <object name="ToCave_N2" type="Warp" x="899" y="1024" width="28" height="30"/>
+  <object name="Maggot" type="Spawn" x="1263" y="1209" width="387" height="237"/>
+ </objectgroup>
+</map>
